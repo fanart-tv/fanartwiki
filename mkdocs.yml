@@ -1,3 +1,34 @@
-site_name: My Docs
+site_name: Fanart.tv Wiki
+site_description: Welcome to the Fanart.tv Docs
+site_author: akovia
+site_url: https://wiki.fanart.tv
+
+repo_url: https://github.com/KodeStar/fanartwiki
+repo_name: fanart.tv/site-documentation
+edit_uri: ""
+
+plugins:
+  - search
+
 theme:
   name: material
+  features:
+    - navigation.instant
+  language: en
+  favicon: assets/images/favicon.ico
+  logo: assets/images/fatv-logo.png
+  palette:
+    primary: royal
+    accent: indigo
+  
+nav:
+    - Home: 'index.md'
+    - FAQ: 'General/faq.md'
+    - Rules:
+        Movie Images:
+            - HD-MovieLogo: 'ImageTypes/hdmovielogo.md'
+        TV Images:
+            - HD-TVLogo: 'ImageTypes/hdtvlogo.md'        
+        Music Images:
+            - HD-MusicLogo: 'ImageTypes/hdmusiclogo.md'        
+

@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome to the Fanart.tv Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Here you will find all the information needed to participate in contributing to Fanart.tv
 
-## Commands
+You can navigate using the menus on the left, or use the search at the top of the page.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Site Motto: No image is better than a bad image
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
