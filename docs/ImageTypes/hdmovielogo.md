@@ -17,5 +17,7 @@
 * Logo color should be authentic to the original logo. If the original logo has a dark color, a white version is allowed.
 * A limit of 4 logos per movie per user. This can be any combination of Language. No Exceptions.
 
-![Image](../assets/images/saw-iv-503bdbca27479.png) 
+&nbsp;
+
+
 ![Image](../assets/images/sizing-template-logo.jpg)
