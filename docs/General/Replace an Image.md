@@ -10,43 +10,54 @@ Lastly, the original uploader will always get the first crack as replacing their
 &nbsp;  
 &nbsp;  
 
-## 1.) Report image for replacement.
+## __1.) Report image for replacement.__
 
 Reporter waits 10 days before doing anything else to see if image was replaced by original uploader.
 
 ![Report Image](../assets/images/2- Image_Reported.gif) 
 
 &nbsp;  
-##2.) Moderator gets report and marks image as needing replaced.
+##__2.) Report is moderated__
+
+Moderator detmines if image is a replacement candidate and marks for replacement if it is.
 
 ![Report Image](../assets/images/3-Mod_Image_Reported.jpg)
 
 &nbsp;  
-##3.) This will send a message to the original uploader and give them a chance to respond.
+##__3.) Original Uploader notified__
 
-If original uploader submits an improved image within the 10 days, this will conclude the report.
+  * This will send a message to the original uploader and give them a chance to respond.
+  * If original uploader submits an improved image within the 10 days, this will conclude the report.
 
 ![Report Image](../assets/images/4-Original_Uploader_Notice.jpg)
 
 &nbsp;  
-##4.) If the original uploader does not respond within 10 days, the reporter can then use the "Replace Image" button to upload his replacement.
+##__4.) Submit replacement__
+
+If the original uploader does not respond within 10 days, the reporter can then use the "Replace Image" button to upload his replacement. Please note that *anyone* can submit a replacement after the initial 10 days.
 
 ![Report Image](../assets/images/5a-Replace_Reason.gif)
 
 &nbsp;  
 
-##5.) Uploader should use the comment section to descibe that this is a replacement.
+##__5.) Submit with comment__
+
+Uploader should use the comment section to descibe that this is a replacement.
 
 ![Report Image](../assets/images/5b-Replace_Dialog.jpg)
 
 &nbsp;  
 
-##6.) A moderator can then determine if the uploaded version is worthy to replace the original or not.
+##__6.) Image is moderated__
 
-If the mod uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.
+A moderator can then determine if the uploaded version is worthy to replace the original or not.
+
+*If the moderator uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.*
 
 ![Report Image](../assets/images/6-Mod_Image_Final.jpg)
 
 &nbsp;  
 
 If the reporter can not meet the requirements after one denial, the moderator has the option of removing the “Image needs replacing” tag on the image.
+
+
