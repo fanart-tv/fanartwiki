@@ -10,13 +10,43 @@ Lastly, the original uploader will always get the first crack as replacing their
 &nbsp;  
 &nbsp;  
 
-## __1.) Report image for replacement.__
+## 1.) Report image for replacement.
 
 Reporter waits 10 days before doing anything else to see if image was replaced by original uploader.
 
 ![Report Image](../assets/images/2- Image_Reported.gif) 
 
 &nbsp;  
-##__2.) Moderator gets report and marks image as needing replaced.__
+##2.) Moderator gets report and marks image as needing replaced.
 
 ![Report Image](../assets/images/3-Mod_Image_Reported.jpg)
+
+&nbsp;  
+##3.) This will send a message to the original uploader and give them a chance to respond.
+
+If original uploader submits an improved image within the 10 days, this will conclude the report.
+
+![Report Image](../assets/images/4-Original_Uploader_Notice.jpg)
+
+&nbsp;  
+##4.) If the original uploader does not respond within 10 days, the reporter can then use the "Replace Image" button to upload his replacement.
+
+![Report Image](../assets/images/5a-Replace_Reason.gif)
+
+&nbsp;  
+
+##5.) Uploader should use the comment section to descibe that this is a replacement.
+
+![Report Image](../assets/images/5b-Replace_Dialog.jpg)
+
+&nbsp;  
+
+##6.) A moderator can then determine if the uploaded version is worthy to replace the original or not.
+
+If the mod uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.
+
+![Report Image](../assets/images/6-Mod_Image_Final.jpg)
+
+&nbsp;  
+
+If the reporter can not meet the requirements after one denial, the moderator has the option of removing the “Image needs replacing” tag on the image.
