@@ -19,7 +19,7 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 &nbsp;  
 ##__2.) Report is moderated__
 
-*  Moderator determines if image is a replacement candidate and marks it for replacement if it is.
+* Moderator determines if image is a replacement candidate and marks it for replacement if it is.
 
 * If reported image is not accepted as a candidate for replacement, the image will be marked <u>**Image is fine**</u> and no further actions are needed.
 
@@ -28,15 +28,15 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 &nbsp;  
 ##__3.) Original Submitter notified__
 
-* Marking an image for replacement will send a message to the original submitter and give them a chance to respond.
-  *  *Moderators should link this wiki page in the message that goes out to the original submitter.*
++ Marking an image for replacement will send a message to the original submitter and give them a chance to respond.
+    + *Moderators should link this wiki page in the message that goes out to the original submitter.*
 
 ![Report Image](../assets/images/4-Original_Uploader_Notice.jpg)
 
 &nbsp;  
 ##__4.) Submit replacement__
 
-*  Any user may now upload a replacement submission. All submissions will be held until 7 days have passed from the original report, allowing for anyone to make submissions to be considered.
+* Any user may now upload a replacement submission. All submissions will be held until 7 days have passed from the original report, allowing for anyone to make submissions to be considered.
 
 ![Report Image](../assets/images/5a-Replace_Reason.gif)
 
@@ -60,14 +60,8 @@ All submissions should use the comment section to indicate it is a replacement s
 
 * If no submission can overcome the superior image threshold, the submissions will be denied and given one chance to make an acceptable replacement. First submission at that point will be accepted.
 
-* Image will be marked **<u>Image is fine</u>**, is no replacement is deemed acceptable.
-
-
+* Image will be marked **<u>Image is fine</u>**, if no replacement is deemed acceptable.
 
 ![Report Image](../assets/images/6-Mod_Image_Final.jpg)
 
 `If the moderator uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.`
-
-
-
-
