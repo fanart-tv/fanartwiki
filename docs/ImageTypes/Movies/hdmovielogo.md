@@ -2,8 +2,11 @@
 
 * Movie Logos are images of a movie logo/name with a transparent background
 * Can be used while browsing your media center library as a recognizable navigation item
+
 ---
+
 ## Rules Synopsis
+
 * Movie Logos are images of a movie logo/name with a transparent background
 * Can be used while browsing your media center library as a recognizable navigation item
 * Image Size 800 x 310px
@@ -18,6 +21,5 @@
 * A limit of 4 logos per movie per user. This can be any combination of Language. No Exceptions.
 
 &nbsp;
-
 
 ![Image](../../assets/images/sizing-template-logo.jpg)

@@ -2,8 +2,11 @@
 
 * TV Show Logos are images of a tvshow logo/name with a transparent background
 * Can be used while browsing your media center library to show next to the poster/banner or as a recognizable navigation item
+
 ---
+
 ## Rules Synopsis
+
 * Image Size 800 x 310px
 * Centered aligned both vertically and horizontally
 * 10px gutter, this means the actual image is a maximum of 780px by 290px and any dropshadow/outerglow can go into the gutter, but the image may not
