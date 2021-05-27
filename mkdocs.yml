@@ -20,7 +20,6 @@ theme:
   language: en
   favicon: assets/images/favicon.ico
   logo: assets/images/fatv-logo.png
-  custom_dir: overrides
   palette:
     primary: royal
     accent: indigo
