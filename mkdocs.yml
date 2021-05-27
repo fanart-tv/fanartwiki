@@ -9,6 +9,9 @@ edit_uri: ""
 
 plugins:
   - search
+  
+markdown_extensions:
+   - smarty
 
 theme:
   name: material
@@ -24,12 +27,13 @@ theme:
 nav:
     - Home: 'index.md'
     - FAQ: 'General/faq.md'
-    - Replace an Image: 'General/Replace an Image.md'
     - Rules:
         Movie Images:
-            - HD-MovieLogo: 'ImageTypes/hdmovielogo.md'
+            - HD-MovieLogo: 'ImageTypes/Movies/hdmovielogo.md'
         TV Images:
-            - HD-TVLogo: 'ImageTypes/hdtvlogo.md'        
+            - HD-TVLogo: 'ImageTypes/TV/hdtvlogo.md' 
+            - HD-TVPoster: 'ImageTypes/TV/tvposter.md'        
         Music Images:
-            - HD-MusicLogo: 'ImageTypes/hdmusiclogo.md'        
-
+            - HD-MusicLogo: 'ImageTypes/Music/hdmusiclogo.md'        
+    - Guides:
+        - 'Replace an Image': 'General/Replace an Image.md'

@@ -18,4 +18,4 @@
 
 &nbsp;
 
-![Image](../assets/images/sizing-template-logo.jpg)
+![Image](../../assets/images/sizing-template-logo.jpg)

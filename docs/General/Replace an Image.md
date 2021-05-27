@@ -2,39 +2,41 @@
 
 This is not something that should be taken lightly and **abuse of this system will not be tolerated.** When you are attempting to replace an existing image, you are effectively erasing someone else's hard work. Keep this in mind before requesting a replacement.
 
-We always want the very best images and sometimes new images become available that were not available to the original uploader. Sometimes an image was approved that shouldn't have been. There are many reasons to request to replace an image. Just make sure to follow these rules and there shouldn't be any issues.
+We always want the very best images and sometimes new images become available that were not available to the original submitter. Sometimes an image was approved that shouldn't have been. There are many reasons to request to replace an image. Just make sure to follow these rules and there shouldn't be any issues.
 
 The image you submit must be **Instantly** recognizable as a superior image. If you can't meet this requirement, then please don't waste our time or your own. Replacing an image is an involved process and we don't have time to nit-pick tiny imperfections. Submit a fantastic image, and it should be smooth sailing.
 
-Lastly, the original uploader will always get the first crack as replacing their own image with a better one. When an replacement request is submitted, the original uploader will be notified that they have 10 days to submit a replacement. If they meet the requirement, the image will be replaced by them and that will be the end of it.
+Lastly, the original submitter will always get the first crack as replacing their own image with a better one. When an replacement request is submitted, the original submitter will be notified that they have 7 days to submit a replacement. If they meet the requirement, the image will be replaced by them and that will be the end of it.
 &nbsp;  
 &nbsp;  
 
 ## __1.) Report image for replacement.__
 
-Reporter waits 10 days before doing anything else to see if image was replaced by original uploader.
+Reporter waits to see if moderator accepts image as a replacement candidate.
 
 ![Report Image](../assets/images/2- Image_Reported.gif) 
 
 &nbsp;  
 ##__2.) Report is moderated__
 
-Moderator detmines if image is a replacement candidate and marks for replacement if it is.
+*  Moderator determines if image is a replacement candidate and marks it for replacement if it is.
+
+* If reported image is not accepted as a candidate for replacement, the image will be marked <u>**Image is fine**</u> and no further actions are needed.
 
 ![Report Image](../assets/images/3-Mod_Image_Reported.jpg)
 
 &nbsp;  
-##__3.) Original Uploader notified__
+##__3.) Original Submitter notified__
 
-  * This will send a message to the original uploader and give them a chance to respond.
-  * If original uploader submits an improved image within the 10 days, this will conclude the report.
+* Marking an image for replacement will send a message to the original submitter and give them a chance to respond.
+  *  *Moderators should link this wiki page in the message that goes out to the original submitter.*
 
 ![Report Image](../assets/images/4-Original_Uploader_Notice.jpg)
 
 &nbsp;  
 ##__4.) Submit replacement__
 
-If the original uploader does not respond within 10 days, the reporter can then use the "Replace Image" button to upload his replacement. Please note that *anyone* can submit a replacement after the initial 10 days.
+*  Any user may now upload a replacement submission. All submissions will be held until 7 days have passed from the original report, allowing for anyone to make submissions to be considered.
 
 ![Report Image](../assets/images/5a-Replace_Reason.gif)
 
@@ -42,22 +44,30 @@ If the original uploader does not respond within 10 days, the reporter can then 
 
 ##__5.) Submit with comment__
 
-Uploader should use the comment section to descibe that this is a replacement.
+All submissions should use the comment section to indicate it is a replacement submission.
 
 ![Report Image](../assets/images/5b-Replace_Dialog.jpg)
 
 &nbsp;  
 
-##__6.) Image is moderated__
+##__6.) Submissions are moderated__
 
-A moderator can then determine if the uploaded version is worthy to replace the original or not.
+* A moderator will determine if any of the submissions meet the requirements to replace the existing image. 
 
-*If the moderator uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.*
+* The best image will be chosen to be the replacement.
+
+* The original submitter will win all ties.
+
+* If no submission can overcome the superior image threshold, the submissions will be denied and given one chance to make an acceptable replacement. First submission at that point will be accepted.
+
+* Image will be marked **<u>Image is fine</u>**, is no replacement is deemed acceptable.
+
+
 
 ![Report Image](../assets/images/6-Mod_Image_Final.jpg)
 
-&nbsp;  
+`If the moderator uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.`
 
-If the reporter can not meet the requirements after one denial, the moderator has the option of removing the “Image needs replacing” tag on the image.
+
 
 
