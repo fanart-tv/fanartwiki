@@ -1,4 +1,4 @@
-# Overview
+# **Overview**
 
 - Record label logos are images with a transparent background
 - Can be used to show next to your album covers while browsing your media center
@@ -6,7 +6,7 @@
 
 ---
 
-# Rules Synopsis
+# **Rules Synopsis**
 
 - Image Size 400 x 270px
 - Center aligned both horizontal and vertical

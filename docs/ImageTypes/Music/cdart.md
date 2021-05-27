@@ -1,4 +1,4 @@
-# Overview
+# **Overview**
 
 - cdArts are the original music discs with a transparent background
 - Can be used while browsing your media center library to show the original disc next to the cover
@@ -6,7 +6,7 @@
 
 ---
 
-# Rules Synopsis
+# **Rules Synopsis**
 
 - Images must be in png format sized 1000x1000 pixels, no exceptions.
 - The cdART template must be used for consistency

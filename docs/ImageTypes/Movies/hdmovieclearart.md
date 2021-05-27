@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 * Movie ClearARTs are images of a movie logo/name including characters of the movie with a transparent background
 * Can be used while browsing your media center library to show next to the poster or as a recognizable navigation item
 
 ---
 
-## Rules Synopsis
+## **Rules Synopsis**
 
 * Images must be in png format sized 1000x562 pixels, no exceptions.
 * Clearart should contain images of character(s) <em>or highly recognizable major items</em> from the movie as well as a recognizable movie logo.

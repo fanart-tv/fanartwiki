@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 - TV Show CharacterArts are images of a tvshow characters or recognizable object of the TV Show with a transparent background
 - Can be used while browsing your media center library to show next to the poster/banner or as a recognizable navigation item
 
 ---
 
-# Rules Synopsis
+# **Rules Synopsis**
 
 - 512x512px transparent PNG image
 - center-aligned with the image being at least the full width or height (512px minus gutter) depending on orientation of the original source image

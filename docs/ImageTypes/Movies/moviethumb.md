@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 - Movie Thumbs are images containing the movie characters including the movie logo/title
 - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 
-# Rules Synopsis
+# **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x562 pixels, no exceptions.
 - Movie thumbs should contain images of character(s) *or highly recognizable major items* from the movie as well as a recognizable movie logo.

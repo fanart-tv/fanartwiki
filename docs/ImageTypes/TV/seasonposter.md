@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 - TV Show Season Posters are images of a TV show media cover depicting a specific season of the show.
 - Can be used while browsing your media center library as a recognizable navigation item.
 
 ---
 
-# Rules Synopsis
+## **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x1426 pixels
 - Only high quality images will be accepted. No Exceptions

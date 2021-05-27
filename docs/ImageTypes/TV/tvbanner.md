@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 - TV Show Banners are images containing the tv show characters including the tv show logo/title
 - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 
-# Rules Synopsis
+# **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x185 pixels, no exceptions.
 - Only high quality images will be accepted

@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 - Movie Posters are images of a movie depicting its media cover or optionally a custom textless version depicting the movie.
 - Can be used while browsing your media center library as a recognizable navigation item.
 
 ---
 
-## Rules Synopsis
+## **Rules Synopsis**
 
 * Images must be in jpg format sized 1000x1426 pixels
 * Only high quality images will be accepted. No Exceptions.

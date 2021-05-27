@@ -1,4 +1,4 @@
-# Overview
+# **Overview**
 
 - Movie Backgrounds are high quality backdrops of the Movie
 - Can be used as a background while browsing your Movie library
@@ -6,7 +6,7 @@
 
 ---
 
-# Rules Synopsis
+# **Rules Synopsis**
 
 - Images must be in jpg format sized 1920x1080 pixels, no exceptions.
 - Only high quality images will be accepted
