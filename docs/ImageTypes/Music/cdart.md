@@ -6,7 +6,7 @@
 
 ---
 
-# **Rules Synopsis**
+## **Rules Synopsis**
 
 - Images must be in png format sized 1000x1000 pixels, no exceptions.
 - The cdART template must be used for consistency

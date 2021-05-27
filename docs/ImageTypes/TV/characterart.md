@@ -5,7 +5,7 @@
 
 ---
 
-# **Rules Synopsis**
+## **Rules Synopsis**
 
 - 512x512px transparent PNG image
 - center-aligned with the image being at least the full width or height (512px minus gutter) depending on orientation of the original source image

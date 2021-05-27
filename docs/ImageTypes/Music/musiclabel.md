@@ -6,7 +6,7 @@
 
 ---
 
-# **Rules Synopsis**
+## **Rules Synopsis**
 
 - Image Size 400 x 270px
 - Center aligned both horizontal and vertical

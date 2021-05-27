@@ -5,7 +5,7 @@
 
 ---
 
-# **Rules Synopsis**
+## **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x562 pixels, no exceptions.
 - Movie thumbs should contain images of character(s) *or highly recognizable major items* from the movie as well as a recognizable movie logo.

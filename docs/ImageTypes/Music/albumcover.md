@@ -5,7 +5,7 @@
 
 ---
 
-# **Rules Synopsis**
+## **Rules Synopsis**
 
 * Images must be in jpg format sized 1000x1000 pixels, no exceptions.
 * Should be an image of the real CD cover

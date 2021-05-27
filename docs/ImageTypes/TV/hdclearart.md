@@ -5,7 +5,7 @@
 
 ---
 
-## Rules Synopsis
+## **Rules Synopsis**
 
 * Images must be in png format sized 1000x562 pixels, no exceptions.
 * Clearart should contain images of character(s) <em>or highly recognizable major items</em> from the series as well as a recognizable series logo.
