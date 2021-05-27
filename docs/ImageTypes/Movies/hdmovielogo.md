@@ -1,11 +1,11 @@
-# Overview
+# **Overview**
 
 * Movie Logos are images of a movie logo/name with a transparent background
 * Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 
-## Rules Synopsis
+## **Rules Synopsis**
 
 * Movie Logos are images of a movie logo/name with a transparent background
 * Can be used while browsing your media center library as a recognizable navigation item
