@@ -5,7 +5,7 @@
 
 ---
 
-## **Rules Synopsis**
+#### **Rules Synopsis**
 
 * Images must be in png format sized 1000x562 pixels, no exceptions.
 * Clearart should contain images of character(s) <em>or highly recognizable major items</em> from the movie as well as a recognizable movie logo.
@@ -15,12 +15,13 @@
 * We will NOT accept clearart with jagged edges or lazy tracing.
 * Using glows should be avoided unless it is relevant to the clearart. Any clearart submitted with glows can be denied at moderators discretion.
 * A limit of 4 clearart per show/movie per user. No Exceptions.
-
-&nbsp;  
+ 
 
 ![sizing-template-clearart.jpg](../../assets/images/sizing-template-clearart.jpg)
 
-## Other rules and considerations
+---
+
+#### __Other rules and considerations__
 
 ??? note "**Similar Images**"  
     Do not try to create every type of logo/image combination you can think of. Each image should be unique and stand on it’s own. If you want to offer a different logo option, you should create an entirely new image for it instead of just slapping it onto the same image as the other logo. What you end up with is a bloated library section of basically the same images that someone has to wade though. 
