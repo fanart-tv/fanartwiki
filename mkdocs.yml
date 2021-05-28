@@ -11,8 +11,12 @@ plugins:
   - search
   
 markdown_extensions:
-   - smarty
-
+  - smarty
+  - pymdownx.details
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  
 theme:
   name: material
   features:
@@ -27,7 +31,11 @@ theme:
 nav:
     - Home: 'index.md'
     - FAQ: 'General/faq.md'
-    - Rules:
+    - 'Site Information':
+        - 'Site Rules': 'General/site rules.md'
+        - 'Site Vision': 'General/general rules and vision.md'
+        - 'Unwritten Rules': 'General/unwritten rules revealed.md'
+    - Image Rules:
         Movie Images:
             - HD-MovieLogo: 'ImageTypes/Movies/hdmovielogo.md' 
             - HD-MovieClearart: 'ImageTypes/Movies/hdmovieclearart.md' 
@@ -56,5 +64,5 @@ nav:
             - MusicBanner: 'ImageTypes/Music/musicbanner.md' 
             - RecordLabel: 'ImageTypes/Music/musiclabel.md' 
     - Guides:
-        - 'Replace an Image': 'General/Replace an Image.md'
+        - 'Replace an Image': 'General/replace an image.md'
         

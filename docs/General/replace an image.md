@@ -29,7 +29,7 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 ##__3.) Original Submitter notified__
 
 + Marking an image for replacement will send a message to the original submitter and give them a chance to respond.
-    + *Moderators should link this wiki page in the message that goes out to the original submitter.*
+  + *Moderators should link this wiki page in the message that goes out to the original submitter.*
 
 ![Report Image](../assets/images/4-Original_Uploader_Notice.jpg)
 
