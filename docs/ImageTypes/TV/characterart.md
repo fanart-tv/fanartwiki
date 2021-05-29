@@ -5,7 +5,7 @@
 
 ---
 
-## **Rules Synopsis**
+#### **Rules Synopsis**
 
 - 512x512px transparent PNG image
 - center-aligned with the image being at least the full width or height (512px minus gutter) depending on orientation of the original source image
@@ -18,3 +18,18 @@
 &nbsp;  
 
 ![sizing-template-characterart.jpg](../../assets/images/sizing-template-characterart.jpg)
+
+---
+
+#### __Other rules and considerations__
+
+??? note "**Similar Images**"  
+
+    - __Each image should be it’s own unique piece of art. __
+
+    - __Do not submit art that is similar to art already on the site, or to your own submissions. __
+
+    - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
+
+    - __The only exception is the 2 language rule.__
+    

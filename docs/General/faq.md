@@ -7,4 +7,4 @@ Got a question that isn’t answered here? Try asking on [Discord](https://disco
 
 How do I....
 
-* [Replace an Image](Replace an Image.md)
+* [Replace an Image](replace an image.md)

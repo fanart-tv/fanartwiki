@@ -25,8 +25,14 @@ theme:
   favicon: assets/images/favicon.ico
   logo: assets/images/fatv-logo.png
   palette:
-    primary: royal
-    accent: indigo
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   
 nav:
     - Home: 'index.md'
@@ -37,32 +43,32 @@ nav:
         - 'Unwritten Rules': 'General/unwritten rules revealed.md'
     - Image Rules:
         Movie Images:
-            - HD-MovieLogo: 'ImageTypes/Movies/hdmovielogo.md' 
-            - HD-MovieClearart: 'ImageTypes/Movies/hdmovieclearart.md' 
-            - MoviePoster: 'ImageTypes/Movies/movieposter.md' 
-            - MovieBackground: 'ImageTypes/Movies/moviebackground.md' 
-            - MovieDisc: 'ImageTypes/Movies/moviedisc.md' 
-            - MovieThumb: 'ImageTypes/Movies/moviethumb.md' 
-            - MovieBanner: 'ImageTypes/Movies/moviebanner.md' 
+            - 'HD MovieLogo': 'ImageTypes/Movies/hdmovielogo.md' 
+            - 'HD MovieClearart': 'ImageTypes/Movies/hdmovieclearart.md' 
+            - 'Movie Poster': 'ImageTypes/Movies/movieposter.md' 
+            - 'Movie Background': 'ImageTypes/Movies/moviebackground.md' 
+            - 'Movie Disc': 'ImageTypes/Movies/moviedisc.md' 
+            - 'Movie Thumb': 'ImageTypes/Movies/moviethumb.md' 
+            - 'Movie Banner': 'ImageTypes/Movies/moviebanner.md' 
         TV Images:
-            - HD-TVLogo: 'ImageTypes/TV/hdtvlogo.md' 
-            - HD-Clearart: 'ImageTypes/TV/hdclearart.md' 
-            - HD-TVPoster: 'ImageTypes/TV/tvposter.md' 
-            - SeasonPoster: 'ImageTypes/TV/seasonposter.md' 
-            - Characterart: 'ImageTypes/TV/characterart.md' 
-            - ShowBackground: 'ImageTypes/TV/showbackground.md' 
-            - TVBanner: 'ImageTypes/TV/tvbanner.md' 
-            - Season-Banner: 'ImageTypes/TV/seasonbanner.md' 
-            - TVThumb: 'ImageTypes/TV/tvthumb.md' 
-            - Season-Thumb: 'ImageTypes/TV/seasonthumb.md' 
+            - 'HD ClearLogo': 'ImageTypes/TV/hdtvlogo.md' 
+            - 'HD ClearART': 'ImageTypes/TV/hdclearart.md' 
+            - 'TV Poster': 'ImageTypes/TV/tvposter.md' 
+            - 'Season Poster': 'ImageTypes/TV/seasonposter.md' 
+            - 'Character Art': 'ImageTypes/TV/characterart.md' 
+            - 'TV Background': 'ImageTypes/TV/showbackground.md' 
+            - 'TV Banner': 'ImageTypes/TV/tvbanner.md' 
+            - 'Season Banner': 'ImageTypes/TV/seasonbanner.md' 
+            - 'TV Thumb': 'ImageTypes/TV/tvthumb.md' 
+            - 'Season Thumb': 'ImageTypes/TV/seasonthumb.md' 
         Music Images:
-            - HD-MusicLogo: 'ImageTypes/Music/hdmusiclogo.md' 
-            - AlbumCover: 'ImageTypes/Music/albumcover.md' 
-            - ArtistThumb: 'ImageTypes/Music/artistthumb.md' 
-            - CDArt: 'ImageTypes/Music/cdart.md' 
-            - ArtistBackground: 'ImageTypes/Music/artistbackground.md' 
-            - MusicBanner: 'ImageTypes/Music/musicbanner.md' 
-            - RecordLabel: 'ImageTypes/Music/musiclabel.md' 
+            - 'HD MusicLogo': 'ImageTypes/Music/hdmusiclogo.md' 
+            - 'Album Cover': 'ImageTypes/Music/albumcover.md' 
+            - 'Artist Thumb': 'ImageTypes/Music/artistthumb.md' 
+            - 'CDArt': 'ImageTypes/Music/cdart.md' 
+            - 'Artist Background': 'ImageTypes/Music/artistbackground.md' 
+            - 'Music Banner': 'ImageTypes/Music/musicbanner.md' 
+            - 'Record Label': 'ImageTypes/Music/musiclabel.md' 
     - Guides:
         - 'Replace an Image': 'General/replace an image.md'
         
