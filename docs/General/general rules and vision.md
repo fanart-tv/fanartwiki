@@ -2,14 +2,15 @@
 
 Thank you for considering to contribute to Fanart.tv. Please take the time read through this page to save both you and the volunteer staff here time and frustration. Knowing the site motto will help to understand the standards we set.
 
-## ==**No Image is Better Than a Low Quality Image**==
+## **No Image is Better Than a Low Quality Image**
 
+---
 We understand that sometimes there just aren’t very good sources to work with, but in those cases you should either get very creative and do your best to re-create the art in higher quality, or upload it to one of the many other fanart sites that don’t moderate. Our goal is not to have an image for every single show/movie/album, but to have a Great Image for every single show/movie/album. It’s also a good thing to remember that just because an image doesn’t work well for our library here, doesn’t mean you can’t use it in your own media center. If you think your image is perfectly fine for your needs, then you should use it on your system.
 
 You will find a bulletpoint list of rules for each image type we host and you should read and understand each one. You should ask in the [Forums](https://forum.fanart.tv/index.php), or on [Discord](https://discord.gg/r9VufRk) if you are having trouble understanding the rules. This is preferred over sending a PM to a mod as the question can serve to help others in the future.
 
 
-### **Submitting Quality Artwork**  
+### **Submitting Quality artwork**  
 Trying to grind through the missing art in your library may cloud your judgement of what’s good and what’s “good enough“. Uploading every image you make with no interest whether it passes or not, is not acceptable.  
 Try to be confident before uploading so you are not stealing a moderators time and wasting your own. Our site is full of [Tutorials](https://fanart.tv/tutorials/) and other helpful information to help you create quality artwork. 
 
