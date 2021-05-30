@@ -10,3 +10,23 @@ This is your chance to help us out even more! Supporting fanart.tv by becoming a
 We are hoping to gain enough VIP members that we don’t have to show the donation begging banner all the time, however you don’t have to become a VIP member to get the basic functionality we have always supplied, we are just giving some nice extras to VIP members.
 
 Associated Fanart members are already identified as VIP members so you don’t need to (and indeed, shouldn’t) sign up again.
+
+
+| VIP                                                            | VIP+                                                     | VIP++                                                                             |
+| :--------------------------------------------------------------| :------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| :fontawesome-solid-check-square: Quicker API responses         | :fontawesome-solid-check-square: All VIP benefits        | :fontawesome-solid-check-square: All VIP+ benefits                                |
+| :fontawesome-solid-check-square: Hide all advertising          | :fontawesome-solid-check-square: Up to 3 votes per image | :fontawesome-solid-check-square: Up to 4 votes per image                          |
+| :fontawesome-solid-check-square: Members only discussion forum |                                                          | :fontawesome-solid-check-square: username@vip.fanart.tv email address (on request)|
+| :fontawesome-solid-check-square: VIP badge                     |                                                          |                                                                                   |
+| :fontawesome-solid-check-square: Additional 3 requests         |                                                          |                                                                                   |
+| :fontawesome-solid-check-square: Additional 5 pending          |                                                          |                                                                                   |
+| :fontawesome-solid-check-square: Up to 2 votes per image       |                                                          |                                                                                   |
+|                                                                |                                                          |                                                                                   |
+| [Sign Up for £15 a year](https://fanart.tv/membership-account/membership-checkout/?level=6) | [Sign Up for £30 a year](https://fanart.tv/membership-account/membership-checkout/?level=7)                                   | [Sign Up for £50 a year](https://fanart.tv/membership-account/membership-checkout/?level=10)                                                            |
+|  [Sign Up for £2 a month](https://fanart.tv/membership-account/membership-checkout/?level=7)                                        | [Sign Up for £4 a month](https://fanart.tv/membership-account/membership-checkout/?level=8)                                   | [Sign Up for £6 a month](https://fanart.tv/membership-account/membership-checkout/?level=11)                                                            |
+|  [Lifetime membership - £45](https://fanart.tv/membership-account/membership-checkout/?level=2)                                     | [Lifetime membership - £90](https://fanart.tv/membership-account/membership-checkout/?level=9)                                | [Lifetime membership - £150](https://fanart.tv/membership-account/membership-checkout/?level=12)                                                        |
+
+ 
+ 
+ 
+

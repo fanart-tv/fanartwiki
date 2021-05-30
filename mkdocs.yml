@@ -9,6 +9,12 @@ edit_uri: ""
 
 plugins:
   - search
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
   
 markdown_extensions:
   - smarty
@@ -50,7 +56,10 @@ nav:
     - 'Site Information':
         - 'Site Rules': 'General/site rules.md'
         - 'Site Vision': 'General/general rules and vision.md'
+        - 'Help': 'General/fanart help.md'
         - 'VIP Members': 'General/vip.md'
+        - 'Moderating': 'General/moderating.md'
+        
     - Image Rules:
         Movie Images:
             - 'HD MovieLogo': 'ImageTypes/Movies/hdmovielogo.md' 
@@ -80,5 +89,10 @@ nav:
             - 'Music Banner': 'ImageTypes/Music/musicbanner.md' 
             - 'Record Label': 'ImageTypes/Music/musiclabel.md' 
     - Guides:
+        - 'Getting Started': 'General/getting started.md'
+        - 'Navigating Fanart.tv': 'General/navigating fanart.tv.md'
+        - 'The Fanart Database': 'General/understanding the fanart database.md'
         - 'Replace an Image': 'General/replace an image.md'
+        - "Remove a submission before it's moderated": 'General/delete submission.md'
+
         
