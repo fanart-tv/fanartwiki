@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- Music banners are images containing the artists including their logo/name
-- Can be used while browsing your media center library as a recognizable navigation item
+    - Music banners are images containing the artists including their logo/name
+    - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 

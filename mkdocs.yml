@@ -16,11 +16,21 @@ markdown_extensions:
   - admonition
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.smartsymbols
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   
 theme:
   name: material
   features:
     - navigation.instant
+    - navigation.top
+
   language: en
   favicon: assets/images/favicon.ico
   logo: assets/images/fatv-logo.png
@@ -40,7 +50,7 @@ nav:
     - 'Site Information':
         - 'Site Rules': 'General/site rules.md'
         - 'Site Vision': 'General/general rules and vision.md'
-        - 'Unwritten Rules': 'General/unwritten rules revealed.md'
+        - 'VIP Members': 'General/vip.md'
     - Image Rules:
         Movie Images:
             - 'HD MovieLogo': 'ImageTypes/Movies/hdmovielogo.md' 

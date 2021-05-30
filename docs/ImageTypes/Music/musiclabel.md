@@ -1,8 +1,8 @@
-# **Overview**
+!!! info "Overview"
 
-- Record label logos are images with a transparent background
-- Can be used to show next to your album covers while browsing your media center
-- These logos exist in color, white&transparent gradient, black&transparent gradient version
+    - Record label logos are images with a transparent background
+    - Can be used to show next to your album covers while browsing your media center
+    - These logos exist in color, white&transparent gradient, black&transparent gradient version
 
 ---
 

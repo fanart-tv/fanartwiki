@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-* TV Show Logos are images of a tvshow logo/name with a transparent background
-* Can be used while browsing your media center library to show next to the poster/banner or as a recognizable navigation item
+    - TV Show Logos are images of a tvshow logo/name with a transparent background
+    - Can be used while browsing your media center library to show next to the poster/banner or as a recognizable navigation item
 
 ---
 

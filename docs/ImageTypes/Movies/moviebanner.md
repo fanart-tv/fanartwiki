@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- Movie Banners are images containing the movie characters including the movie logo/title
-- Can be used while browsing your media center library as a recognizable navigation item
+    - Movie Banners are images containing the movie characters including the movie logo/title
+    - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 

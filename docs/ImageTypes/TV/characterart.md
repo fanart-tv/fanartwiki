@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- TV Show CharacterArts are images of a tvshow characters or recognizable object of the TV Show with a transparent background
-- Can be used while browsing your media center library to show next to the poster/banner or as a recognizable navigation item
+    - TV Show CharacterArts are images of a tvshow characters or recognizable object of the TV Show with a transparent background
+    - Can be used while browsing your media center library to show next to the poster/banner or as a recognizable navigation item
 
 ---
 

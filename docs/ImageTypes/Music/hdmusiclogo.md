@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-* Music Logos are images of an artist or bands logo/name with a transparent background
-* Can be used while browsing your media center library to show next to the album cover or as a recognizable navigation item
+    - Music Logos are images of an artist or bands logo/name with a transparent background
+    - Can be used while browsing your media center library to show next to the album cover or as a recognizable navigation item
 
 ---
 

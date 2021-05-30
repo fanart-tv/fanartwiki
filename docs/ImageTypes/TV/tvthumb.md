@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- TV Show Thumbs are images containing the tv show characters including the tv show logo/title
-- Can be used while browsing your media center library as a recognizable navigation item
+    - TV Show Thumbs are images containing the tv show characters including the tv show logo/title
+    - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 

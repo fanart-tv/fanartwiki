@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-* Album Covers are images of the original album
-* Can be used while browsing your media centre library to show the original album cover
+    - Album Covers are images of the original album
+    - Can be used while browsing your media centre library to show the original album cover
 
 ---
 

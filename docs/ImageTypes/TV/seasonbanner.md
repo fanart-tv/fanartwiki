@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- TV Show Season Banners are images containing the tv show characters including the tv show logo/title and season number
-- Can be used while browsing your media center library as a recognizable navigation item
+    - TV Show Season Banners are images containing the tv show characters including the tv show logo/title and season number
+    - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 

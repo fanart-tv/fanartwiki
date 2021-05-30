@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-* TV Show Posters are images of a TV show depicting its media cover or optionally a custom textless version depicting the show.
-* Can be used while browsing your media center library as a recognizable navigation item.
+    - TV Show Posters are images of a TV show depicting its media cover or optionally a custom textless version depicting the show.
+    - Can be used while browsing your media center library as a recognizable navigation item.
 
 ---
 

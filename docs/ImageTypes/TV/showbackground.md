@@ -1,9 +1,9 @@
-# **Overview**
+!!! info "Overview"
 
-- Show Backgrounds are high quality backdrops of the TV show
-- Can be used as a background while browsing your tv library
-- Can be used as a background slide show on skins that support this feature
-- Can be set to a specific season or for all seasons
+    - Show Backgrounds are high quality backdrops of the TV show
+    - Can be used as a background while browsing your tv library
+    - Can be used as a background slide show on skins that support this feature
+    - Can be set to a specific season or for all seasons
 
 ---
 

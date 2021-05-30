@@ -1,8 +1,8 @@
-# **Overview**
+!!! info "Overview"
 
-- Artist Backgrounds are high quality backdrops containing the artist/band
-- Can be used as a background while browsing your music library
-- Can be used as a background slideshow while playing music on a mediacentre
+    - Artist Backgrounds are high quality backdrops containing the artist/band
+    - Can be used as a background while browsing your music library
+    - Can be used as a background slideshow while playing music on a mediacentre
 
 ---
 

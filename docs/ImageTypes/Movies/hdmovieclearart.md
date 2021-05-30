@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-* Movie ClearARTs are images of a movie logo/name including characters of the movie with a transparent background
-* Can be used while browsing your media center library to show next to the poster or as a recognizable navigation item
+    - Movie ClearARTs are images of a movie logo/name including characters of the movie with a transparent background
+    - Can be used while browsing your media center library to show next to the poster or as a recognizable navigation item
 
 ---
 

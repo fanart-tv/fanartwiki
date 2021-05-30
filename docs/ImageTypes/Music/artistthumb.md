@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- Artist thumbs are high quality thumbnail images of an artist or band
-- Can be used while browsing your media centre library to show Thumbnails of all your artists/bands
+    - Artist thumbs are high quality thumbnail images of an artist or band
+    - Can be used while browsing your media centre library to show Thumbnails of all your artists/bands
 
 ---
 

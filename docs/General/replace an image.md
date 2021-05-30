@@ -14,7 +14,7 @@ Lastly, the original submitter will always get the first crack as replacing thei
 
 Reporter waits to see if moderator accepts image as a replacement candidate.
 
-![Report Image](../assets/images/2- Image_Reported.gif) 
+![Report Image](../assets/images/2-Image_Reported.gif) 
 
 &nbsp;  
 ##__2.) Report is moderated__

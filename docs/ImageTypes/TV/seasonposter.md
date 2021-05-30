@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- TV Show Season Posters are images of a TV show media cover depicting a specific season of the show.
-- Can be used while browsing your media center library as a recognizable navigation item.
+    - TV Show Season Posters are images of a TV show media cover depicting a specific season of the show.
+    - Can be used while browsing your media center library as a recognizable navigation item.
 
 ---
 

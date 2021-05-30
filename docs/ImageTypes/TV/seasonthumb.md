@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- Season Thumbs are images containing the tv show characters including the tv show season number
-- Can be used while browsing your media center library as a recognizable navigation item
+    - Season Thumbs are images containing the tv show characters including the tv show season number
+    - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
 

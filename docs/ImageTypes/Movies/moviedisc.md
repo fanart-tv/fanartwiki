@@ -1,8 +1,9 @@
-# **Overview**
+!!! info "Overview"
 
-- cdArts are the original movie discs with a transparent background
-- Can be used while browsing your media centre library to show the original disc next to the cover
-- Can be used as a while playing the movie in a mediacentre
+    - __cdArts are the original movie discs with a transparent background__
+    - __Can be used while browsing your media centre library to show the original disc next to the cover__
+    - __Can be used as a while playing the movie in a mediacentre__
+
 
 ---
 
@@ -19,7 +20,7 @@
 - Title of movie cannot be cropped by the middle hole on custom discs
 - Custom discs need to include a studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
 - A limit of 4 cdARTs per movie per user. No Exceptions.
-- UHD Bluray type discs require a link to the entry on blue-ray.com
+- UHD Bluray type discs require a link to the entry on [blue-ray.com](https://www.blu-ray.com/)
 
 &nbsp;  
 
@@ -29,7 +30,7 @@
 
 #### __Other rules and considerations__
 
-??? note "**Similar Images**"  
+??? info "**Similar Images**"  
 
     - __Each image should be it’s own unique piece of art. __
 
@@ -41,7 +42,7 @@
     
 
 
-??? note "**Languages**"
+??? info "**Languages**"
 
     - __Each user is limited to creating a piece of art in a maximum of 2 languages.__
 
@@ -54,16 +55,16 @@
     Our goal should be to try and fill in or make artwork where there is none. This is much more helpful to the site. One look at our [Incomplete Section](https://fanart.tv/list-page/) should give plenty of opportunities for people who want to produce a lot of art and want to really help the site at the same time.
 
 
-??? note "**Collection Art**"
+??? info "**Collection Art**"
     - __Collection art should reflect characters or elements that were in all the movies.__
 
     The idea of collection art is to represent the entire collection, and not just one movie. This can be difficult sometimes but creativity should win out in the end if the effort is there. In the case where the main actor has changed, you could have all the main role actors in the same poster/clearart/banner etc. Or even an element that spans all the movies. Point is, if you make an art with a main character and a villain from a single movie, then that should be used for that movie and not as collection art.
 
 
-??? note "**CdArt Cropping**"
+??? info "**CdArt Cropping**"
     - __No cropping of text by disc edge or center hole (titles/flags/actors etc)__
  
     If using characters from movie on custom disc art – do not crop their faces over center hole.  
     
     Partial cropping may be allowed but is at the moderators discretion. 
-    
+     

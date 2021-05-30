@@ -1,7 +1,7 @@
-# **Overview**
+!!! info "Overview"
 
-- Movie Posters are images of a movie depicting its media cover or optionally a custom textless version depicting the movie.
-- Can be used while browsing your media center library as a recognizable navigation item.
+    - Movie Posters are images of a movie depicting its media cover or optionally a custom textless version depicting the movie.
+    - Can be used while browsing your media center library as a recognizable navigation item.
 
 ---
 

@@ -1,8 +1,8 @@
-# **Overview**
+!!! info "Overview"
 
-- cdArts are the original music discs with a transparent background
-- Can be used while browsing your media center library to show the original disc next to the cover
-- Can be used as a spinning disc in music visualization while playing music on a media center
+    - cdArts are the original music discs with a transparent background
+    - Can be used while browsing your media center library to show the original disc next to the cover
+    - Can be used as a spinning disc in music visualization while playing music on a media center
 
 ---
 
