@@ -55,3 +55,21 @@
     - __Collection art should reflect characters or elements that were in all the movies.__
 
     The idea of collection art is to represent the entire collection, and not just one movie. This can be difficult sometimes but creativity should win out in the end if the effort is there. In the case where the main actor has changed, you could have all the main role actors in the same poster/clearart/banner etc. Or even an element that spans all the movies. Point is, if you make an art with a main character and a villain from a single movie, then that should be used for that movie and not as collection art.
+
+??? note "**Custom Posters**"
+
+    Official posters that have been cleaned of prohibited elements will always be preferred over [custom posters](https://forum.fanart.tv/viewtopic.php?f=15&t=13). Most people will associate these images with the DVD/Blu-ray cases in their own libraries.
+
+    Custom posters are allowed, but must meet certain requirements.
+
+    - __Is this something I would see on a store shelf somewhere?__
+    - __Does this really represent the movie/series in an identifiable way?__
+    - __Is my source material good enough to be considered“HighQuality”?__
+    - __Would I consider this poster to be my one and only poster for this movie/series?__
+    - __Would this poster be considered a [Portrait](https://forum.fanart.tv/viewtopic.php?f=15&t=13) type cover?__
+
+    There may not be a clear way to define an acceptable custom poster, but try to imagine the poster you are submitting being displayed on a DVD case in a store on a shelf somewhere. 
+
+    Can you see it? 
+
+    If not, it’s probably not fitting for this section either.

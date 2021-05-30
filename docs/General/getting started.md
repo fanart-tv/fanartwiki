@@ -1,4 +1,4 @@
-Welcome
+# __Gettin Started__
 Welcome to fanart.tv and thank you for joining.We hope you enjoy this site as much as we do.
 
 If you know your way around with graphical software consider contributing artwork for everyone to enjoy. Do note we have set some relative high standard so we only accept the ‘best’. All artwork is moderated after it has been uploaded by users to make sure only acceptable ones end up on the site.

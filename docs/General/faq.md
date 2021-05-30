@@ -9,7 +9,7 @@ Got a question that isn’t answered here? Try asking on [Discord](https://disco
 
       * [...get help](fanart help.md)
   * [...replace an image](replace an image.md)
-    * [...remove my submission from the queue](delete submission.md)
+    * [...remove my submission from the queue](retract submission.md)
 
 - Why...
   

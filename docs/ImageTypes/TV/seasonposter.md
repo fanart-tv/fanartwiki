@@ -46,3 +46,30 @@
     We really don’t want to swamp our database with a zillion images in every possible language/format that exists. If there is an interest for some art in a language that is not available, it will prompt that user to either create that artwork themselves, or they can use the request system. This way only images that are in demand are getting produced, and we are not filling up our pages with art gathering dust.  
     
     Our goal should be to try and fill in or make artwork where there is none. This is much more helpful to the site. One look at our [Incomplete Section](https://fanart.tv/list-page/) should give plenty of opportunities for people who want to produce a lot of art and want to really help the site at the same time.
+
+
+??? note "**Custom Posters**"
+
+    Official posters that have been cleaned of prohibited elements will always be preferred over [custom posters](https://forum.fanart.tv/viewtopic.php?f=15&t=13). Most people will associate these images with the DVD/Blu-ray cases in their own libraries.
+
+    Custom posters are allowed, but must meet certain requirements.
+
+    - __Is this something I would see on a store shelf somewhere?__
+    - __Does this really represent the movie/series in an identifiable way?__
+    - __Is my source material good enough to be considered“HighQuality”?__
+    - __Would I consider this poster to be my one and only poster for this movie/series?__
+    - __Would this poster be considered a [Portrait](https://forum.fanart.tv/viewtopic.php?f=15&t=13) type cover?__
+
+    There may not be a clear way to define an acceptable custom poster, but try to imagine the poster you are submitting being displayed on a DVD case in a store on a shelf somewhere. 
+
+    Can you see it? 
+
+    If not, it’s probably not fitting for this section either.
+
+    ---
+
+    !!! info
+
+        - Season posters are allowed a bit more flexibility when original posters are not available and all other requirements are met. 
+
+        - Season posters should reflect something from the actual season and not just be a random image from the show.
