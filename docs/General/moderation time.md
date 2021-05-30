@@ -1,8 +1,5 @@
 # __Moderation Time__
 
-
-One of the most common questions on the site is how long will it take to get their artwork moderated.
-
 !!! info "There is no set time on how long it will take for your submissions to be moderated..." 
 
     ...but we will eventually get to all of them. 
