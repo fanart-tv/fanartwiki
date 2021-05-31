@@ -30,5 +30,5 @@ It just takes a lot more time to moderate every single image than most people re
         !!! info ""
             You have a lot of images that need work and the mod doesn’t have the time to write denial explanations for all of them at the time, but doesn’t want to prevent the acceptable art from getting through in the limited time they have. 
 
-            If you think this might be the case, we implore you to reassess your art and look for your own mistakes and save us the time of having to write a bunch of denials. You can [delete your own submissions](delete submission.md) from the dashboard, fix them and resubmit.
+            If you think this might be the case, we implore you to reassess your art and look for your own mistakes and save us the time of having to write a bunch of denials. You can [delete your own submissions](retract submission.md) from the dashboard, fix them and resubmit.
        

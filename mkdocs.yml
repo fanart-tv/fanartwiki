@@ -18,6 +18,7 @@ extra_javascript:
   
 markdown_extensions:
   - smarty
+  - pymdownx.tabbed
   - pymdownx.details
   - admonition
   - pymdownx.superfences
@@ -56,13 +57,15 @@ nav:
     - FAQ: 'General/faq.md'
     - 'Site Information':
         - 'Site Rules': 'General/site rules.md'
-        - 'Site Vision': 'General/general rules and vision.md'
         - 'Help': 'General/fanart help.md'
         - 'Moderation Time': 'General/moderation time.md'
         - 'VIP Members': 'General/vip.md'
+        - 'Personal API Keys': 'General/personal api.md'
         - 'Moderating': 'General/moderating.md'
+        - 'Remove Advertisements': 'General/remove adverts.md'
+        - 'Report an Issue': 'General/report an issue.md'
         
-    - Image Rules:
+    - Image Types:
         Movie Images:
             - 'HD MovieLogo': 'ImageTypes/Movies/hdmovielogo.md' 
             - 'HD MovieClearart': 'ImageTypes/Movies/hdmovieclearart.md' 
@@ -93,8 +96,11 @@ nav:
     - Guides:
         - 'Getting Started': 'General/getting started.md'
         - 'Navigating Fanart.tv': 'General/navigating fanart.tv.md'
-        - 'The Fanart Database': 'General/understanding the fanart database.md'
+        - 'User Guide': 'General/user guide.md'
+        - 'Contributor Guide': 'General/contributor guide.md'
+        - 'The Fanart Database': 'General/fanart database.md'
         - 'Replace an Image': 'General/replace an image.md'
-        - "Remove a submission before it's moderated": 'General/delete submission.md'
+        - "Retract a Submission": 'General/retract submission.md'
+        
 
         

@@ -7,9 +7,12 @@ Got a question that isn’t answered here? Try asking on [Discord](https://disco
 
 - How do I....
 
-      * [...get help](fanart help.md)
-  * [...replace an image](replace an image.md)
-    * [...remove my submission from the queue](retract submission.md)
+    * [...get help?](fanart help.md)
+    * [...replace an image?](replace an image.md)
+    * [...remove my submission from the queue?](retract submission.md)
+    * [...remove the ads from the site?](remove adverts.md)
+    * [...get a personal API key?](personal api.md)
+    * [...upload an image?](contributor guide.md)
 
 - Why...
   

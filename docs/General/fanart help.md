@@ -1,12 +1,15 @@
 # __Fanart Help__
 
-Fanart.tv has a lot of resources available to help with just about anything. Finding that information is another matter altogether. This tutorial should help you find that information so you can unlock the mysteries of the universe. Not really, but maybe you can find the answer to your fanart related question.
+Fanart.tv has a lot of resources available to help with just about anything. 
+
+Use this list to find the best place to get help.
 
 - __[DISCORD](fanart help.md#discord s- erver)__
 - __[TUTORIALS](fanart help.md#tutorials)__
 - __[FORUMS](fanart help.md#forums)__
 - __[OTHER](fanart help.md#other)__
 
+---
 
 ### __DISCORD SERVER__
 
