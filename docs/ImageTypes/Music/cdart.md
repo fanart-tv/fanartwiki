@@ -56,4 +56,13 @@
     If using characters from movie on custom disc art – do not crop their faces over center hole.  
     
     Partial cropping may be allowed but is at the moderators discretion. 
+
+
+#### __Resources__
+
+??? example "cdArt Templates and Tutorials"
+
+    - [Gimp cdArt Template](https://fanart.tv/wp-content/uploads/2021/05/Gimp-cdART-Template-3_1.zip){target= blank}
+    - Photoshop cdArt Template
+    - [cdArt Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
     

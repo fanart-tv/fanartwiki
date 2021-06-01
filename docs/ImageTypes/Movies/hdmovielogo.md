@@ -60,6 +60,6 @@
 
 ??? example "HD ClearLogo Templates and Tutorials"
 
-    - [Gimp HD ClearLogo Template](https://fanart.tv/gimp-cdart-template-3_1/){target= blank}
-    - [Photoshop HD ClearLogo Template](https://fanart.tv/cdart-template-master/){target= blank}
+    - [Gimp HD ClearLogo Template](https://fanart.tv/wp-content/uploads/2021/06/HDLogo-Template_2021.xcf.zip/){target= blank}
+    - Photoshop HD ClearLogo Template
     - [ClearLogo Tutorials](https://fanart.tv/type/clearlogo/){target= blank}

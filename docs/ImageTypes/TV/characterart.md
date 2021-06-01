@@ -15,10 +15,7 @@
 - 10px gutter. A gutter is an area around the image's edges where the image shouldn\'t overlap. It\'s used for things like drop shadows where they would extend beyond that line. Using this technique allows for bleeding and makes for a properly uniform image.
 - A limit of 4 characterarts per show per user. No duplicate images used between character images and multi-character images.
 
-&nbsp;  
-
-![sizing-template-characterart.jpg](../../assets/images/sizing-template-characterart.jpg)
-
+<img src="../../../assets/images/sizing-template-characterart.jpg" onmouseover="this.src='../../../assets/images/sizing-template-characterart.png'" onmouseout="this.src='../../../assets/images/sizing-template-characterart.jpg'"/>
 ---
 
 #### __Other rules and considerations__
@@ -32,4 +29,12 @@
     - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
 
     - __The only exception is the 2 language rule.__
-    
+
+
+#### __Resources__
+
+??? example "CharacterArt Templates and Tutorials"
+
+    - [Gimp CharacterArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDcharacterart-Template_2021.xcf.zip){target= blank}
+    - Photoshop CharacterArt Template
+    - [CharacterArt Tutorials](https://fanart.tv/type/characterart/){target= blank}

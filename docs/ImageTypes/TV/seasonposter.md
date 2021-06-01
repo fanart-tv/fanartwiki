@@ -73,3 +73,12 @@
         - Season posters are allowed a bit more flexibility when original posters are not available and all other requirements are met. 
 
         - Season posters should reflect something from the actual season and not just be a random image from the show.
+        
+
+#### __Resources__
+
+??? example "Poster Templates and Tutorials"
+
+    - Gimp Poster Template
+    - Photoshop Poster Template
+    - [Poster Tutorials](https://fanart.tv/type/posters-2/){target= blank}

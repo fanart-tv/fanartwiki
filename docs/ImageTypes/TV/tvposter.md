@@ -68,3 +68,12 @@
     Can you see it? 
 
     If not, it’s probably not fitting for this section either.
+
+
+#### __Resources__
+
+??? example "Poster Templates and Tutorials"
+
+    - Gimp Poster Template
+    - Photoshop Poster Template
+    - [Poster Tutorials](https://fanart.tv/type/posters-2/){target= blank}

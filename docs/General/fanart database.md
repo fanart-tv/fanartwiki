@@ -1,17 +1,23 @@
-The Ins and Outs of the Fanart.tv Database
-This has been a point of confusion for a long time and I hope to clear this up a bit. There are a couple of key points to remember that will make this easier.
+# __HOW FANART.TV WORKS__
 
-Fanart.tv does NOT keep a database of TV-Shows Movies or Music.
-Fanart.tv DOES source this information from other Databases.
-Fanart.tv DOES keeps it’s own Database of Images and Pages on our site.
-The databases we use to source our information is as follows.
+Understanding how Fanart.tv works can be very confusuing, but I hope this guide will make a little easier.
 
-Movies are sourced from TheMovieDB.org
-TV-Shows are sourced from TheTVDB.com
-Music is sourced from Musicbrainz.org
+__There are a couple of key points to remember that will make this easier.__
+
+- Fanart.tv __DOES NOT__ keep a database of TV-Shows Movies or Music.
+- Fanart.tv __DOES__ source this information from other Databases.
+- Fanart.tv __DOES__ keeps it’s own Database of Images and Pages on our site.
+
+__The databases we use to source our information is as follows.__
+
+- Movies are sourced from [TheMovieDB.org](https://www.themoviedb.org/){target= blank}
+- TV-Shows are sourced from [TheTVDB.com](https://thetvdb.com/){target= blank}
+- Music is sourced from [Musicbrainz.org](https://musicbrainz.org/){target= blank}
+{target= blank}
+
 So for instance, if you would search for the movie Tron on our site, we then search through our own Database as well as all of these databases listed above and return every result, categorized by type.
 
-
+![site-search](../assets/images/hftvw-site-search.jpg)
 
 What does this all mean?
 

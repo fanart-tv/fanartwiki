@@ -58,4 +58,12 @@
     - __Try to use as much of the canvas as possible__
 
     This one is very subjective but you may get a denial when your clearart doesn’t use up as much space as it could. You should always strive to use as much of the canvas as possible. Sometimes this isn’t easy to do depending on the source you are working with, but it usually just means you need to get a little creative. Usually a mod will give you some pointers on how to achieve this if this happens to you. If not, it might just be an image that doesn’t work very well as a clearart.  
-    
+
+
+#### __Resources__
+
+??? example "HD ClearArt Templates and Tutorials"
+
+    - [Gimp HD ClearArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDClearart-Template_2021.xcf.zip){target= blank}
+    - Photoshop HD ClearArt Template
+    - [ClearArt Tutorials](https://fanart.tv/type/clearart-2/){target= blank}

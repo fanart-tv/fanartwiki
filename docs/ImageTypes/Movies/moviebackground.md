@@ -34,3 +34,12 @@
     - __Collection art should reflect characters or elements that were in all the movies.__
 
     The idea of collection art is to represent the entire collection, and not just one movie. This can be difficult sometimes but creativity should win out in the end if the effort is there. In the case where the main actor has changed, you could have all the main role actors in the same poster/clearart/banner etc. Or even an element that spans all the movies. Point is, if you make an art with a main character and a villain from a single movie, then that should be used for that movie and not as collection art.
+
+
+#### __Resources__
+
+??? example "Background Templates and Tutorials"
+
+    - Gimp Background Template
+    - Photoshop Background Template
+    - [Background Tutorials](https://fanart.tv/type/background/){target= blank}
