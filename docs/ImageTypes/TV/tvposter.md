@@ -17,10 +17,10 @@
 * Language for Textless Posters needs to be set to None, no exceptions
 * Images should not have borders or frames unless it is true to the original
 * A limit of 4 posters per show/movie per user. This can be any combination of text/textless. No Exceptions.
+ 
+---
 
-&nbsp;
-
-![Image](../../assets/images/sizing-template-poster.jpg)
+<img src="../../../assets/images/sizing-template-poster.jpg" onmouseover="this.src='../../../assets/images/sizing-template-poster.png'" onmouseout="this.src='../../../assets/images/sizing-template-poster.jpg'"/>
 
 ---
 

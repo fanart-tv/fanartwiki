@@ -21,10 +21,10 @@
 - Custom discs need to include a studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
 - A limit of 4 cdARTs per movie per user. No Exceptions.
 - UHD Bluray type discs require a link to the entry on [blue-ray.com](https://www.blu-ray.com/)
+ 
+---
 
-&nbsp;  
-
-![sizing-template-cdart.jpg](../../assets/images/sizing-template-cdart.jpg)
+<img src="../../../assets/images/sizing-template-cdart.jpg" onmouseover="this.src='../../../assets/images/sizing-template-cdart.png'" onmouseout="this.src='../../../assets/images/sizing-template-cdart.jpg'"/>
 
 ---
 

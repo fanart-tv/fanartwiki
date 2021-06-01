@@ -14,10 +14,10 @@
 - Consistency: if you are doing multiple seasons of one show, try to use the same font/layout for each of them.
 - Same image cannot be used more than once by the same user for multiple seasons.
 - Character images are fine if not many sources are available as long as they belong to the TV Show.
+ 
+---
 
-&nbsp;  
-
-![sizing-template-poster.jpg](../../assets/images/sizing-template-poster.jpg)
+<img src="../../../assets/images/sizing-template-poster.jpg" onmouseover="this.src='../../../assets/images/sizing-template-poster.png'" onmouseout="this.src='../../../assets/images/sizing-template-poster.jpg'"/>
 
 ---
 

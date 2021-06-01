@@ -1,14 +1,14 @@
 # __Personal API Keys__
 
-With the launch of *v3* - of the API we also introduced the concept of personal API keys, but it seems we never really posted anywhere why we added them or the benefits of using a personal API key.
+With the launch of *[v3](https://fanarttv.docs.apiary.io/#reference){target= blank}* - of the API we also introduced the concept of personal API keys, but it seems we never really posted anywhere why we added them or the benefits of using a personal API key.
 
 There were a couple of reasons for adding personal API keys, the first was to try and help with our problem of obscurity, last year our API was used nearly 2 billion times, but 99.9% of end users using our service will never have heard of us.
 
 Some well meaning developers make their end users get their own API key to use, but this makes it hard for us to check where traffic is coming from and if there are any potential issues with the service.
 
-Having personal API keys means the developer can use their own developer API key for the software and direct their end users to the site to obtain a personal API key.
+Having personal API keys means the developer can use their own developer API key for the software and direct their end users to the site to [obtain a personal API key.](https://fanart.tv/get-an-api-key/){target= blank}.
 
-The second reason was to reward members who help our continued survival by becoming VIP members, these users benefit from earlier access to newly approved images via the API.
+The second reason was to reward members who help our continued survival by becoming [VIP members](vip.md), these users benefit from earlier access to newly approved images via the API.
 
 V2 API requests are 2 weeks behind, v3 requests are a week behind, v3 requests with a personal API key are 2 days behind and v3 requests with a personal API key and the user is a VIP member are up to date.
 
@@ -23,9 +23,9 @@ I will explain this with an example.
 
 So if you use software that utilises our API, please encourage them to implement personal API keys in it.
 
-If the software you use has already implemented personal API keys, you can get your personal API key here. You will need to be logged in to request a personal API key.
+If the software you use has already implemented personal API keys, you can get your personal API key [here](https://fanart.tv/get-an-api-key/){target= blank}. You will need to be logged in to request a personal API key.
 
-Other benefits for VIP Members include:
+Other benefits for [VIP Members](vip.md) include:
 
 - Quicker API responses
 - Hide all advertising

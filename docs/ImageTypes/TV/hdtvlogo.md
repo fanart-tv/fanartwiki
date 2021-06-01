@@ -13,13 +13,13 @@
 * Always fill as much width/height as possible
 * Logos need to be visible on all kinds of backgrounds
 * Try to go with the lighter color version of a logo since 90% of skins are dark
-* Logo should be authentic to the original logo where possible
+* Logo color should be authentic to the original logo. If the original logo has a dark color, a white version is allowed.
 * No taglines, actor, director or studio. Just the title of the show
-* A limit of 4 logos per TV show per user. This can be any combination of Language. No Exceptions.Centered aligned both vertically and horizontally
+* A limit of 4 logos per TV show per user. No Exceptions
 
-&nbsp;
+---
 
-![Image](../../assets/images/sizing-template-logo.jpg)
+<img src="../../../assets/images/sizing-template-logo.jpg" onmouseover="this.src='../../../assets/images/sizing-template-logo.png'" onmouseout="this.src='../../../assets/images/sizing-template-logo.jpg'"/>
 
 ---
 

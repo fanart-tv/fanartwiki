@@ -16,10 +16,10 @@
 - No usernames or designer names are permitted
 - Only high quality images will be accepted
 - Original cd art preferred, but custom art considered if standards are met
+ 
+---
 
-&nbsp;  
-
-![sizing-template-cdart.jpg](../../assets/images/sizing-template-cdart.jpg)
+<img src="../../../assets/images/sizing-template-cdart.jpg" onmouseover="this.src='../../../assets/images/sizing-template-cdart.png'" onmouseout="this.src='../../../assets/images/sizing-template-cdart.jpg'"/>
 
 ---
 

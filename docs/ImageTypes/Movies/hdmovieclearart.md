@@ -16,8 +16,9 @@
 * Using glows should be avoided unless it is relevant to the clearart. Any clearart submitted with glows can be denied at moderators discretion.
 * A limit of 4 clearart per show/movie per user. No Exceptions.
  
+---
 
-![sizing-template-clearart.jpg](../../assets/images/sizing-template-clearart.jpg)
+<img src="../../../assets/images/sizing-template-clearart.jpg" onmouseover="this.src='../../../assets/images/sizing-template-clearart.png'" onmouseout="this.src='../../../assets/images/sizing-template-clearart.jpg'"/>
 
 ---
 

@@ -27,7 +27,7 @@ There are many different channels on the server, so try to make sure you are pos
 
 If someone is in the channel, you will most likely get an answer right away. If you need help with Discord itself, there is a big :fontawesome-solid-question-circle: in the top right-hand corner of the screen that will take you to the Discord help center.
 
-[Go there now..](https://discord.gg/r9VufRk)
+[Go there now..](https://discord.gg/r9VufRk){target= blank}
 
 ---
 
@@ -44,7 +44,7 @@ Make sure to use the Category and Application filters in the Side-Bar to quickly
 
 ![Discord Channels](../assets/images/Tutorials-Section.jpg)
 
-[Go there now..](https://fanart.tv/tutorials/)
+[Go there now..](https://fanart.tv/tutorials/){target= blank}
 
 ---
 
@@ -62,7 +62,7 @@ If the other help resources don’t quite fit your needs, the forums is probably
 
 ![Discord Channels](../assets/images/forums.jpg)
 
-[Go there now..](https://forum.fanart.tv/index.php?)
+[Go there now..](https://forum.fanart.tv/index.php?){target= blank}
 
 ---
 
@@ -70,8 +70,8 @@ If the other help resources don’t quite fit your needs, the forums is probably
 
 Here are a few of our most popular and useful help resources.
 
-- Getting Started
-- Navigating Fanart.tv
-- Why your art may be denied
+- [Getting Started](getting started.md)
+- [Navigating Fanart.tv](navigating fanart.tv.md)
+- [Why your art may be denied](https://fanart.tv/tutorials/artwork-may-denied/){target= blank}
 - How to search for images
 - Templates for Images

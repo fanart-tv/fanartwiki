@@ -23,7 +23,7 @@ Welcome to fanart.tv and thank you for joining. We hope you'll enjoy this site a
     - __Contribute time__ - We are always seeking skilled people to...
         - [moderate artwork](moderating.md)
         - administer the site
-        - contribute content
+        - [contribute content](contributor guide.md)
 
 So in it's most basic form, Fanart.tv is a library of images made available for everyone to download and use in their media centers, or however they please. 
 
