@@ -130,7 +130,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
         1. Follow the directions on [this page](https://support.thetvdb.com/kb/faq.php?id=23 "TV Sources of Truth"){target= blank} to source an English title.
 
-        1. The title you find , _(if any)_ is what you will enter on TheTVDB by [editing](https://support.thetvdb.com/kb/faq.php?id=32 "Editing Unlocked Series"){target= blank} the ^^Edit Translations^^ Section. _(must be logged in in to see it)_ 
+        1. The title you find , _(if any)_ is what you will enter on TheTVDB by [editing](https://support.thetvdb.com/kb/faq.php?id=32 "Editing Unlocked Series"){target= blank} the ^^Edit Translations^^ section. _(must be logged in in to see it)_ 
 
         ![tvdb edit ](../assets/images/hftvw-tvdb-edit.jpg)
 
@@ -217,7 +217,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
 Each site we source from are community driven sites like our own and rely on users like you to help maintain those databases accurately. We encourage you to create accounts on those sites so errors can be fixed when you spot them. 
 
-^^We encourage you to read and follow the rules on each site respectively.^^
+^^We also encourage you to read and follow the rules on each site respectively.^^
 
 The following resources should help you get started. 
 
