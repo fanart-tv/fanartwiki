@@ -18,9 +18,11 @@ extra_javascript:
   
 markdown_extensions:
   - smarty
+  - admonition
+  - footnotes
   - pymdownx.tabbed
   - pymdownx.details
-  - admonition
+  - footnotes
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.critic

@@ -4,7 +4,7 @@ Fanart.tv has a lot of resources available to help with just about anything.
 
 Use this list to find the best place to get help.
 
-- __[DISCORD](fanart help.md#discord s- erver)__
+- __[DISCORD](fanart help.md#discord-server)__
 - __[TUTORIALS](fanart help.md#tutorials)__
 - __[FORUMS](fanart help.md#forums)__
 - __[OTHER](fanart help.md#other)__

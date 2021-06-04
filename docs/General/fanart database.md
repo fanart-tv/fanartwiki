@@ -1,74 +1,238 @@
 # __HOW FANART.TV WORKS__
 
-Understanding how Fanart.tv works can be very confusuing, but I hope this guide will make a little easier.
+Understanding how Fanart.tv works can be very helpful if you are a regular on the site. 
 
-__There are a couple of key points to remember that will make this easier.__
+Use the menu on the right to go directly to a section of interest, or just start at the beginning.
 
-- Fanart.tv __DOES NOT__ keep a database of TV-Shows Movies or Music.
-- Fanart.tv __DOES__ source this information from other Databases.
-- Fanart.tv __DOES__ keeps it’s own Database of Images and Pages on our site.
+--- 
 
-__The databases we use to source our information is as follows.__
+## __Key points to remember__
 
-- Movies are sourced from [TheMovieDB.org](https://www.themoviedb.org/){target= blank}
-- TV-Shows are sourced from [TheTVDB.com](https://thetvdb.com/){target= blank}
-- Music is sourced from [Musicbrainz.org](https://musicbrainz.org/){target= blank}
-{target= blank}
+- Fanart.tv ^^__DOES NOT__^^ keep a database of TV-Shows Movies or Music.
+- Fanart.tv ^^__DOES__^^ source this information from other Databases.
+- Fanart.tv ^^__DOES__^^ keeps it’s own Database of Images.
+- Fanart.tv ^^__DOES NOT__^^ source TV information from TheMovieDB.
+- Fanart.tv ^^__DOES NOT__^^ source Movie information from TheTVDB.
 
-So for instance, if you would search for the movie Tron on our site, we then search through our own Database as well as all of these databases listed above and return every result, categorized by type.
+--- 
 
-![site-search](../assets/images/hftvw-site-search.jpg)
+## __The databases we source from__
 
-What does this all mean?
+|Section|Database|Typical ID# example|
+|:---|:---|:---|
+|__Movies__ |[TheMovieDB.org](https://www.themoviedb.org/){target= blank}|290859|
+|__TV-Shows__| [TheTVDB.com](https://thetvdb.com/){target= blank}|80344|
+|__Music__| [Musicbrainz.org](https://musicbrainz.org/){target= blank}|95e1ead9-4d31-4808-a7ac-32c3614c116b|
 
-There will be times when you will find a problem on our site such as the following:
+---
 
-Title not found
-Incorrect Title
-no-english-title-set
-Duplicate Entries
-All of these issues can be traced back to their respective Databases and need to be fixed there. These sites are constantly updating their own information and that doesn’t get propagated to our own site unless we make a new request for that information. (ie.. refresh our info) Once those changes are made at those sites, you can request in our Housekeeping section of the forums to have that Series/Movie/Artist page refreshed, and then this site should reflect those changes.
+## __Finding the right entry__
 
-Each of those sites we source from are community driven sites like our own and rely on users like you to help maintain those databases accurately. We encourage you to create accounts on those sites to be able to make changes when you see something that isn’t right. Of course we also encourage you to read and follow the rules on each site respectively.
+The glue that makes all this work is the __ID#__ used by each database. 
 
-TIPS ON EDITING.
-MUSICBRAINZ.ORG
-We have a tutorial here on how to Add Album to the Database.This can help if you can’t find the album already listed on our site.
-
-THEMOVIEDB.ORG:
-For the “no-english-title-set” problem. This usually means the movie was never released in the U.S. and as such needs an English translation for the title to show properly on our site. The proper way to fix this is to first check if an English title has been added already and we just need to refresh it on our site. (see above)
-
-If not, the next step is to check IMDB for an English alias (AKA).  You need to look down the page and find the heading named Details. Under that heading you will see a line named Also Known As. Click the see more link and check for an English or World-wide title. This is what you will enter on TheMovieDB by editing the Alternative Titles Section.
-
-The MovieDB Contribution Bible
-
-THETVDB.COM
-For the “no-english-title-set” problem, the process is actually similar as with movies. Once you’ve opened up the show’s page, look for the “Toolbox” on the right side of the page. There you will find a button for “Edit Translations”. Just add the proper information for the English Title and Plot as per thetvdb rules, and then we can update it on our side. One important point to be aware of is sometimes the series will be locked because of rampant vandalism in the past. So to have a title changed or added in a different language you may need to make a request.
-
-The TVDB Contribution Bible
-
-Notes:
-It can take a day or two once you make an edit on one of the DB sites for it to propagate and be available to their API. It’s best to give it at least a day before requesting a refresh. (2 days is better) That way we won’t have to do it twice.
-When the new site is finished, it will be available in multiple languages. So if you are trying to add German series/movie on the German site, you should see the German title by default and there will be no need to have a translated English title. Until then, we only have the English site which means the “no-english-title-set” is actually correct unless someone adds one.
-Which Entry to use when there are Duplicate Entries?
-Obtain the correct show/movie ID by visiting thetvdb or themoviedb. Each site uses a numerical ID# to identify an entry, and with this number you can determine which entry on our site to use.
-
-So you did a search for “A Million Little Things” on our site and you find duplicate entries. The first thing to note is the ID for each entry. This can be found in most browsers by just hovering over each link.
+If you can find the entry[^1] on the site where we get the information from, you can use their ID on _our_ site to go to that entry, or add the entry if missing. Hover over the images for each of the databases below to recognize where to find the source ID, and where the same ID is on our site. 
 
 
-You can also just go to each entry and look at your address bar to find the ID if the hovering didn’t work.
+=== "TheMovieDB #__290859__"
+
+    <img src="../../../assets/images/hftvw-tmdb-id.jpg" onmouseover="this.src='../../../assets/images/hftvw-fa-tmdb-id.jpg'" onmouseout="this.src='../../../assets/images/hftvw-tmdb-id.jpg'"/>
+
+=== "TheTVDB #__80344__"
+
+    <img src="../../../assets/images/hftvw-tvdb-id.jpg" onmouseover="this.src='../../../assets/images/hftvw-fa-tvdb-id.jpg'" onmouseout="this.src='../../../assets/images/hftvw-tvdb-id.jpg'"/>
+
+=== "MusicBrainz #__95e1ead9-4d31-4808-a7ac-32c3614c116b__"
+
+    <img src="../../../assets/images/hftvw-mb-id.jpg" onmouseover="this.src='../../../assets/images/hftvw-fa-mb-id.jpg'" onmouseout="this.src='../../../assets/images/hftvw-mb-id.jpg'"/>
+
+---
+
+## __Add missing entries__
+
+  If an item has not been added to our database yet, you can add it yourself using one of the following methods.
+
+  1. You can enter the ID in the Search Results page for the proper section
+
+  1. You can edit the URL directly to enter the ID from the source. _(see the pro tip below)_
+
+=== "Add Movie"
+
+    ![add-movie](../assets/images/hftvw-add-tmdb-id.jpg)
+
+=== "Add Show"
+
+    ![add-show](../assets/images/hftvw-add-tvdb-id.jpg)
+
+=== "Add Artist"
+
+    ![add-artist](../assets/images/hftvw-add-mb-id.jpg)
+
+  
+
+???+ info 
+
+    _Entering an ID that already exists, just takes you to that entry. If you are not comfortable editing URLs, you can use this method to navigate to that entry if you have the source ID._
+
+??? tip "Pro Tip"
+    Anything after the ID# in the URL can safely be ignored if you want to edit the URL directly.
+
+    __Example:__
+
+      If you use the URL [https://fanart.tv/movie/290859](https://fanart.tv/movie/290859){target= blank} 
+
+      it will fill in the the rest and take you to __https://fanart.tv/movie/290859/<span style="color:red">terminator-dark-fate/</span>__
+
+---
+
+## __Why any of this matters__
+
+These source databases do not sync with our database whenever they make a change, so entries can become duplicated, orphaned, erased, merged, etc...
+
+Here is a list of some of the issues you may encounter, and how to fix them. 
 
 
-Now that you know both numbers, you can head to thetvdb.org to find out which one to use. So if I searched for “A Million Little Things” on thetvdb.org, I can find this number right in the results page.
+??? warning "No matches found"
+
+    __Can't find correct result using the fanart.tv site search__
+
+    This can mean many things including miss-typing the title, entering the wrong title, searching in the wrong language, or it hasn't been added to our database yet.
+
+    The fix is to always locate the title at the [source](#finding-the-right-entry), and [enter that ID](#add-missing-entries) on our site.
 
 
-This number is also displayed inside the show’s entry.
+??? warning "Wrong Title"
 
+    __Entry is listed with the wrong title even though the ID# is correct.__
 
-Now that you know which entry to upload to, the last thing to do is to please notify a moderator or an admin so it can be fixed in our DB.
+    This means the official title was changed ^^after^^ the entry was created on our site. This is a very easy fix. Just ask to have the entry [refreshed](#request-a-refresh) on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#issues__ channel.
 
-Notes:
-For various reasons, ID numbers get changed quite frequently. (Shows merged, duplicate movies under different names, etc..)
-As we can’t control when other sites change ID numbers in their databases, there will be times when we will have image collisions once duplicate entries are merged
-All things being equal, the first upload by date will take precedence. If the newer image is a clear upgrade in quality, it will be selected instead.
-Moderator decisions are final.
+    Please paste a link to the entry you would like refreshed when making the request.
+
+??? warning "No English title set"
+
+    ??? info "The MovieDB"
+
+        This usually means the movie was never released in the U.S. and doesn't have and English title set. 
+
+        1. First verify if an English title has already been set but hasn't been refreshed on our site. _(see image below)_
+
+        2. If not, the next step is to check [IMDB](http://www.imdb.com/){target= blank} for an English alias. You need to look down the page and find the heading named ^^Details^^. Under that heading you will see a line named ^^Also Known As^^ _(AKA)_. Expand that heading and check for an _English_ or _World-wide_ title. This is what you will enter on TheMovieDB by editing the ^^Alternative Titles^^ Section.
+
+        ![Search ID](../assets/images/hftvw-tmdb-aka.jpg)
+
+        - Wait 48 hours after making any edits before requesting the entry be [refreshed](#request-a-refresh) on our site.
+
+    ??? info "The TVDB"    
+
+        This usually means that the show was not originally released in the U.S. and needs an English title added to the entry. Follow the directions on [this page](https://support.thetvdb.com/kb/faq.php?id=23){target= blank} to source an English title.
+
+        Once you have an English title, open up the show’s page and locate the ^^Toolbox^^ and select the menu item on the right side of the page. _(must be logged in in to see it)_ 
+
+        There you will find a button for ^^Edit Translations^^. Just add the proper information for the English Title and Plot as per [thetvdb rules](https://support.thetvdb.com/kb/index.php){target= blank}.
+
+        ![tvdb edit ](../assets/images/hftvw-tvdb-edit.jpg)
+
+          - Sometimes the series will be locked because of rampant vandalism in the past. To have a title changed that has been locked you will need to [make a request](https://support.thetvdb.com/kb/faq.php?id=33){target= blank}
+
+          - Wait 48 hours after making any edits before requesting the entry be [refreshed](#request-a-refresh) on our site.
+
+??? warning "Duplicate Entries"
+
+    So you did a search for “A Million Little Things” on our site and you find duplicate entries. The first thing to note is the ID for each entry. This can be found in most browsers by just hovering over each link.
+
+    ![Hover ID](../assets/images/hftvw-show-id-in-url-hover.jpg)
+    
+    You can also just go to each entry and look at your address bar to find the ID if the hovering didn’t work.
+    
+    ![URL ID](../assets/images/hftvw-show-id-in-url.jpg)
+    
+    Now that you know both numbers, you can head to thetvdb.org to find out which one to use. So if I searched for “A Million Little Things” on thetvdb.org, I can find this number right in the     results page.
+    
+    ![Search ID](../assets/images/hftvw-tvdb-series-search-id.jpg)
+    
+    This number is also displayed inside the show’s entry.
+    
+    ![Series ID](../assets/images/hftvw-tvdb-series-id.jpg)
+    
+    - Now that you know which entry to upload to, the last thing to do is to please notify a moderator or an admin so it can be fixed in our DB.
+
+    - You will also want to check the artwork in the duplicate entry so you won't have your [images denied](#proper-way-to-make-submissions) when they are eventually merged.
+
+    - The process is basically the same for Movies and Music entries. You can ask for help on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#help-requests__ channel if you are having trouble.
+
+---
+
+## __Proper way to make submissions__
+
+If you do not want to risk having your perfectly good artwork denied later on because the same artwork already exists in an orphaned entry, please ^^Make Sure...^^ 
+
+  1. __You are uploading to the [correct entry](#finding-the-right-entry)__
+      - Always find the ID at the source and use that to verify the correct entry on our site.
+
+  1. __There are not any orphaned entries on our site already.__
+      - Try using our search for similar titles. Use broad search terms and scan the results for any possible matches.
+
+  1. __Report any issues found__
+      - Please notify a moderator when you find any issues on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#issues__ channel
+
+---
+
+## __Request a refresh__
+
+  The sites we source our information from are constantly updating their own information. When they change something in their databases, it doesn’t get propagated to our own site unless we make a new request for that information. _(ie.. refresh our info)_ 
+
+  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#issues__ channel.
+
+  You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31){target= blank} section of the [forums](https://forum.fanart.tv/index.php){target= blank} if you prefer.
+
+  __Always__ paste a link to the entry to be refreshed, and state the reason for the refresh so the moderator can confirm the desired changed were made.
+
+??? warning "Wait 48 hours after making edits on a source site before requesting a refresh."
+  
+    It typically takes that long before the information is available to us to be refreshed. Asking any sooner than that is just wasting a moderators time and is not advised.
+
+---
+
+## __Merging duplicate entries__
+
+  Sometimes it's unavoidable and we have to merge multiple entries into one. This happens on the [source db sites](#the-databases-we-source-from) when they update their databases for [many reasons.](https://forums.thetvdb.com/search.php?keywords=merge+entries&terms=all&submit=Search "Some TVDB examples"){target= blank}
+
+  The fallout on our site, is that sometimes we have duplicate artwork that both users submitted to valid entries. The best way to avoid this for yourself is to learn the [proper way to make submissions.](#proper-way-to-make-submissions) 
+
+  When this does happen, we employ a few rules to be as fair as possible.
+
+   - All things being equal, the oldest submission is kept.
+   
+   - If the newer submission is instantly recognizable as a superior image, it is kept instead.
+
+   - Moderator decisions are final.
+
+---
+
+## __Tips on editing__
+
+Each site we source from are community driven sites like our own and rely on users like you to help maintain those databases accurately. We encourage you to create accounts on those sites so errors can be fixed when you spot them. 
+
+^^We encourage you to read and follow the rules on each site respectively.^^
+
+The following resources should help you get started. 
+
+??? info "[MUSICBRAINZ.ORG](http://musicbrainz.org/){target= blank}"
+
+    [The MusicBrainz Beginners Guide](https://musicbrainz.org/doc/Beginners_Guide){target= blank}
+
+    We also have a tutorial [here](https://fanart.tv/tutorials/add-album-database/){target= blank} on how to Add an Album to the Database.
+
+    This can help if you can’t find the album already listed on our site, and can help to understand MusicBrainz in general.
+
+??? info "[THEMOVIEDB.ORG](https://www.themoviedb.org/){target= blank}"
+
+    [The MovieDB Contribution Bible](https://www.themoviedb.org/bible/general){target= blank}
+
+??? info "[THETVDB.COM](http://thetvdb.com/){target= blank}"
+
+    [The TVDB Contribution Bible](https://support.thetvdb.com/kb/faq.php?cid=4){target= blank}
+
+[^1]:
+    The term "Entry" is used to identify any type of record in our, or any other database interchangeably. So an entry could be The Terminator Movie on our site, or The Beatles on the MusicBrainz site.
+
