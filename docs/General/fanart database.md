@@ -30,7 +30,7 @@ Use the menu on the right to go directly to a section of interest, or just start
 
 The glue that makes all this work is the __ID#__ used by each database. 
 
-If you can find the entry[^1] on the site where we get the information from, you can use their ID on _our_ site to go to that entry, or add the entry if missing. Hover over the images for each of the databases below to recognize where to find the source ID, and where the same ID is on our site. 
+If you can find the entry[^1] on the site where we get the information from, you can use their ID on _our_ site to go directly to that entry, or [add the entry](#add-missing-entries "Add missing entries") if missing. Hover over the images for each of the databases below to recognize where to find the source ID, and where the same ID is on our site. 
 
 
 === "TheMovieDB #__290859__"
@@ -51,7 +51,7 @@ If you can find the entry[^1] on the site where we get the information from, you
 
   If an item has not been added to our database yet, you can add it yourself using one of the following methods.
 
-  1. You can enter the ID in the Search Results page for the proper section
+  1. You can enter the ID in the Search Results page for the proper section.
 
   1. You can edit the URL directly to enter the ID from the source. _(see the pro tip below)_
 
@@ -71,10 +71,10 @@ If you can find the entry[^1] on the site where we get the information from, you
 
 ???+ info 
 
-    _Entering an ID that already exists, just takes you to that entry. If you are not comfortable editing URLs, you can use this method to navigate to that entry if you have the source ID._
+    _Entering an ID that already exists, just takes you to that entry. If you are not comfortable editing URLs, you can use this method to navigate directly to the entry._
 
 ??? tip "Pro Tip"
-    Anything after the ID# in the URL can safely be ignored if you want to edit the URL directly.
+    Anything after the ID# in the URL can safely be ignored.
 
     __Example:__
 
@@ -86,7 +86,7 @@ If you can find the entry[^1] on the site where we get the information from, you
 
 ## __Why any of this matters__
 
-These source databases do not sync with our database whenever they make a change, so entries can become duplicated, orphaned, erased, merged, etc...
+These [source databases](#the-databases-we-source-from "The databases we source from") do not sync with our database whenever they make a change, so entries can become duplicated, orphaned, erased, merged, etc...
 
 Here is a list of some of the issues you may encounter, and how to fix them. 
 
@@ -97,48 +97,52 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
     This can mean many things including miss-typing the title, entering the wrong title, searching in the wrong language, or it hasn't been added to our database yet.
 
-    The fix is to always locate the title at the [source](#finding-the-right-entry), and [enter that ID](#add-missing-entries) on our site.
+    The fix is to always [locate the title at the source](#finding-the-right-entry "Finding the right entry"), and [enter that ID](#add-missing-entries "Add missing entries") on our site.
 
 
 ??? warning "Wrong Title"
 
     __Entry is listed with the wrong title even though the ID# is correct.__
 
-    This means the official title was changed ^^after^^ the entry was created on our site. This is a very easy fix. Just ask to have the entry [refreshed](#request-a-refresh) on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#issues__ channel.
-
-    Please paste a link to the entry you would like refreshed when making the request.
+    This means the official title was changed ^^after^^ the entry was created on our site. This is a very easy fix. Just ask to have the entry [refreshed](#request-a-refresh "Request a refresh") on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel.
 
 ??? warning "No English title set"
 
     ??? info "The MovieDB"
 
-        This usually means the movie was never released in the U.S. and doesn't have and English title set. 
+        This usually means the movie was never released in the U.S. and doesn't have an English title set. 
 
-        1. First verify if an English title has already been set but hasn't been refreshed on our site. _(see image below)_
+        1. First verify if an English title has already been set but hasn't been [refreshed](#request-a-refresh "Request a refresh") on our site. _(see image below)_
 
-        2. If not, the next step is to check [IMDB](http://www.imdb.com/){target= blank} for an English alias. You need to look down the page and find the heading named ^^Details^^. Under that heading you will see a line named ^^Also Known As^^ _(AKA)_. Expand that heading and check for an _English_ or _World-wide_ title. This is what you will enter on TheMovieDB by editing the ^^Alternative Titles^^ Section.
+        1. If not, the next step is to check [IMDB](http://www.imdb.com/){target= blank} for an English alias. You need to look down the page and find the heading named ^^Details^^. Under that heading you will see a line named ^^Also Known As^^ _(AKA)_. Expand that heading and check for an _English_ or _World-wide_ title. 
+
+        1. The title you find on IMDB, _(if any)_ is what you will enter on TheMovieDB by editing the ^^Translations^^ Section.
 
         ![Search ID](../assets/images/hftvw-tmdb-aka.jpg)
 
-        - Wait 48 hours after making any edits before requesting the entry be [refreshed](#request-a-refresh) on our site.
+        - Wait 48 hours after making any edits before requesting the entry be [refreshed](#request-a-refresh "Request a refresh") on our site.
 
     ??? info "The TVDB"    
 
-        This usually means that the show was not originally released in the U.S. and needs an English title added to the entry. Follow the directions on [this page](https://support.thetvdb.com/kb/faq.php?id=23){target= blank} to source an English title.
+        This usually means the show was never released in the U.S. and doesn't have an English title set. 
 
-        Once you have an English title, open up the show’s page and locate the ^^Toolbox^^ and select the menu item on the right side of the page. _(must be logged in in to see it)_ 
+        1. First verify if an English title has already been set but hasn't been [refreshed](#request-a-refresh "Request a refresh") on our site. _(see image below)_
 
-        There you will find a button for ^^Edit Translations^^. Just add the proper information for the English Title and Plot as per [thetvdb rules](https://support.thetvdb.com/kb/index.php){target= blank}.
+        1. Follow the directions on [this page](https://support.thetvdb.com/kb/faq.php?id=23 "TV Sources of Truth"){target= blank} to source an English title.
+
+        1. The title you find , _(if any)_ is what you will enter on TheTVDB by [editing](https://support.thetvdb.com/kb/faq.php?id=32 "Editing Unlocked Series"){target= blank} the ^^Edit Translations^^ Section. _(must be logged in in to see it)_ 
 
         ![tvdb edit ](../assets/images/hftvw-tvdb-edit.jpg)
 
-          - Sometimes the series will be locked because of rampant vandalism in the past. To have a title changed that has been locked you will need to [make a request](https://support.thetvdb.com/kb/faq.php?id=33){target= blank}
+          - Sometimes the series will be locked for various reasons. To have a title changed for a locked series you will need to [make a request](https://support.thetvdb.com/kb/faq.php?id=33 "Requesting Changes to Locked/Certified Series"){target= blank}
 
-          - Wait 48 hours after making any edits before requesting the entry be [refreshed](#request-a-refresh) on our site.
+          - Wait 48 hours after making any edits before requesting the entry be [refreshed](#request-a-refresh "Request a refresh") on our site.
 
 ??? warning "Duplicate Entries"
 
-    So you did a search for “A Million Little Things” on our site and you find duplicate entries. The first thing to note is the ID for each entry. This can be found in most browsers by just hovering over each link.
+    So you did a search for “A Million Little Things” on our site and you find duplicate entries. 
+
+    The first thing to note is the ID for each entry. This can be found in most browsers by just hovering over each link.
 
     ![Hover ID](../assets/images/hftvw-show-id-in-url-hover.jpg)
     
@@ -158,7 +162,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
     - You will also want to check the artwork in the duplicate entry so you won't have your [images denied](#proper-way-to-make-submissions) when they are eventually merged.
 
-    - The process is basically the same for Movies and Music entries. You can ask for help on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#help-requests__ channel if you are having trouble.
+    - The process is basically the same for Movies and Music entries. You can ask for help on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server){target= blank} in the __#help-requests__ channel if you are having trouble.
 
 ---
 
@@ -173,7 +177,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
       - Try using our search for similar titles. Use broad search terms and scan the results for any possible matches.
 
   1. __Report any issues found__
-      - Please notify a moderator when you find any issues on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#issues__ channel
+      - Please notify a moderator when you find any issues on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel
 
 ---
 
@@ -181,7 +185,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
   The sites we source our information from are constantly updating their own information. When they change something in their databases, it doesn’t get propagated to our own site unless we make a new request for that information. _(ie.. refresh our info)_ 
 
-  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk){target= blank} in the __#issues__ channel.
+  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server){target= blank} in the __#issues__ channel.
 
   You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31){target= blank} section of the [forums](https://forum.fanart.tv/index.php){target= blank} if you prefer.
 
