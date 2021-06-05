@@ -30,7 +30,9 @@ Use the menu on the right to go directly to a section of interest, or just start
 
 The glue that makes all this work is the __ID#__ used by each database. 
 
-If you can find the entry[^1] on the site where we get the information from, you can use their ID on _our_ site to go directly to that entry, or [add the entry](#add-missing-entries "Add missing entries") if missing. Hover over the images for each of the databases below to recognize where to find the source ID, and where the same ID is on our site. 
+If you can find the entry[^1] on the site where we get the information from, you can use their ID on _our_ site to go directly to that entry, or [add the entry](#add-missing-entries "Add missing entries") if missing. 
+
+Hover over the images for each of the databases below to recognize where to find the source ID, and where the same ID is on our site. 
 
 
 === "TheMovieDB #__290859__"
@@ -140,29 +142,25 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
 ??? warning "Duplicate Entries"
 
-    So you did a search for “A Million Little Things” on our site and you find duplicate entries. 
+    There will be times when you will find duplicated entries when searching the site. 
 
-    The first thing to note is the ID for each entry. This can be found in most browsers by just hovering over each link.
+    When this happens you will need to know which is the valid entry to submit to, and will need to notify a moderator on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel so they can [merge the duplicates into one.](#merging-duplicate-entries "Merging duplicate entries")
 
-    ![Hover ID](../assets/images/hftvw-show-id-in-url-hover.jpg)
+    You should also look through both entries so you don't [submit art that already exists](#proper-way-to-make-submissions "Proper way to make submissions"). 
     
-    You can also just go to each entry and look at your address bar to find the ID if the hovering didn’t work.
-    
-    ![URL ID](../assets/images/hftvw-show-id-in-url.jpg)
-    
-    Now that you know both numbers, you can head to thetvdb.org to find out which one to use. So if I searched for “A Million Little Things” on thetvdb.org, I can find this number right in the     results page.
-    
-    ![Search ID](../assets/images/hftvw-tvdb-series-search-id.jpg)
-    
-    This number is also displayed inside the show’s entry.
-    
-    ![Series ID](../assets/images/hftvw-tvdb-series-id.jpg)
-    
-    - Now that you know which entry to upload to, the last thing to do is to please notify a moderator or an admin so it can be fixed in our DB.
+     ---
 
-    - You will also want to check the artwork in the duplicate entry so you won't have your [images denied](#proper-way-to-make-submissions) when they are eventually merged.
+    Find the ID of each duplicate by hovering over the links in the search results, or by going to each result and looking at the URL.
 
-    - The process is basically the same for Movies and Music entries. You can ask for help on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server){target= blank} in the __#help-requests__ channel if you are having trouble.
+    === "Hover the Title"
+
+        ![Hover ID](../assets/images/hftvw-show-id-in-url-hover.jpg)
+    
+    === "Go to Title"
+
+        ![URL ID](../assets/images/hftvw-show-id-in-url.jpg)
+
+      Now you can [find the right entry](#finding-the-right-entry "Finding the right entry") at the source database.
 
 ---
 
@@ -170,7 +168,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
 If you do not want to risk having your perfectly good artwork denied later on because the same artwork already exists in an orphaned entry, please ^^Make Sure...^^ 
 
-  1. __You are uploading to the [correct entry](#finding-the-right-entry)__
+  1. __You are uploading to the [correct entry](#finding-the-right-entry "Finding the right entry")__
       - Always find the ID at the source and use that to verify the correct entry on our site.
 
   1. __There are not any orphaned entries on our site already.__
@@ -185,11 +183,11 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
   The sites we source our information from are constantly updating their own information. When they change something in their databases, it doesn’t get propagated to our own site unless we make a new request for that information. _(ie.. refresh our info)_ 
 
-  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server){target= blank} in the __#issues__ channel.
+  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel.
 
   You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31){target= blank} section of the [forums](https://forum.fanart.tv/index.php){target= blank} if you prefer.
 
-  __Always__ paste a link to the entry to be refreshed, and state the reason for the refresh so the moderator can confirm the desired changed were made.
+  __Always__ paste a link to the entry to be refreshed, and state the reason for the refresh so the moderator can confirm the desired changes were made.
 
 ??? warning "Wait 48 hours after making edits on a source site before requesting a refresh."
   
