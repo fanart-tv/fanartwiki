@@ -106,7 +106,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
     __Entry is listed with the wrong title even though the ID# is correct.__
 
-    This means the official title was changed ^^after^^ the entry was created on our site. This is a very easy fix. Just ask to have the entry [refreshed](#request-a-refresh "Request a refresh") on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel.
+    This means the official title was changed ^^after^^ the entry was created on our site. This is a very easy fix. Just ask to have the entry [refreshed](#request-a-refresh "Request a refresh") on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel.
 
 ??? warning "No English title set"
 
@@ -144,7 +144,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
     There will be times when you will find duplicated entries when searching the site. 
 
-    When this happens you will need to know which is the valid entry to submit to, and will need to notify a moderator on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel so they can [merge the duplicates into one.](#merging-duplicate-entries "Merging duplicate entries")
+    When this happens you will need to know which is the valid entry to submit to, and will need to notify a moderator on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel so they can [merge the duplicates into one.](#merging-duplicate-entries "Merging duplicate entries")
 
     You should also look through both entries so you don't [submit art that already exists](#proper-way-to-make-submissions "Proper way to make submissions"). 
     
@@ -160,7 +160,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
         ![URL ID](../assets/images/hftvw-show-id-in-url.jpg)
 
-      Now you can [find the right entry](#finding-the-right-entry "Finding the right entry") at the source database.
+      Use those IDs to [find the valid entry](#finding-the-right-entry "Finding the right entry") at the source database.
 
 ---
 
@@ -175,7 +175,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
       - Try using our search for similar titles. Use broad search terms and scan the results for any possible matches.
 
   1. __Report any issues found__
-      - Please notify a moderator when you find any issues on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel
+      - Please notify a moderator when you find any issues on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel
 
 ---
 
@@ -183,7 +183,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
   The sites we source our information from are constantly updating their own information. When they change something in their databases, it doesn’t get propagated to our own site unless we make a new request for that information. _(ie.. refresh our info)_ 
 
-  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the __#issues__ channel.
+  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel.
 
   You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31){target= blank} section of the [forums](https://forum.fanart.tv/index.php){target= blank} if you prefer.
 
@@ -211,11 +211,9 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
 ---
 
-## __Tips on editing__
+## __Tips on editing the source__
 
 Each site we source from are community driven sites like our own and rely on users like you to help maintain those databases accurately. We encourage you to create accounts on those sites so errors can be fixed when you spot them. 
-
-^^We also encourage you to read and follow the rules on each site respectively.^^
 
 The following resources should help you get started. 
 
