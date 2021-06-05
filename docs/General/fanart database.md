@@ -144,7 +144,7 @@ Here is a list of some of the issues you may encounter, and how to fix them.
 
     There will be times when you will find duplicated entries when searching the site. 
 
-    When this happens you will need to know which is the valid entry to submit to, and will need to notify a moderator on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel so they can [merge the duplicates into one.](#merging-duplicate-entries "Merging duplicate entries")
+    When this happens you will need to know which is the valid entry, and will need to notify a moderator on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel so they can [merge the duplicates into one.](#merging-duplicate-entries "Merging duplicate entries")
 
     You should also look through both entries so you don't [submit art that already exists](#proper-way-to-make-submissions "Proper way to make submissions"). 
     
@@ -185,7 +185,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
   The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel.
 
-  You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31){target= blank} section of the [forums](https://forum.fanart.tv/index.php){target= blank} if you prefer.
+  You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31 "The Fanart.tv Housekeeping Forum"){target= blank} section of the [forums](https://forum.fanart.tv/index.php "The Fanart.tv Forums"){target= blank} if you prefer.
 
   __Always__ paste a link to the entry to be refreshed, and state the reason for the refresh so the moderator can confirm the desired changes were made.
 
@@ -199,7 +199,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
   Sometimes it's unavoidable and we have to merge multiple entries into one. This happens on the [source db sites](#the-databases-we-source-from) when they update their databases for [many reasons.](https://forums.thetvdb.com/search.php?keywords=merge+entries&terms=all&submit=Search "Some TVDB examples"){target= blank}
 
-  The fallout on our site, is that sometimes we have duplicate artwork that both users submitted to valid entries. The best way to avoid this for yourself is to learn the [proper way to make submissions.](#proper-way-to-make-submissions) 
+  The fallout on our site, is that sometimes we have duplicate artwork that both users submitted to valid entries. The best way to avoid this for yourself is to learn the [proper way to make submissions.](#proper-way-to-make-submissions "The proper way to make submissions") 
 
   When this does happen, we employ a few rules to be as fair as possible.
 
@@ -219,19 +219,19 @@ The following resources should help you get started.
 
 ??? info "[MUSICBRAINZ.ORG](http://musicbrainz.org/){target= blank}"
 
-    [The MusicBrainz Beginners Guide](https://musicbrainz.org/doc/Beginners_Guide){target= blank}
+    [The MusicBrainz Beginners Guide](https://musicbrainz.org/doc/Beginners_Guide "The MusicBrainz Beginners Guide"){target= blank}
 
-    We also have a tutorial [here](https://fanart.tv/tutorials/add-album-database/){target= blank} on how to Add an Album to the Database.
+    We also have a tutorial [here](https://fanart.tv/tutorials/add-album-database/ "How to add an album to the database"){target= blank} on how to Add an Album to the Database.
 
     This can help if you can’t find the album already listed on our site, and can help to understand MusicBrainz in general.
 
 ??? info "[THEMOVIEDB.ORG](https://www.themoviedb.org/){target= blank}"
 
-    [The MovieDB Contribution Bible](https://www.themoviedb.org/bible/general){target= blank}
+    [The MovieDB Contribution Bible](https://www.themoviedb.org/bible/general "The MovieDB Contribution Bible"){target= blank}
 
 ??? info "[THETVDB.COM](http://thetvdb.com/){target= blank}"
 
-    [The TVDB Contribution Bible](https://support.thetvdb.com/kb/faq.php?cid=4){target= blank}
+    [The TVDB Contribution Bible](https://support.thetvdb.com/kb/faq.php?cid=4 "The TVDB Contribution Bible"){target= blank}
 
 [^1]:
     The term "Entry" is used to identify any type of record in our, or any other database interchangeably. So an entry could be The Terminator Movie on our site, or The Beatles on the MusicBrainz site.
