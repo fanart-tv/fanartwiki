@@ -46,7 +46,8 @@ We maintain a list of requirements that an image submission must meet in order t
     - [Record Label](../ImageTypes/Music/musiclabel.md)
 
 
-We have a large collection of [tutorials and guides](https://fanart.tv/tutorials/){target=_blank} that are available to help you create high quality artwork that is designed to be accepted to our site. If you need further help, you should check out the [FAQ](faq.md), or our [Help Guide](fanart help.md).
+We have a large collection of [tutorials and guides](https://fanart.tv/tutorials/){target=_blank} that are available to help you create high quality artwork that is designed to be accepted to our site. If you need further help, you should check out the [FAQ](faq.md), the guide on [How Fanart.tv works](fanart database.md), or our [Help Guide](fanart help.md).
+
 
 
 ---
@@ -60,7 +61,7 @@ We have a large collection of [tutorials and guides](https://fanart.tv/tutorials
 
 ### __2.) Submit Artwork__
 
-Once you've met all the image requirements and are ready to start uploading, you will need to navigate to the [correct page](fanart database.md "Make sure you are on the correct page and not a defunct entry") on the site and use the [UPLOAD](#){ .md-button .md-button--primary id='upload'} button for the type of image you are uploading. Depending on the type of image, you will get a different upload dialog that must be read and understood. 
+Once you've met all the image requirements and are ready to start uploading, you will need to navigate to the [correct page](fanart database.md#finding-the-right-entry "Make sure you are on the correct page and not a defunct entry") on the site and use the [UPLOAD](#submit-artwork){ .md-button .md-button--primary id='upload'} button for the type of image you are uploading. Depending on the type of image, you will get a different upload dialog that must be read and understood. 
 
 
 === "Basic"

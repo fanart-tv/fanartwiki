@@ -72,6 +72,7 @@ Here are a few of our most popular and useful help resources.
 
 - [Getting Started](getting started.md)
 - [Navigating Fanart.tv](navigating fanart.tv.md)
+- [How Fanart.tv works](fanart database.md)
 - [Why your art may be denied](https://fanart.tv/tutorials/artwork-may-denied/){target= blank}
 - How to search for images
 - Templates for Images

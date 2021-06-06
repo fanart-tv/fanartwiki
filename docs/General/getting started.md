@@ -79,9 +79,9 @@ Hopefully this overview of the site will give you the big picture of what we do 
 
 Where to go from here depends on what you want to do. Have a look at some of these other popular resources to get some more targeted information.
 
-- [Navigating Fanart.tv](navigating fanart.tv.md)
 - [FAQ](faq.md)
-- [User Guide]
+- [Navigating Fanart.tv](navigating fanart.tv.md)
+- [User Guide](user guide.md)
 - [Contributor Guide](contributor guide.md)
 - [Site Rules](site rules.md)
 - [Become a VIP](vip.md)

@@ -8,11 +8,9 @@ Use the menu on the right to go directly to a section of interest, or just start
 
 ## __Key points to remember__
 
-- Fanart.tv ^^__DOES NOT__^^ keep a database of TV-Shows Movies or Music.
-- Fanart.tv ^^__DOES__^^ source this information from other Databases.
+- Fanart.tv ^^__DOES NOT__^^ keep a database of TV-Shows, Movies, or Music.
+- Fanart.tv ^^__DOES__^^ source this information from [other Databases](#the-databases-we-source-from "The databases we source from").
 - Fanart.tv ^^__DOES__^^ keeps it’s own Database of Images.
-- Fanart.tv ^^__DOES NOT__^^ source TV information from TheMovieDB.
-- Fanart.tv ^^__DOES NOT__^^ source Movie information from TheTVDB.
 
 --- 
 
