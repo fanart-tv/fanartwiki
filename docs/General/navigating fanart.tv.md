@@ -6,9 +6,35 @@ The aim of this guide is to help you understand how everything is laid out, and 
 
 ---
 
-### __The Database__
+### __The Front Page__
+The top of the fornt page and every other page contains a menu bar that contains the most important parts of the site.
 
-These pages are the core of the site and the reason you are probably here. They are also the easiest pages navigate and explore. If you’ve already read the “Getting Started” guide then you should have a basic understanding of these pages. Each media category has a main page with loads of information on the types of images we store, rules for each image type, tutorials, requests, latest additions, biggest contributors, and more.
+Below you can explore these menus and what they are for.
+
+=== "VIP"
+    
+    This is a direct link to read about the benefits of becoming a [VIP](vip.md "Become a VIP") on the site
+
+=== "Artwork"
+    
+    === "TV"
+        This takes you to our [TV Shows](https://fanart.tv/tv-fanart/ "Library of TV Show Images"){target= blank} landing page.
+
+        Here you will find information on every type of image we offer for TV shows
+
+    === "Music"
+        This takes you to our image library of [Music Artists](https://fanart.tv/music-fanart/ "Library of Music Images"){target= blank}.
+
+    === "Movies"
+        This takes you to our image library of [Movies](https://fanart.tv/movie-fanart/ "Library of Movie Images"){target= blank}.
+
+
+
+### __The Image Database__
+
+These pages are the core of the site and the reason you are probably here. They are also the easiest pages navigate and explore. 
+
+Each media category has a main page with loads of information on the types of images we store, rules for each image type, tutorials, requests, latest additions, biggest contributors, and more.
 
 These pages can be accessed in a few ways.
 

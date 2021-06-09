@@ -42,6 +42,8 @@
 
     - __Each user is limited to creating a piece of art in a maximum of 2 languages.__
 
+    - __The most prominent language in the logo is what determines what languge to set.__
+
     - __If the title of a Movie/TV Show is identical in any country to the title in English, the image MUST be uploaded as English. It is your responsibility to check [imdb](http://www.imdb.com/) or [tvdb](http://thetvdb.com/) before you upload it.__
 
     English is the default language as well as the fallback language in Media Centers, this will ensure the artwork is available to the widest audience possible. When we move to the new site, we will have an option to set a piece of art to multiple languages which will make this rule obsolete, but until then please observe this rule.

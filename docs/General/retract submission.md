@@ -4,46 +4,6 @@ You might notice a mistake in your submission and want to replace it before it g
 
 Follow this guide to remove your own submissions.
 
----
-
-__1.) Open Dashboard__
-
-You can use the [dashboard link](http://fanart.tv/wp-admin/) under the gauge logo at the top left of every page.
-
-![Wordpress Dashboard](../assets/images/replace-submission-1.jpg)
-
-
-__2.) Go To My Submissions__
-
-Navigate to the proper section on the left menu. _(Movie Fanart / Music Fanart / TV Fanart)_
-
-![My Submissions](../assets/images/replace-submission-2.jpg)
-
-
-__3.) Locate Image Type__
-
-From here you select the proper section from the menu across the top.
-
-![My Submissions](../assets/images/replace-submission-3.jpg)
-
-
-__4.) Delete Image__
-
-Now hover over the image and the Delte button will appear. Use it to delete the image
-
-![My Submissions](../assets/images/replace-submission-4.gif)
-
-
----
-
----
-
----
-
-You might notice a mistake in your submission and want to replace it before it gets moderated.
-
-Follow this guide to remove your own submissions.
-
 === "1- Dashboard"
 
     You can use the [dashboard link](http://fanart.tv/wp-admin/) under the gauge logo at the top left of every page.
