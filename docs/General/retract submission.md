@@ -27,7 +27,7 @@ Follow this guide to remove your own submissions.
 
 === "4- Delete"
 
-    Now hover over the image and the Delte button will appear. Use it to delete the image
+    Now hover over the image and the Delete button will appear. Use it to delete the image
 
     ![My Submissions](../assets/images/replace-submission-4.gif)
 
