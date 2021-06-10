@@ -28,6 +28,52 @@ Below you can explore these menus and what they are for.
     === "Movies"
         This takes you to our image library of [Movies](https://fanart.tv/movie-fanart/ "Library of Movie Images"){target= blank}.
 
+    === "Sitewide Activity"
+        The heartbeat of the site. You can follow this feed to see all the new art, comments, posts, and more.
+
+    === "Contributors"
+        Points are distributed to contributors based on the amount of contribution to the site. See the list here and the values given for different contributions.
+
+
+=== "About"
+    
+    === "Newsletters"
+        Signup for our newsletter [here](https://fanart.tv/newsletter-signup/ "Newsletter Signup"){target= blank}.
+
+    === "Why your image may be denied"
+        [Here](https://fanart.tv/tutorials/artwork-may-denied/ "Why Your Image May Be Denied"){target= blank} you will find the most common reasons for having your submissions denied.
+
+    === "Moderation time"
+        We get asked a lot how long it takes to have an image approved. You can read about it [here](moderation time.md).
+
+    === "Staff"
+        A list of the current [site staff](https://fanart.tv/staff/ "Site Staff"){target= blank}, their role on the site, and more.
+
+    === "Moderation statistics"
+        Find out who has moderated the most images this month, and all time.
+
+    === "A.F. Members"
+        This is a list of [Associated Fanart members](https://fanart.tv/the-associated-fanart/ "Associated Fanart members"){target= blank}. You can find out more about it [here](https://fanart.tv/2012/09/the-associated-fanart/ "The Associated Fanart"){target= blank}.
+
+    === "History"
+        A [history and timeline](https://fanart.tv/history/ "The History of Fanart.tv"){target= blank} of how the site came to be.
+
+=== "Support"
+    This will take you to our [Discord server](https://discord.gg/r9VufRk "Discord Server"){target= blank} which is the fastes place to get help.
+
+=== "Tutorials"
+    Look through our [library of tutorials](https://fanart.tv/tutorials/ "Fanart.tv Tutorials"){target= blank} for general and targeted information covering many subjects.
+
+=== "Blog"
+    https://fanart.tv/blog/
+
+=== "Dontate"
+    https://fanart.tv/contribute/
+
+=== "Sponsors"
+    https://fanart.tv/sponsors/
+
+
 
 
 ### __The Image Database__
