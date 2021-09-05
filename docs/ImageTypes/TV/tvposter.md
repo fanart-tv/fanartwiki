@@ -16,7 +16,8 @@
 * Editions: 3D, Extended Cut, Final Cut, Directors Cut, etc can be used only if it is an official studio release (If you can buy it in a store, you can use it)
 * Language for Textless Posters needs to be set to None, no exceptions
 * Images should not have borders or frames unless it is true to the original
-* A limit of 4 posters per show/movie per user. This can be any combination of text/textless. No Exceptions.
+* A poster may only be used twice. (2 Languages or Language/Textless)
+* A limit of 4 posters per user. This can be any combination of text/textless. No Exceptions.
  
 ---
 
