@@ -72,7 +72,7 @@
 
 ??? example "HD ClearArt Templates and Tutorials"
 
-    - [Gimp HD ClearArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDClearart-Template_2021.xcf.zip){target= blank}
+    - [Gimp HD ClearArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDClearart-Template_2021.xcf){target= blank}
     - Photoshop HD ClearArt Template
     - [ClearArt Tutorials](https://fanart.tv/type/clearart-2/){target= blank}
     

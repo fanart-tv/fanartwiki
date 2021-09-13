@@ -76,7 +76,7 @@
 
 ??? example "Movie Disc Templates and Tutorials"
 
-    - [Gimp Movie Disc Template](https://fanart.tv/wp-content/uploads/2021/05/Gimp-cdART-Template-3_1.zip){target= blank}
+    - [Gimp Movie Disc Template](https://fanart.tv/wp-content/uploads/2016/09/cdART-Template-v3.rar){target= blank}
     - Photoshop Movie Disc Template
     - [Movie Disc Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
     

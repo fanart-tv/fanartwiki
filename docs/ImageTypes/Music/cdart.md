@@ -64,7 +64,7 @@
 
 ??? example "cdArt Templates and Tutorials"
 
-    - [Gimp cdArt Template](https://fanart.tv/wp-content/uploads/2021/05/Gimp-cdART-Template-3_1.zip){target= blank}
+    - [Gimp cdArt Template](https://fanart.tv/wp-content/uploads/2016/09/cdART-Template-v3.rar){target= blank}
     - Photoshop cdArt Template
     - [cdArt Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
     
