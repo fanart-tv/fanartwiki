@@ -26,10 +26,6 @@
 
     - __Do not submit art that is similar to art already on the site, or to your own submissions. __
 
-    - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
-
-    - __The only exception is the 2 language rule.__
-
 
 #### __Resources__
 
