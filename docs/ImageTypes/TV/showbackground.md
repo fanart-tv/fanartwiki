@@ -14,6 +14,7 @@
 - Images should not have any logos or other text on them
 - Images should not have borders or frames round them
 - We will only accept screenshots if they are high quality and no alternative, higher quality artwork exists.
+- Screenshots/Screengrabs are limited to two (2) per user, no exceptions.
 
 ---
 
