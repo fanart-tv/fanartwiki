@@ -40,3 +40,10 @@
     We really don’t want to swamp our database with a zillion images in every possible language/format that exists. If there is an interest for some art in a language that is not available, it will prompt that user to either create that artwork themselves, or they can use the request system. This way only images that are in demand are getting produced, and we are not filling up our pages with art gathering dust.  
     
     Our goal should be to try and fill in or make artwork where there is none. This is much more helpful to the site. One look at our [Incomplete Section](https://fanart.tv/list-page/) should give plenty of opportunities for people who want to produce a lot of art and want to really help the site at the same time.
+    
+
+#### __Resources__
+
+??? example "Background Templates and Tutorials"
+
+    - [Why Your Artwork May Be Denied](https://fanart.tv/tutorials/artwork-may-denied){target= blank}

@@ -76,6 +76,7 @@
 
 ??? example "Movie Disc Templates and Tutorials"
 
+    - [Why Your Artwork May Be Denied](https://fanart.tv/tutorials/artwork-may-denied){target= blank}
     - [Gimp Movie Disc Template](https://fanart.tv/wp-content/uploads/2016/09/cdART-Template-v3.rar){target= blank}
     - Photoshop Movie Disc Template
     - [Movie Disc Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
