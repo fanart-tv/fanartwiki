@@ -77,7 +77,7 @@ These images are cataloged by sections and then by types.
 
 Hopefully this overview of the site will give you the big picture of what we do here. 
 
-Where to go from here depends on what you want to do. Have a look at some of these other popular resources to get some more targeted information.
+Where to go from here depends on what you want to do. Have a look at some of these other popular resources to get more targeted information.
 
 - [FAQ](faq.md)
 - [Navigating Fanart.tv](navigating fanart.tv.md)
