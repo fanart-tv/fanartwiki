@@ -4,15 +4,12 @@ vip {
 }
 
 // Table heading
-th {
-  color: var(--md-default-bg-color) !important;
-  vertical-align: top;
-  background-color: var(--md-default-fg-color--light) !important;
-
-  // Links in table headings
-  a {
-    color: inherit;
-  }
+.md-typeset table:not([class]) th {
+    min-width: 5rem;
+    padding: 0.9375em 1.25em;
+    color: var(--md-default-bg-color);
+    vertical-align: top;
+    background-color: var(--md-default-fg-color--light);
 }
 
 table tr:last-child td:first-child {
