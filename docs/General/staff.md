@@ -1,5 +1,5 @@
 # __Staff__
-||Name|Member Since| Position|Language|Moderation Specialty|
+||Name|Member Since|Position|Language|Specialty|
 |--------|----|------------|---------|--------|--------------------|
 |<img src="https://fanart.tv/images/package/photoshop.png" width="25" height="25" title="Photoshop"/>|<a href="https://fanart.tv/members/kode/">Kode</a>|Dec 2010|Founder|<a href="https://en.wikipedia.org/wiki/English_language" target="_blank" class="staff-lang" rel="noopener noreferrer">EN</a>|Coding|
 |<img src="https://fanart.tv/images/package/gimp.png" width="25" height="25" title="Gimp"/>|<a href="https://fanart.tv/members/akovia/">Akovia</a>|Oct 2012|Admin|<a href="https://en.wikipedia.org/wiki/English_language" target="_blank" class="staff-lang" rel="noopener noreferrer">EN</a>|TV|
@@ -19,7 +19,7 @@
 
 
 # __Inactive Staff__
-||Name|Member Since| Position|Language|Moderation Specialty|
+||Name|Member Since|Position|Language|Specialty|
 |--------|----|------------|---------|--------|--------------------|
 |<img src="https://fanart.tv/images/package/photoshop.png" width="25" height="25" class="graph-logo" title="Photoshop"/>|<a href="https://fanart.tv/members/aries/">ArieS</a>|Oct 2012|Admin|<a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noopener noreferrer">EN</a> / <a href="https://en.wikipedia.org/wiki/French_language" target="_blank" class="staff-lang" rel="noopener noreferrer">FR</a>|All|
 |<img src="https://fanart.tv/images/package/photoshop.png" width="25" height="25" class="graph-logo" title="Photoshop"/>|<a href="https://fanart.tv/members/leepenny/">leepenny</a>|Jan 2011|Senior Mod|<a href="https://en.wikipedia.org/wiki/English_language" target="_blank" class="staff-lang" rel="noopener noreferrer">EN</a>|Disc Art|
