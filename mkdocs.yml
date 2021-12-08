@@ -60,6 +60,7 @@ nav:
     - 'Site Information':
         - 'Site Rules': 'General/site rules.md'
         - 'Help': 'General/fanart help.md'
+        - 'Staff': 'General/staff.md'
         - 'Moderation Time': 'General/moderation time.md'
         - 'VIP Members': 'General/vip.md'
         - 'Personal API Keys': 'General/personal api.md'
