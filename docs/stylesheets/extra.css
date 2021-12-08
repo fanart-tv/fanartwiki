@@ -5,8 +5,6 @@ vip {
 
 // Table heading
 th {
-  min-width: px2rem(40px) !important;
-  padding: px2em(12px, 12.8px) px2em(16px, 12.8px);
   color: var(--md-default-bg-color) !important;
   vertical-align: top;
   background-color: var(--md-default-fg-color--light) !important;
