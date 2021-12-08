@@ -3,6 +3,20 @@ vip {
 
 }
 
+// Table heading
+th {
+  min-width: px2rem(30px);
+  padding: px2em(12px, 12.8px) px2em(16px, 12.8px);
+  color: var(--md-default-bg-color);
+  vertical-align: top;
+  background-color: var(--md-default-fg-color--light);
+
+  // Links in table headings
+  a {
+    color: inherit;
+  }
+}
+
 table tr:last-child td:first-child {
     border-top-left-radius: 10px;
 }
