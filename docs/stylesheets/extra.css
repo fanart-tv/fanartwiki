@@ -3,6 +3,12 @@ vip {
 
 }
 
+
+ h1 {
+    color: red !important;
+  }
+
+
 // Table heading
 .md-typeset table:not([class]) th {
     min-width: 5rem;
