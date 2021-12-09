@@ -13,7 +13,7 @@
 - The cdART template must be used for consistency
 - Outside areas and middle must be transparent
 - Split rings must be used when necessary
-- Images must be rotated so that they are upright
+- Images must be rotated so that the text is upright
 - No usernames or designer names are permitted
 - Only high quality images will be accepted
 - Size limit is max. 1.25Mb. Please try to make them as small as possible
