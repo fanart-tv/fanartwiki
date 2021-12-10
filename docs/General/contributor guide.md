@@ -113,7 +113,7 @@ Once you've met all the image requirements and are ready to start uploading, you
 
 ### __3.) Moderation__
 
-If you have gotten this far, your images are now in the hands of our [volunteer moderators](https://fanart.tv/staff/){target=_blank}. 
+If you have gotten this far, your images are now in the hands of our [volunteer moderators](../General/staff.md)
 
 They will inspect each image to determine if it meets all of the technical, and subjective requirements to be added to our library.
 
@@ -143,7 +143,7 @@ They will inspect each image to determine if it meets all of the technical, and 
 
     Make sure to fill out your user profile on the site. This will let the moderators know what graphics program you are using, as well as your native language. 
 
-    This will help us, help you. We can now point you to the appropriate tutorials for your software, and can speak with your in your native language if we have a [moderator on staff](https://fanart.tv/staff/){target=_blank} that speaks your language.
+    This will help us, help you. We can now point you to the appropriate tutorials for your software, and can speak with your in your native language if we have a [moderator on staff](../General/staff.md) that speaks your language.
 
     __1.__ Hover over your user avatar in the top right of the page and select "__Edit Profile__"
     ![Edit Profile](../assets/images/edit-profile.jpg)

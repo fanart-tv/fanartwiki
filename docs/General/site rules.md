@@ -9,7 +9,7 @@ We will **NOT** ban anyone for a difference of opinion, but it must be done in 
 ### __Use Common Decency:__
 
 !!! info
-    This isn't the wild west. Treat everyone with respect and you will receive it in return. The entire [staff](https://fanart.tv/staff/) here are volunteers and are not paid to be abused in any form. It will not be tolerated. If you have a grievance with a moderator or are being harassed by another user, you should first try to sort it out yourself. That's what adults do. If it just can't be resolved otherwise, then please contact an [admin](https://fanart.tv/staff/) with an unedited copy of any conversations.
+    This isn't the wild west. Treat everyone with respect and you will receive it in return. The entire [staff](../General/staff.md) here are volunteers and are not paid to be abused in any form. It will not be tolerated. If you have a grievance with a moderator or are being harassed by another user, you should first try to sort it out yourself. That's what adults do. If it just can't be resolved otherwise, then please contact an [admin](../General/staff.md) with an unedited copy of any conversations.
 
 
 ??? warning "Do not Evade or Ignore the Rules"
