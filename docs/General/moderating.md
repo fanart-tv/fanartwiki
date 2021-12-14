@@ -5,7 +5,6 @@ We usually do not have an open call for moderators and try to contact people ind
 To be a moderator you must meet a few rquirements, and you should possess some basic skills that will be helpful for this position.
 
 !!! warning "Requirements"
-
     - Must have at least 200 images approved.
     - Must be able to [join the Discord channel](https://discord.gg/r9VufRk) and log in to it at least whenever you are moderating images.
     - Have read through most of the site documentation so you are able to direct people with denied images to the proper resources on the site.
@@ -18,18 +17,10 @@ To be a moderator you must meet a few rquirements, and you should possess some b
     - be knowledgeable about the rules for the images they moderate.
     - generally try to be active in the community.
     - try to be available to help out with some regularity.
-        - Being multi-lingual is a huge plus.
+    - Being multi-lingual is a huge plus.
 
 
-Once you are an established moderator you will no longer be required to hang out in the channel unless you want to. This is only to establish that you are getting off on the right foot and are able to quickly ask questions and get help while you are learning the ropes.
-
-There are not a lot of perks for being a moderator. It can be work at times, but also very rewarding. One of the few things we can offer as a show of gratitude is [10,000 Contributor Points](https://fanart.tv/contributors/)
-
-If you haven’t run off yet screaming for your teddy bear, you might just be the person we are looking for. :smile:
-
-Please contact a moderator or an admin on the [Discord Channel](https://discord.gg/r9VufRk) if you are interested and we will see if it’s a fit.
-
-### __MODERATOR EXPECTATIONS__
+### __Moderator Expectations__
 
 Let me start off by saying that I understand that real life takes precedent over this volunteer work and this is understood. Unfortunately we still need people to be active to be a mod. People use the mod list to get help and expect someone to be there, and on the same token, the other mods expect to get some help as well. If you would rather be just a contributor, there’s nothing wrong with that, but the mod status isn’t necessary for that.
 
@@ -48,6 +39,15 @@ Let me start off by saying that I understand that real life takes precedent over
 ??? note "Communicate"
     
     Keep the other mods informed of your status. If you want to keep your mod status but need some time away, let us know about it. You can post here in the mod forums about your absence and you don’t need to give a reason, but at least we’ll know that you won’t be around for a while. This makes it easier for the rest of us so we know who we can count on and who is inactive. Just disappearing for 6 months and returning again expecting to be a mod might not happen anymore.
+
+
+### __Perks__
+
+There are not a lot of perks for being a moderator. It can be work at times, but also very rewarding. One of the few things we can offer as a show of gratitude is [10,000 Contributor Points](https://fanart.tv/contributors/)
+
+If you haven’t run off yet screaming for your teddy bear, you might just be the person we are looking for. :smile:
+
+Please contact a moderator or an admin on the [Discord Channel](https://discord.gg/r9VufRk) if you are interested and we will see if it’s a fit.
 
 
 ### __Final Thoughts__
