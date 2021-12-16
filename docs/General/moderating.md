@@ -43,7 +43,12 @@ Let me start off by saying that I understand that real life takes precedent over
 
 ### __Perks__
 
-There are not a lot of perks for being a moderator. It can be work at times, but also very rewarding. One of the few things we can offer as a show of gratitude is [10,000 Contributor Points](https://fanart.tv/contributors/)
+There are not a lot of perks for being a moderator. It can be work at times, but also very rewarding. 
+That said, there are a few things that come with the job.
+
+!!! info "Moderator Perks"
+    - [10,000 Contributor Points](https://fanart.tv/contributors/)
+    - All site ads will be turned off
 
 If you haven’t run off yet screaming for your teddy bear, you might just be the person we are looking for. :smile:
 
@@ -52,7 +57,7 @@ Please contact a moderator or an admin on the [Discord Channel](https://discord.
 
 ### __Final Thoughts__
 
-There are plenty of people that join the site to do their own collections and actually have a good skill set to be a mod. Of course we’d love them to stick around after they are done, but most of them move on and only come back from time to time to update their own collections. We don’t have a problem with this, but if you want to keep your mod status, you should be somewhat active on a regular basis.
+There are plenty of people that join the site to do their own collections and actually have a good skill set to be a mod. Of course we’d love them to stick around after they are done, but most of them move on and only come back from time to time to update their own collections. We don’t have a problem with this, but if you want to keep your mod status, you will need to be active on a regular basis. (This means checking in on Discord regularly)
 
 People who have been mods before and have been deactivated are free to request to have their mod status reinstated, but it will be handled on a per person basis depending on their previous history. They will also need to be up on the latest site changes and rules.
 
