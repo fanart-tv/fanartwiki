@@ -71,6 +71,9 @@
 }
 
 #logo-hover:hover {
-        background: url("../assets/images/sizing-template-logo-h.png") no-repeat;
+    background: url("../assets/images/sizing-template-logo-h.png") no-repeat;
 }        
 
+.md-typeset__scrollwrap {
+    overflow-x:  inherit;
+}
