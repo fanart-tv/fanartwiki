@@ -77,3 +77,8 @@
 .md-typeset__scrollwrap {
     overflow-x:  inherit;
 }
+
+td, th {
+    min-width: 40px !important;
+    min-height: 40px !important;
+}

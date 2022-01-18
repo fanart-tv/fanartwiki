@@ -27,8 +27,6 @@
 
     - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
 
-    - __The only exception is the 2 language rule.__
-
 
 ??? note "**Collection Art**"
     - __Collection art should reflect characters or elements that were in all the movies.__
