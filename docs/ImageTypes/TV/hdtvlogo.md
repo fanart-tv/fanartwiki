@@ -15,7 +15,7 @@
 * Try to go with the lighter color version of a logo since 90% of skins are dark
 * Logo color should be authentic to the original logo. If the original logo has a dark color, a white version is allowed.
 * No taglines, actor, director or studio. Just the title of the show
-* A limit of 4 logos per TV show per user. No Exceptions
+* A limit of 4 logos per TV show per user.
 
 ---
 
@@ -24,6 +24,20 @@
 ---
 
 #### __Other rules and considerations__
+
+??? note "**Season Logos**"  
+
+    - __Rules for Season Logos are identical to hdtvlogo rules with the following added restrictions. __
+
+    - __Only one logo per main season per user. __
+
+    - __All season type logos submissions *MUST* be accompanied by a comment stating which *season* or *specials episode* the logo is for. No Exceptions. __
+
+    - __Multiple logos are allowed for the specials season, (**season 0**) when there are multiple distinct movies/specials. Provide episode number in the comments. __
+
+    We don't have a dedicated section (**yet**) for season logos, so we allow users to upload season logos along side the main show logos. This is to make available the resources for users to create season posters, banners, & thumbs. While we allow for different variations of main logos, users are only allowed to make a single logo for each season of the series. Variations of the same logo are not allowed, including languages.
+
+
 
 ??? note "**Similar Images**"  
 
