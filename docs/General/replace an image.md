@@ -6,7 +6,7 @@ We always want the very best images and sometimes new images become available th
 
 The image you submit must be **Instantly** recognizable as a superior image. If you can't meet this requirement, then please don't waste our time or your own. Replacing an image is an involved process and we don't have time to nit-pick tiny imperfections. Submit a fantastic image, and it should be smooth sailing.
 
-Lastly, the original submitter will always get the first crack as replacing their own image with a better one. When an replacement request is submitted, the original submitter will be notified that they have 7 days to submit a replacement. If they meet the requirement, the image will be replaced by them and that will be the end of it.
+Lastly, the original submitter will always get the first crack at replacing their own image with a better one. When an replacement request is submitted, the original submitter will be notified that they have 7 days to submit a replacement. If they meet the requirement, the image will be replaced by them and that will be the end of it.
 &nbsp;  
 &nbsp;  
 
@@ -36,7 +36,7 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 &nbsp;  
 ##__4.) Submit replacement__
 
-* Any user may now upload a replacement submission. All submissions will be held until 7 days have passed from the original report, allowing for anyone to make submissions to be considered.
+* Any user may now upload a replacement submission. All submissions will be held until 7 days have passed from an image being marked as **<u>Image needs replacing</u>**, allowing for anyone to make submissions to be considered.
 
 ![Report Image](../assets/images/5a-Replace_Reason.gif)
 
