@@ -18,7 +18,7 @@ Associated Fanart members are already identified as VIP members so you don’t n
 | :fontawesome-solid-check-square: Hide all advertising          | :fontawesome-solid-check-square: Up to 3 votes per image | :fontawesome-solid-check-square: Up to 4 votes per image                          |
 | :fontawesome-square-check: Members only discussion forum |                                                          | :fontawesome-solid-check-square: username@vip.fanart.tv email address (on request)|
 | :fontawesome-solid-check-square: VIP badge                     |                                                          |                                                                                   |
-| :fontawesome-solid-check-square: Additional 3 requests         |                                                          |                                                                                   |
+| :fontawesome-solid-check-square: Additional 3 requests   |                                                          |                                                                                   |
 | :fontawesome-solid-check-square: Additional 5 pending          |                                                          |                                                                                   |
 | :fontawesome-solid-check-square: Up to 2 votes per image       |                                                          |                                                                                   |
 |                                                                |                                                          |                                                                                   |
