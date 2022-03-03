@@ -25,7 +25,7 @@ Discord is our live chat server. It’s a bit like IRC (Internet Relay Chat) on 
 
 There are many different channels on the server, so try to make sure you are posting in the proper channel to give you the best chance to have your question answered.
 
-If someone is in the channel, you will most likely get an answer right away. If you need help with Discord itself, there is a big :fontawesome-solid-question-circle: in the top right-hand corner of the screen that will take you to the Discord help center.
+If someone is in the channel, you will most likely get an answer right away. If you need help with Discord itself, there is a big :fontawesome-solid-circle-question: in the top right-hand corner of the screen that will take you to the Discord help center.
 
 [Go there now..](https://discord.gg/r9VufRk){target= blank}
 
