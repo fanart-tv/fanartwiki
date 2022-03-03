@@ -139,11 +139,9 @@ They will inspect each image to determine if it meets all of the technical, and 
 
 ??? tip "Pro Tip"
 
-    #### __Complete User Profile__
-
-    Make sure to fill out your user profile on the site. This will let the moderators know what graphics program you are using, as well as your native language. 
-
-    This will help us, help you. We can now point you to the appropriate tutorials for your software, and can speak with your in your native language if we have a [moderator on staff](../General/staff.md) that speaks your language.
+    #### __Complete Your User Profile__
+ 
+    With this information, moderators can point you to the appropriate [tutorials](https://fanart.tv/tutorials/){target=_blank} for your software, and can speak with your in your native language if we have a [moderator on staff](../General/staff.md) that speaks your language.
 
     __1.__ Hover over your user avatar in the top right of the page and select "__Edit Profile__"
     ![Edit Profile](../assets/images/edit-profile.jpg)
@@ -174,7 +172,7 @@ Here you will find other information that does not fit neatly into the other cat
 ??? info "__Voting__"
     We also have a Voting/Like system in place so you can show an artist when you really appreciate their submissions. We encourage people to vote and vote often. This will help the best art on the site     to get recognition and will also inspire the artists to continue contributing to the site.
     
-    As happens with the point system, some people feel they must win at votes. There have been many incidents where single users were found using multiple accounts to inflate the vote counts on their own     images. This is a violation of the rules here, and a violation of trust. Artificially inflating votes does nothing to help the site and most of the time hurts the site. Violators will be dealt with     harshly.
+    As happens with any point system, some people feel they must win at votes. There have been many incidents where single users were found using multiple accounts to inflate the vote counts on their own images. This is a violation of [the rules here](../General/site rules.md), and a violation of trust. Artificially inflating votes does nothing to help the site and most of the time hurts the site. Violators will be dealt with     harshly.
 
 
 ??? info "No Good Source Images"

@@ -15,7 +15,6 @@ extra_css:
 
 extra_javascript:
   - javascripts/extra.js
-  - https://kit.fontawesome.com/7987f3553f.js
   
 markdown_extensions:
   - smarty
