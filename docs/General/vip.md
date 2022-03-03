@@ -14,9 +14,9 @@ Associated Fanart members are already identified as VIP members so you don’t n
 
 | VIP                                                            | VIP+                                                     | VIP++                                                                             |
 | :--------------------------------------------------------------| :------------------------------------------------------- | :-------------------------------------------------------------------------------- |
-| :fontawesome-solid-check-square: Quicker API responses         | :fontawesome-solid-check-square: All VIP benefits        | :fontawesome-solid-check-square: All VIP+ benefits                                |
+| <i class="fa-solid fa-square-check"></i> Quicker API responses         | :fontawesome-solid-check-square: All VIP benefits        | :fontawesome-solid-check-square: All VIP+ benefits                                |
 | :fontawesome-solid-check-square: Hide all advertising          | :fontawesome-solid-check-square: Up to 3 votes per image | :fontawesome-solid-check-square: Up to 4 votes per image                          |
-| :fontawesome-solid-check-square: Members only discussion forum |                                                          | :fontawesome-solid-check-square: username@vip.fanart.tv email address (on request)|
+| :fontawesome-square-check: Members only discussion forum |                                                          | :fontawesome-solid-check-square: username@vip.fanart.tv email address (on request)|
 | :fontawesome-solid-check-square: VIP badge                     |                                                          |                                                                                   |
 | :fontawesome-solid-check-square: Additional 3 requests         |                                                          |                                                                                   |
 | :fontawesome-solid-check-square: Additional 5 pending          |                                                          |                                                                                   |
