@@ -61,16 +61,20 @@ nav:
     - Home: 'index.md'
     - FAQ: 'General/faq.md'
     - 'Site Information':
-        - 'Site Rules': 'General/site rules.md'
         - 'Help': 'General/fanart help.md'
+        - 'Site Rules': 'General/site rules.md'
         - 'Staff': 'General/staff.md'
-        - 'Moderation Time': 'General/moderation time.md'
         - 'VIP Members': 'General/vip.md'
+        - 'Moderation Time': 'General/moderation time.md'
         - 'Personal API Keys': 'General/personal api.md'
         - 'Moderating': 'General/moderating.md'
         - 'Remove Advertisements': 'General/remove adverts.md'
-        - 'Report an Issue': 'General/report an issue.md'
-        
+    - Guides:
+        - 'Getting Started': 'General/getting started.md'
+        - 'How Fanart.tv works': 'General/fanart database.md'
+        - 'Contributor Guide': 'General/contributor guide.md'
+        - 'Replace an Image': 'General/replace an image.md'
+        - "Retract a Submission": 'General/retract submission.md'
     - Image Types:
         Movie Images:
             - 'Movie HD ClearLogo': 'ImageTypes/Movies/hdmovielogo.md' 
@@ -99,13 +103,7 @@ nav:
             - 'Music Artist Background': 'ImageTypes/Music/artistbackground.md' 
             - 'Music Banner': 'ImageTypes/Music/musicbanner.md' 
             - 'Music Record Label': 'ImageTypes/Music/musiclabel.md' 
-    - Guides:
-        - 'Getting Started': 'General/getting started.md'
-        - 'User Guide': 'General/user guide.md'
-        - 'Contributor Guide': 'General/contributor guide.md'
-        - 'How Fanart.tv works': 'General/fanart database.md'
-        - 'Replace an Image': 'General/replace an image.md'
-        - "Retract a Submission": 'General/retract submission.md'
+
         
 
         

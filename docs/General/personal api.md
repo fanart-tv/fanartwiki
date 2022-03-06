@@ -28,7 +28,7 @@ If the software you use has already implemented personal API keys, you can get y
 Other benefits for [VIP Members](vip.md) include:
 
 - Quicker API responses
-- Hide all advertising
+- [Hide all advertising](remove adverts.md)
 - Members only discussion forum
 - VIP badge
 - Additional 3 requests
