@@ -6,9 +6,9 @@ To be a moderator you must meet a few rquirements, and you should possess some b
 
 !!! warning "Requirements"
     - Must have at least 200 images approved.
-    - Must be able to [join the Discord channel](https://discord.gg/r9VufRk) and log in to it at least whenever you are moderating images.
+    - Must be able to [join the Discord channel](https://discord.gg/r9VufRk){target= blank} and log in to it at least whenever you are moderating images.
     - Have read through most of the site documentation so you are able to direct people with denied images to the proper resources on the site.
-    - Must have a decent [calibrated monitor](https://fanart.tv/tutorials/calibrate-monitor) to be able to spot level problems correctly.
+    - Must have a decent [calibrated monitor](https://fanart.tv/tutorials/calibrate-monitor){target= blank} to be able to spot level problems correctly.
 
 
 !!! info "Wanted Skills"
@@ -38,7 +38,7 @@ Let me start off by saying that I understand that real life takes precedent over
 
 ??? note "Communicate"
     
-    Keep the other mods informed of your status. If you want to keep your mod status but need some time away, let us know about it. You can post here in the mod forums about your absence and you don’t need to give a reason, but at least we’ll know that you won’t be around for a while. This makes it easier for the rest of us so we know who we can count on and who is inactive. Just disappearing for 6 months and returning again expecting to be a mod might not happen anymore.
+    Keep the other mods informed of your status. If you want to keep your mod status but need some time away, let us know about it. You can post in the [#moderators channel](https://discord.com/channels/357824185940180993/357898420968620033 "The private modertors chat channel"){target= blank} about your absence and you don’t need to give a reason, but at least we’ll know that you won’t be around for a while. This makes it easier for the rest of us so we know who we can count on and who is inactive. Just disappearing for 6 months and returning again expecting to be a mod might not happen anymore.
 
 
 ### __Perks__
@@ -47,12 +47,12 @@ There are not a lot of perks for being a moderator. It can be work at times, but
 That said, there are a few things that come with the job.
 
 !!! info "Moderator Perks"
-    - [10,000 Contributor Points](https://fanart.tv/contributors/)
+    - [10,000 Contributor Points](https://fanart.tv/contributors/){target= blank}
     - All site ads will be turned off
 
 If you haven’t run off yet screaming for your teddy bear, you might just be the person we are looking for. :smile:
 
-Please contact a moderator or an admin on the [Discord Channel](https://discord.gg/r9VufRk) if you are interested and we will see if it’s a fit.
+Please contact a moderator or an admin on the [Discord Channel](https://discord.gg/r9VufRk){target= blank} if you are interested and we will see if it’s a fit.
 
 
 ### __Final Thoughts__

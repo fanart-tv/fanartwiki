@@ -101,7 +101,6 @@ nav:
             - 'Music Record Label': 'ImageTypes/Music/musiclabel.md' 
     - Guides:
         - 'Getting Started': 'General/getting started.md'
-        - 'Navigating Fanart.tv': 'General/navigating fanart.tv.md'
         - 'User Guide': 'General/user guide.md'
         - 'Contributor Guide': 'General/contributor guide.md'
         - 'How Fanart.tv works': 'General/fanart database.md'

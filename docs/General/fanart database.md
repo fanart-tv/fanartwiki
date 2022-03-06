@@ -181,9 +181,7 @@ If you do not want to risk having your perfectly good artwork denied later on be
 
   The sites we source our information from are constantly updating their own information. When they change something in their databases, it doesn’t get propagated to our own site unless we make a new request for that information. _(ie.. refresh our info)_ 
 
-  The preferred way to request a refresh is to ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the _#issues_ channel.
-
-  You can also use the [Housekeeping](https://forum.fanart.tv/viewforum.php?f=31 "The Fanart.tv Housekeeping Forum"){target= blank} section of the [forums](https://forum.fanart.tv/index.php "The Fanart.tv Forums"){target= blank} if you prefer.
+  To request a refresh, please ask on [Discord](https://discord.gg/r9VufRk "Fanart.tv Discord server"){target= blank} in the [_#issues_](https://discord.com/channels/357824185940180993/363575415316676618 "Discord issues Channel"){target= blank} channel. Make sure to provide a link to the entry to be refreshed.
 
   __Always__ paste a link to the entry to be refreshed, and state the reason for the refresh so the moderator can confirm the desired changes were made.
 

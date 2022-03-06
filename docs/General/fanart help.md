@@ -52,13 +52,11 @@ Make sure to use the Category and Application filters in the Side-Bar to quickly
 
 BEST FOR:
 
-- __Ongoing Discussions__
-- __Feature Requests__
-- __Feedback__
+- __Reference Material__
+- __Archived Discussions__
+- __Graphics Program Guides__
 
-The forums are not used as much any more, but they are still a valuable resource for archived information, and it is still the best platform for some discussions where not everyone is present at the same time.
-
-If the other help resources don’t quite fit your needs, the forums is probably the place you are looking for.
+The forums are no longer open to new registrations, but are still available as an archive reference. There is still a wealth of information avialable from years of contributions. You can browse or search to find useful information.
 
 ![Discord Channels](../assets/images/forums.jpg)
 
