@@ -7,11 +7,13 @@
 
 #### **Rules Synopsis**
 
-- Images must be in jpg format sized 1000x1426 pixels
-- Only high quality images will be accepted. No Exceptions
-- Posters must have the logo of the show with either: Season (number in letters or numbers xx/x) or The Complete Season (number in letters or numbers xx/x) or Specials. Nothing else.
+- Only high quality images will be accepted.
+- Images must be in jpg format sized 1000x1426 pixels.
+- Season Posters should contain images of character(s) *or highly recognizable major items* from the series as well as a series number.
+- Season Posters must have the logo of the show with either: Season (number in letters or numbers xx/x) or The Complete Season (number in letters or numbers xx/x) or Specials. Nothing else.
+- Season number/text has to be of reasonable size to be clearly visible.
 - Season numbers are not required for series with unique names for each season.
-- Consistency: if you are doing multiple seasons of one show, try to use the same font/layout for each of them.
+- Consistency: If you are doing multiple seasons of one show, try to use the same font/layout for each of them.
 - Same image cannot be used more than once by the same user for multiple seasons.
 - Character images are fine if not many sources are available as long as they belong to the TV Show.
  

@@ -73,4 +73,4 @@ Here are a few of our most popular and useful help resources.
 - [How Fanart.tv works](fanart database.md)
 - [Why your art may be denied](https://fanart.tv/tutorials/artwork-may-denied/){target= blank}
 - How to search for images
-- Templates for Images
+- [Templates for Images](https://fanart.tv/tutorials/templates/){target= blank}

@@ -7,12 +7,14 @@
 
 #### **Rules Synopsis**
 
-- Images must be in jpg format sized 1000x185 pixels, no exceptions.
-- Must contains a season numbers or: all seasons
+- Only high quality images will be accepted.
+- Images must be in jpg format sized 1000x185 pixels.
+- Season Banners should contain images of character(s) *or highly recognizable major items* from the series as well as a series number.
+- Season Banners must have the logo of the show with either: Season (number in letters or numbers xx/x) or The Complete Season (number in letters or numbers xx/x) or Specials. Nothing else.
+- Season number/text has to be of reasonable size to be clearly visible.
 - Season numbers are not required for series with unique names for each season.
-- Only high quality images will be accepted
-- Images should have the series logo on them and the season it applies to
-- Season number/text has to be of reasonable size to be clearly visible
+- Consistency: If you are doing multiple seasons of one show, try to use the same font/layout for each of them.
+- Same image cannot be used more than once by the same user for multiple seasons.
 
 ---
 

@@ -74,7 +74,7 @@ nav:
         - 'How Fanart.tv works': 'General/fanart database.md'
         - 'Contributor Guide': 'General/contributor guide.md'
         - 'Replace an Image': 'General/replace an image.md'
-        - "Retract a Submission": 'General/retract submission.md'
+        - 'Retract a Submission': 'General/retract submission.md'
     - Image Types:
         Movie Images:
             - 'Movie HD ClearLogo': 'ImageTypes/Movies/hdmovielogo.md' 
