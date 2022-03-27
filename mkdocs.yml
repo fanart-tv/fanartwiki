@@ -20,7 +20,8 @@ markdown_extensions:
   - smarty
   - admonition
   - footnotes
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true 
   - pymdownx.details
   - footnotes
   - pymdownx.superfences:
