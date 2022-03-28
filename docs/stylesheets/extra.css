@@ -107,3 +107,6 @@ div#denied-card h3 {
     margin-top: .5em;
 }
 
+div#denied-card p, #denied-card li {
+    color: black;
+}
