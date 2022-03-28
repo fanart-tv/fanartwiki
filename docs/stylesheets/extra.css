@@ -82,3 +82,23 @@ td, th {
     min-width: 40px !important;
     min-height: 40px !important;
 }
+
+div#denied-card {
+    padding: 0.1em 1.5em 0.5em 1.5em !important;
+    background-color: #F4F4F4;
+    border-radius: 2em;
+    margin-bottom: 2em;
+    box-shadow: 0 1px 10px 2px rgb(0 0 0 / 30%);
+}
+
+div#denied-table {
+    display: table;
+    margin: auto;
+}
+
+div#denied-card h3 {
+    color: #4051b5;
+    text-align: center;
+    margin-top: .5em;
+}
+
