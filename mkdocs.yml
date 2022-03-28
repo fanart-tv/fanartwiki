@@ -77,6 +77,7 @@ nav:
         - 'Contributor Guide': 'General/contributor guide.md'
         - 'Replace an Image': 'General/replace an image.md'
         - 'Retract a Submission': 'General/retract submission.md'
+        - 'Why Was My Artwork Denied?': 'General/why denied.md'
     - Image Types:
         Movie Images:
             - 'Movie HD ClearLogo': 'ImageTypes/Movies/hdmovielogo.md' 
