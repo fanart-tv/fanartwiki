@@ -1,4 +1,4 @@
-# __HOW FANART.TV WORKS__
+# __How Fanart.tv Works__
 
 Understanding how Fanart.tv works can be very helpful if you are a regular on the site. 
 

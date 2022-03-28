@@ -1,4 +1,4 @@
-# **How to Replace an Existing Image.**
+# __How to Replace an Existing Image.__
 
 This is not something that should be taken lightly and **abuse of this system will not be tolerated.** When you are attempting to replace an existing image, you are effectively erasing someone else's hard work. Keep this in mind before requesting a replacement.
 

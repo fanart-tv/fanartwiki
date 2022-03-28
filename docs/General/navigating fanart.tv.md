@@ -1,3 +1,5 @@
+# __Navigating Fanart.tv__
+
 Well you managed to find your way [here](## "The Fanart Wiki"). Now let’s go exploring!
 
 This site has many faces that might not be so obvious at first. 

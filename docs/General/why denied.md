@@ -1,4 +1,6 @@
 # __Why Your Atwork May be Denied__
+Use this reference to help identify issues, and find resources to help fix them.
+
 <div id="denied-table" markdown>
 
 ### __Issue Selector__
@@ -39,7 +41,7 @@
 
 ![logo-wrong-size](../../../assets/images/why-denied/logo-wrong-size.jpg){ id='denied-card-image' style="border-radius;.5em;"}
 
-The left image has no gutter at all where as the right one has a gutter which is too big. The left image also doesn’t have a shadow, but we’ll get to that. The gutter is 10px all around and only shadow and glow is allowed there, however the logo must still fill all the way out to the beginning of the gutter unless the shadow/glow exceedes 10px.
+**Problem:** The left image has no gutter at all where as the right one has a gutter which is too big. The left image also doesn’t have a shadow, but we’ll get to that. The gutter is 10px all around and only shadow and glow is allowed there, however the logo must still fill all the way out to the beginning of the gutter unless the shadow/glow exceedes 10px.
 
 **Fix:** Simply resize the logo.
 
@@ -56,7 +58,7 @@ The left image has no gutter at all where as the right one has a gutter which is
 
 ![logo-not-visible](../../../assets/images/why-denied/logo-not-visible.jpg){ id='denied-card-image' style="border-radius;.5em;"}
 
-The left image looks great on black and inversely the right on white. A standard Drop Shadow would fix the left image, but the right image requires either a white Drop Shadow, or more preferably a thin white stroke. A white glow could also be used. The point is to never forget that these logos are going to be displayed against all types of backgrounds and you must be able to clearly see it on all of them.
+**Problem:** The left image looks great on black and inversely the right on white. A standard Drop Shadow would fix the left image, but the right image requires either a white Drop Shadow, or more preferably a thin white stroke. A white glow could also be used. The point is to never forget that these logos are going to be displayed against all types of backgrounds and you must be able to clearly see it on all of them.
 
 **Fix:** Add a shadow, stroke or glow to your logo if needed
 
@@ -68,7 +70,7 @@ The left image looks great on black and inversely the right on white. A standard
 
 ![logo-cropped-shadow](../../../assets/images/why-denied/logo-cropped-shadow.jpg){ id='denied-card-image' style="border-radius;.5em;"}
 
-The logos drop shadow is cropped at the bottom.
+**Problem:** The logos drop shadow is cropped at the bottom.
 
 **Fix:** If you have a shadow this big you’ll have to downsize the logo so the shadow no longer gets cropped. Same goes for glows.
 
@@ -85,7 +87,7 @@ The logos drop shadow is cropped at the bottom.
 
 ![logo-blurry](../../../assets/images/why-denied/logo-blurry.jpg){ id='denied-card-image' style="border-radius;.5em;"}
 
-The image is very blurry and overall low quality.
+**Problem:** The image is very blurry and overall low quality.
 
 **Fix:** Find a higher quality source.
 
@@ -97,7 +99,7 @@ The image is very blurry and overall low quality.
 
 ![logo-alignment](../../../assets/images/why-denied/logo-alignment.jpg){ id='denied-card-image' style="border-radius;.5em;"}
 
-An otherwise perfectly good logo that hasn’t been center aligned Horizontally, or Vertically.
+**Problem:** An otherwise perfectly good logo that hasn’t been center aligned Horizontally, or Vertically.
 
 **Fix:** Center align it.
 
@@ -114,7 +116,7 @@ An otherwise perfectly good logo that hasn’t been center aligned Horizontally,
 
 ![logo-grainy-color](../../../assets/images/why-denied/logo-grainy-color.jpg){ id='denied-card-image' style="border-radius;.5em;"}
 
-This logo has some very grainy colors, perhaps from being cut out of a scanned poster.
+**Problem:** This logo has some very grainy colors, perhaps from being cut out of a scanned poster.
 
 **Fix:** Recolor it. You could also just use a color overlay under Blending options (PS)
 
@@ -324,7 +326,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 ### **Poor Cloning**
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-bad-cloning.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-bad-cloning-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-bad-cloning.jpg'"/>
 
-**Problem:** Sloppy useage of the Cone and Healing tools makes image look unnatural.
+**Problem:** Sloppy useage of the Clone and Healing tools makes image look unnatural.
 
 **Fix:** Take your time. Try changing brushes and brush sizes with both the Clone and Healing tools.
 
