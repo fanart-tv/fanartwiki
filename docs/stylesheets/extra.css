@@ -96,6 +96,11 @@ div#denied-table {
     margin: auto;
 }
 
+div#denied-table h3 {
+    text-align: center;
+    color: #4051b5;
+}
+
 div#denied-card h3 {
     color: #4051b5;
     text-align: center;
