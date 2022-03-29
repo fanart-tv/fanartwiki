@@ -1,6 +1,10 @@
 # __Why Your Atwork May be Denied__
 Use this reference to help identify issues, and find resources to help fix them.
 
+!!! info
+    Hover over the images to see a version that would pass moderation
+    Click an image to see the original image where apropriate. (Not all examples will have an original image)
+
 <div id="denied-table" markdown>
 
 ### __Issue Selector__
