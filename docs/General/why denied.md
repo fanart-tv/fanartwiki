@@ -1,9 +1,10 @@
 # __Why Your Atwork May be Denied__
 Use this reference to help identify issues, and find resources to help fix them.
 
-!!! info
-    Hover over the images to see a version that would pass moderation
-    Click an image to see the original image where apropriate. (Not all examples will have an original image)
+???+ tip "Tip"
+    Hover over the images to see a version that would pass moderation.
+
+    Click on an image to see the original image where apropriate. (Not all examples will have an original image)
 
 <div id="denied-table" markdown>
 
@@ -24,7 +25,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 <div id="denied-card" markdown>
 
 ### **Jagged Edges**
-![logo-jagged-edges](../../../assets/images/why-denied/logo-jagged-edges.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-jagged-edges.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-jagged-edges-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-jagged-edges.jpg'"/>
 
 **Problem:** The edges are very pixelated and not as smooth as they should be.
 
@@ -43,7 +44,8 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### **Wrong Size**
 
-![logo-wrong-size](../../../assets/images/why-denied/logo-wrong-size.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-wrong-size.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-wrong-size-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-wrong-size.jpg'"/>
+
 
 **Problem:** The left image has no gutter at all where as the right one has a gutter which is too big. The left image also doesn’t have a shadow, but we’ll get to that. The gutter is 10px all around and only shadow and glow is allowed there, however the logo must still fill all the way out to the beginning of the gutter unless the shadow/glow exceedes 10px.
 
