@@ -324,7 +324,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Poor Cloning**
-<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-bad-cloning.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-bad-cloning-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-bad-cloning.jpg'"/>
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-bad-cloning.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-bad-cloning-fixed.jpg'" onclick="this.src='../../../assets/images/why-denied/poster-bad-cloning-orig.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-bad-cloning.jpg'"/>
 
 **Problem:** Sloppy useage of the Clone and Healing tools makes image look unnatural.
 
