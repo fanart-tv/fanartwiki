@@ -10,15 +10,15 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### __Issue Selector__
 
-| Logos                                                          | Cleararts                                                          | Posters                                                                          |
-| :--------------------------------------------------------------| :------------------------------------------------------------------| :------------------------------------------------------------------------------- |
-| [Jagged Edges](why denied.md#logo-jagged-edges "")             | [No Logo](why denied.md#clearart-no-logo "")                       | [Low Quality](why denied.md#poster-low-quality "")                               |
-| [Wrong Size](why denied.md#logo-wrong-size "")                 | [Background Bleed Through](why denied.md#clearart-bleed-through "")| [Incomplete Element Removal](why denied.md#poster-incomplete-element-removal "") |
-| [Not Visible](why denied.md#logo-not-visible "")               | [Tagline](why denied.md#clearart-tagline "")                       | [Non Permitted Text](why denied.md#poster-non-permitted-text "")                 |
-| [Cropped Shadow/Glow](why denied.md#logo-cropped-shadowglow "")| [Cropped Shadow](why denied.md#clearart-cropped-shadow "")         | [Compression Artifacts](why denied.md#poster-compression-artifacts "")           |
-| [Blurry Logo](why denied.md#logo-blurry "")                    | [Incomplete Render](why denied.md#clearart-incomplete-render "")   | [Crop Lines](why denied.md#poster-crop-lines "")                                 |
-| [Not Center Aligned](why denied.md#logo-not-aligned "")        | [Aspect Ratio](why denied.md#clearart-aspect-ratio "")             | [Improper Blending](why denied.md#poster-improper-blending "")                   |
-| [Grainy Color](why denied.md#logo-grainy-color "")             |                                                                    | [Poor Cloning](why denied.md#poster-poor-cloning "")                             |
+| Logos                                                          | Cleararts                                                          | Posters                                                                          | CharacterArt                                              |
+| :--------------------------------------------------------------| :------------------------------------------------------------------| :------------------------------------------------------------------------------- | :---------------------------------------------------------|
+| [Jagged Edges](why denied.md#logo-jagged-edges "")             | [No Logo](why denied.md#clearart-no-logo "")                       | [Low Quality](why denied.md#poster-low-quality "")                               | [Not Fully Visible](why denied.md#charart-not-visible "") |
+| [Wrong Size](why denied.md#logo-wrong-size "")                 | [Background Bleed Through](why denied.md#clearart-bleed-through "")| [Incomplete Element Removal](why denied.md#poster-incomplete-element-removal "") |                                                           |
+| [Not Visible](why denied.md#logo-not-visible "")               | [Tagline](why denied.md#clearart-tagline "")                       | [Non Permitted Text](why denied.md#poster-non-permitted-text "")                 |                                                           |
+| [Cropped Shadow/Glow](why denied.md#logo-cropped-shadowglow "")| [Cropped Shadow](why denied.md#clearart-cropped-shadow "")         | [Compression Artifacts](why denied.md#poster-compression-artifacts "")           |                                                           |
+| [Blurry Logo](why denied.md#logo-blurry "")                    | [Incomplete Render](why denied.md#clearart-incomplete-render "")   | [Crop Lines](why denied.md#poster-crop-lines "")                                 |                                                           |
+| [Not Center Aligned](why denied.md#logo-not-aligned "")        | [Aspect Ratio](why denied.md#clearart-aspect-ratio "")             | [Improper Blending](why denied.md#poster-improper-blending "")                   |                                                           |
+| [Grainy Color](why denied.md#logo-grainy-color "")             |                                                                    | [Poor Cloning](why denied.md#poster-poor-cloning "")                             |                                                           |
 
 </div>
 
@@ -62,7 +62,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### **Not Visible**
 
-![logo-not-visible](../../../assets/images/why-denied/logo-not-visible.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-not-visible.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-not-visible-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-not-visible.jpg'"/>
 
 **Problem:** The left image looks great on black and inversely the right on white. A standard Drop Shadow would fix the left image, but the right image requires either a white Drop Shadow, or more preferably a thin white stroke. A white glow could also be used. The point is to never forget that these logos are going to be displayed against all types of backgrounds and you must be able to clearly see it on all of them.
 
@@ -74,7 +74,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### **Cropped Shadow/Glow**
 
-![logo-cropped-shadow](../../../assets/images/why-denied/logo-cropped-shadow.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-cropped-shadow.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-cropped-shadow-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-cropped-shadow.jpg'"/>
 
 **Problem:** The logos drop shadow is cropped at the bottom.
 
@@ -91,7 +91,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### **Blurry**
 
-![logo-blurry](../../../assets/images/why-denied/logo-blurry.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-blurry.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-blurry-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-blurry.jpg'"/>
 
 **Problem:** The image is very blurry and overall low quality.
 
@@ -103,7 +103,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### **Not Aligned**
 
-![logo-alignment](../../../assets/images/why-denied/logo-alignment.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-alignment.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-alignment-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-alignment.jpg'"/>
 
 **Problem:** An otherwise perfectly good logo that hasn’t been center aligned Horizontally, or Vertically.
 
@@ -120,7 +120,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 ### **Grainy Color**
 
-![logo-grainy-color](../../../assets/images/why-denied/logo-grainy-color.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-grainy-color.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-grainy-color-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-grainy-color.jpg'"/>
 
 **Problem:** This logo has some very grainy colors, perhaps from being cut out of a scanned poster.
 
@@ -138,7 +138,8 @@ Use this reference to help identify issues, and find resources to help fix them.
 <div id="denied-card" markdown>
 
 ### **No Logo**
-![clearart-logo-missing](../../../assets/images/why-denied/clearart-logo-missing.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-logo-missing.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-logo-missing-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-logo-missing.jpg'"/>
 
 **Problem:** A very nice clearart that only needs a logo to be complete
 
@@ -153,7 +154,8 @@ Use this reference to help identify issues, and find resources to help fix them.
 <div id="denied-card" markdown>
 
 ### **Bleed Through**
-![clearart-bleed-through](../../../assets/images/why-denied/clearart-bleed-through.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-bleed-through.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-bleed-through-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-bleed-through.jpg'"/>
 
 **Problem:** Good looking clearart, but only on the one color it was extracted from. Someone turned the background color to alpha and didn’t check it against different color backgrounds.
 
@@ -169,7 +171,8 @@ Use this reference to help identify issues, and find resources to help fix them.
 <div id="denied-card" markdown>
 
 ### **Tagline**
-![clearart-tagline](../../../assets/images/why-denied/clearart-tagline.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-tagline.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-tagline-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-tagline.jpg'"/>
 
 **Problem:** Great clearart but taglines are not allowed. 
 
@@ -184,7 +187,8 @@ Use this reference to help identify issues, and find resources to help fix them.
 <div id="denied-card" markdown>
 
 ### **Cropped Shadow**
-![clearart-cropped-shadow](../../../assets/images/why-denied/clearart-cropped-shadow.png){ id='denied-card-image' style="border-radius;.5em;"}
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-shadow.png" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-shadow-fixed.png'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-shadow.png'"/>
 
 **Problem:** (Cropped shadows on the bottom or right edges could be denied if they are not necessary.)
 Shadow is cropped on the left and bottom edges. As per the rules, no cropping is allowed on to top or left edges, but… You should only really crop a shadow if the image is cropped as well. When an image is not cropped, you should try to not crop a shadow on any edge.
@@ -200,7 +204,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Incomplete Render**
-![clearart-incomplete-render](../../../assets/images/why-denied/clearart-incomplete-render.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-incomplete-render.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-incomplete-render-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-incomplete-render.jpg'"/>
 
 **Problem:** When you render an image or a logo with the erase tool, color to alpha, or a mask, there is always the possibility of not removing all the pixels outside of the main subject. This is the reason we ask that you check your art against different colored backgrounds in the rules. If you are not rendering hair or other very fine details, you should always use the path/pen tool to get crisp clean edges every time.  Otherwise, you need to be diligent in checking your own work for these stray pixels. One way is to add a stroke and this will highlight any small pixels that are hard to see. Once you have found and erased them, you can remove the stroke.
 
@@ -215,7 +220,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Aspect Ratio**
-![clearart-aspect](../../../assets/images/why-denied/clearart-aspect.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-aspect.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-aspect-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-aspect.jpg'"/>
 
 **Problem:** The aspect ratio of the image was not kept intact.
 
