@@ -81,6 +81,10 @@ Hover image below to watch an animated explanation.
 
 **Fix:** Add a shadow, stroke or glow to your logo if needed
 
+Hover image below to watch an animated explanation.
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-not-visible-animation-static.gif" onmouseover="this.src='../../../assets/images/why-denied/logo-not-visible-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/logo-not-visible-animation-static.gif'"/>
+
 **Rules:** 
 
 - [HD Movie Logo](../ImageTypes/Movies/hdmovielogo.md)
@@ -114,6 +118,11 @@ Hover image below to watch an animated explanation.
 
     The right logo was fixed by using a smaller shadow that fits completely within the canvas
    
+Hover image below to watch an animated explanation.
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-cropped-shadow-animation-static.gif" onmouseover="this.src='../../../assets/images/why-denied/logo-cropped-shadow-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/logo-cropped-shadow-animation-static.gif'"/>
+
+
 **Rules:** 
 
 - [HD Movie Logo](../ImageTypes/Movies/hdmovielogo.md)
@@ -152,6 +161,8 @@ Hover image below to watch an animated explanation.
 **Problem:** An otherwise perfectly good logo that hasn’t been center aligned Horizontally, or Vertically.
 
 **Fix:** Center align it.
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-alignment-animation-static.gif" onmouseover="this.src='../../../assets/images/why-denied/logo-alignment-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/logo-alignment-animation-static.gif'"/>
 
 **Rules:** 
 
@@ -277,9 +288,9 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 ### **Incomplete Render**
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-incomplete-render.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-incomplete-render-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-incomplete-render.jpg'"/>
 
-**Problem:** When you render an image or a logo with the erase tool, color to alpha, or a mask, there is always the possibility of not removing all the pixels outside of the main subject. This is the reason we ask that you check your art against different colored backgrounds in the rules. If you are not rendering hair or other very fine details, you should always use the path/pen tool to get crisp clean edges every time.  Otherwise, you need to be diligent in checking your own work for these stray pixels. One way is to add a stroke and this will highlight any small pixels that are hard to see. Once you have found and erased them, you can remove the stroke.
+**Problem:** When removing the background of an image without using the pen/path tool, you have to be certain to remove **all** pixels of the background. You should always check your renders against different colored backgrounds as explained in the rules. Another effective way to spot stray pixels is to add a stroke to the rendered image. This will highlight all the pixels in the image, even the ones that are hard to see.
 
-**Fix:** Finish rendering (cut out) the logo and erase the extra pixels near the logo.
+**Fix:** Render, (cut out) image completely. Ensure there are no leftover, "stray" pixels before submitting for moderation.
 
 **Rules:** 
 
@@ -299,7 +310,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Problem:** The aspect ratio of the image was not kept intact.
 
-**Fix:** Do not squish you images in any direction. Make sure your aspect ratio is locked when resizing an image.
+**Fix:** Do not squish or stretch your images in any direction. Make sure your aspect ratio is locked when resizing an image.
 
 **Rules:** 
 
@@ -318,7 +329,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Low Quality**
-![poster-low-quality](../../../assets/images/why-denied/poster-low-quality.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-low-quality.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-low-quality-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-low-quality.jpg'"/>
 
 **Problem:** Image is just not of high enough resolution. Also has some stray pixels.
 
@@ -333,7 +344,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Incomplete Element Removal**
-![poster-incomplete-text-removal](../../../assets/images/why-denied/poster-incomplete-text-removal.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-incomplete-text-removal.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-incomplete-text-removal-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-incomplete-text-removal.jpg'"/>
 
 **Problem:** Text is showing through where it was supposed to be covered up.
 
@@ -350,7 +361,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Non Permitted Text**
-![poster-suplerflous-text](../../../assets/images/why-denied/poster-suplerflous-text.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-suplerflous-text.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-suplerflous-text-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-suplerflous-text.jpg'"/>
 
 **Problem:** As per the rules. Only Logos are allowed on posters.
 
@@ -366,7 +377,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Compression Artifacts**
-![poster-compression-artifacts](../../../assets/images/why-denied/poster-compression-artifacts.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-compression-artifacts.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-compression-artifacts-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-compression-artifacts.jpg'"/>
 
 **Problem:** Blocky compression artifacts. Especially around the markers of the clock.
 
@@ -382,7 +393,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Crop Lines**
-![poster-crop-lines](../../../assets/images/why-denied/poster-crop-lines.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-crop-lines.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-crop-lines-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-crop-lines.jpg'"/>
 
 **Problem:** Another great image but there is a white line down the right side. This is easy to miss if you don’t check your poster edges against different color backgrounds.
 
@@ -397,7 +408,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Improper Blending**
-![poster-poor-text-blending](../../../assets/images/why-denied/poster-poor-text-blending.jpg){ id='denied-card-image' style="border-radius;.5em;"}
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-poor-text-blending.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-poor-text-blending-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-poor-text-blending.jpg'"/>
 
 **Problem:** You can clearly see where text or other elements were covered with a black brush, but the black doesn’t match the image. (It is important that you can see this clearly. If not, it means you need to [adjust your monitor](https://fanart.tv/tutorials/calibrate-monitor/){target= blank} properly.)
 
