@@ -12,16 +12,15 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 | Logos                                                          | Cleararts                                                          | Posters                                                                          | CharacterArt                                              |
 | :--------------------------------------------------------------| :------------------------------------------------------------------| :------------------------------------------------------------------------------- | :---------------------------------------------------------|
-| [Jagged Edges](why denied.md#logo-jagged-edges "")             | [No Logo](why denied.md#clearart-no-logo "")                       | [Low Quality](why denied.md#poster-low-quality "")                               | [Not Fully Visible](why denied.md#charart-not-visible "") |
-| [Wrong Size](why denied.md#logo-wrong-size "")                 | [Background Bleed Through](why denied.md#clearart-bleed-through "")| [Incomplete Element Removal](why denied.md#poster-incomplete-element-removal "") |                                                           |
-| [Not Visible](why denied.md#logo-not-visible "")               | [Tagline](why denied.md#clearart-tagline "")                       | [Non Permitted Text](why denied.md#poster-non-permitted-text "")                 |                                                           |
-| [Cropped Shadow/Glow](why denied.md#logo-cropped-shadowglow "")| [Cropped Shadow](why denied.md#clearart-cropped-shadow "")         | [Compression Artifacts](why denied.md#poster-compression-artifacts "")           |                                                           |
-| [Blurry Logo](why denied.md#logo-blurry "")                    | [Incomplete Render](why denied.md#clearart-incomplete-render "")   | [Crop Lines](why denied.md#poster-crop-lines "")                                 |                                                           |
-| [Not Center Aligned](why denied.md#logo-not-aligned "")        | [Aspect Ratio](why denied.md#clearart-aspect-ratio "")             | [Improper Blending](why denied.md#poster-improper-blending "")                   |                                                           |
-| [Grainy Color](why denied.md#logo-grainy-color "")             |                                                                    | [Poor Cloning](why denied.md#poster-poor-cloning "")                             |                                                           |
+| [Jagged Edges](why denied.md#jagged-edges "")                  | [No Logo](why denied.md#no-logo "")                                | [Low Quality](why denied.md#low-quality "")                                      | [Not Fully Visible](why denied.md#not-fully-visible "")   |
+| [Wrong Size](why denied.md#wrong-size "")                      | [Background Bleed Through](why denied.md#bleed-through "")         | [Incomplete Element Removal](why denied.md#incomplete-element-removal "")        |                                                           |
+| [Not Visible](why denied.md#not-visible "")                    | [Tagline](why denied.md#tagline "")                                | [Non Permitted Text](why denied.md#non-permitted-text "")                        |                                                           |
+| [Cropped Shadow/Glow](why denied.md#cropped-shadowglow "")     | [Cropped Shadow](why denied.md#cropped-shadow "")                  | [Compression Artifacts](why denied.md#compression-artifacts "")                  |                                                           |
+| [Blurry Logo](why denied.md#blurry "")                         | [Incomplete Render](why denied.md#incomplete-render "")            | [Crop Lines](why denied.md#crop-lines "")                                        |                                                           |
+| [Not Center Aligned](why denied.md#not-aligned "")             | [Aspect Ratio](why denied.md#aspect-ratio "")                      | [Improper Blending](why denied.md#improper-blending "")                          |                                                           |
+| [Grainy Color](why denied.md#grainy-color "")                  |                                                                    | [Poor Cloning](why denied.md#poor-cloning "")                                    |                                                           |
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Jagged Edges**
@@ -45,7 +44,6 @@ Use this reference to help identify issues, and find resources to help fix them.
 - [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Wrong Size**
@@ -71,7 +69,6 @@ Hover image below to watch an animated explanation.
 - [How To Size And Center Hdlogos In Gimp](https://fanart.tv/tutorials/size-and-center-logos-in-gimp/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Not Visible**
@@ -98,7 +95,6 @@ Hover image below to watch an animated explanation.
 - [Gimp From Scratch Part 4 (Intro To Paths And Create Hdclearlogo)](https://fanart.tv/tutorials/gimp-scratch-part-4-intro-paths-create-hdclearlogo/){target= blank}
   
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Cropped Shadow/Glow**
@@ -135,7 +131,6 @@ Hover image below to watch an animated explanation.
 - [How To Size And Center Hdlogos In Gimp](https://fanart.tv/tutorials/size-and-center-logos-in-gimp/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Blurry**
@@ -152,7 +147,6 @@ Hover image below to watch an animated explanation.
 - [HD Music Logo](../ImageTypes/Music/hdmusiclogo.md)
   
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Not Aligned**
@@ -176,7 +170,6 @@ Hover image below to watch an animated explanation.
 - [How To Size And Center Hdlogos In Gimp](https://fanart.tv/tutorials/size-and-center-logos-in-gimp/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Grainy Color**
@@ -199,8 +192,6 @@ Hover image below to watch an animated explanation.
 - [The Animal Logo Tutorial](https://fanart.tv/tutorials/animal-logo-tutorial/){target= blank}
 
 </div>
-
-
 <div id="denied-card" markdown>
 
 ### **No Logo**
@@ -220,7 +211,6 @@ Hover image below to watch an animated explanation.
 - [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Bleed Through**
@@ -241,7 +231,6 @@ Hover image below to watch an animated explanation.
 - [Gimp From Scratch Part - 5 (Render Image and Create HDClearArt)](https://fanart.tv/tutorials/gimp-scratch-part-5-intro-paths-create-hdclearlogo/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Tagline**
@@ -261,7 +250,6 @@ Hover image below to watch an animated explanation.
 - [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Cropped Shadow**
@@ -282,7 +270,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Incomplete Render**
@@ -302,7 +289,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Aspect Ratio**
@@ -340,7 +326,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Incomplete Element Removal**
@@ -357,7 +342,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Non Permitted Text**
@@ -373,7 +357,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Compression Artifacts**
@@ -389,7 +372,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Crop Lines**
@@ -404,7 +386,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Checking Images Edges](https://fanart.tv/tutorials/checking-image-edges/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Improper Blending**
@@ -422,7 +403,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
 
 </div>
-
 <div id="denied-card" markdown>
 
 ### **Poor Cloning**
@@ -437,7 +417,19 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
 
 </div>
+<div id="denied-card" markdown>
 
+### **Not Fully Visible**
+<p class="center-image"><img id='denied-card-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/why-denied/characterart-not-fully-visible.jpg" onmouseover="this.src='../../../assets/images/why-denied/characterart-not-fully-visible-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/characterart-not-fully-visible.jpg'"/></p>
 
+**Problem:** Part of image is cropped on the edges.
+
+**Fix:** Make sure to encapsulate entire image within the useable space. Absolutely no cropping is allowed with characterarts.
+
+**Related Tutorials:**
+        
+- [Characterart Guidelines And Tips](https://fanart.tv/tutorials/characterart-guidelines-and-tips/){target= blank}
+
+</div>
 
 

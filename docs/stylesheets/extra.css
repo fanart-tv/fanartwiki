@@ -110,3 +110,7 @@ div#denied-card h3 {
 div#denied-card p, #denied-card li, .md-typeset :is(.note)>:is(.admonition-title,summary) {
     color: black;
 }
+
+p.center-image {
+    text-align: center;
+}
