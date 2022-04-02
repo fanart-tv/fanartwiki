@@ -321,6 +321,11 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** Find a better image to start with.
 
+**Rules:** 
+
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
+  
 **Related Tutorials:**
         
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
@@ -335,7 +340,11 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** In this case a small black level adjustment fixed it. You could also just paint over it as well as long as it’s blended properly.
 
+**Rules:** 
 
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
+  
 **Related Tutorials:**
         
 - [Adjusting Color Levels](https://fanart.tv/tutorials/adjusting-color-levels/){target= blank}
@@ -351,6 +360,10 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** Use the clone/stamp tool to cover up the unwanted text. A little level adjustment also helps.
 
+**Rules:** 
+
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
 
 **Related Tutorials:**
         
@@ -366,6 +379,11 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** Sometimes these can’t be fixed without finding a better image or some creative smoothing and sharpening.
 
+**Rules:** 
+
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
+  
 **Related Tutorials:**
 
 - [Adjusting Color Levels](https://fanart.tv/tutorials/adjusting-color-levels/){target= blank}       
@@ -381,6 +399,11 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** You could either recrop & resize the image, or use the clone tool along the edge if the image isn’t big enough to crop any further.
 
+**Rules:** 
+
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
+  
 **Related Tutorials:**
         
 - [Checking Images Edges](https://fanart.tv/tutorials/checking-image-edges/){target= blank}
@@ -395,6 +418,10 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** Again a little level adjustment to the rescue. If leveling doesn’t help, you should use the clone tool or use the color picker to select the paint color from the surrounding area you want to cover.
 
+**Rules:** 
+
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
 
 **Related Tutorials:**
         
@@ -412,6 +439,11 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Fix:** Take your time. Try changing brushes and brush sizes with both the Clone and Healing tools.
 
+**Rules:** 
+
+- [Movie Poster](../ImageTypes/Movies/movieposter.md)
+- [TV Poster](../ImageTypes/TV/tvposter.md)
+  
 **Related Tutorials:**
         
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank}
@@ -425,6 +457,11 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 **Problem:** Part of image is cropped on the edges.
 
 **Fix:** Make sure to encapsulate entire image within the useable space. Absolutely no cropping is allowed with characterarts.
+
+**Rules:** 
+
+- [CharacterArt](../ImageTypes/TV/characterart.md)
+
 
 **Related Tutorials:**
         
