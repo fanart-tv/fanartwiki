@@ -373,7 +373,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 Hover image below to watch an animated explanation.
 
-<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-in-space.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-in-space-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-in-space.jpg'"/>
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-in-space-animation-static.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-in-space-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-in-space-animation-static.jpg'"/>
 
 **Rules:** 
 
