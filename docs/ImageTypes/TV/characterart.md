@@ -31,7 +31,7 @@
 
 ??? example "CharacterArt Templates and Tutorials"
 
-    - [Why Your Artwork May Be Denied](https://fanart.tv/tutorials/artwork-may-denied){target= blank}
+    - [Why Your Artwork May Be Denied](/General/why denied/)
     - [Gimp CharacterArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDcharacterart-Template_2021.xcf){target= blank}
     - Photoshop CharacterArt Template
     - [CharacterArt Tutorials](https://fanart.tv/type/characterart/){target= blank}

@@ -31,7 +31,7 @@
 
 ??? example "Background Templates and Tutorials"
 
-    - [Why Your Artwork May Be Denied](https://fanart.tv/tutorials/artwork-may-denied){target= blank}
+    - [Why Your Artwork May Be Denied](/General/why denied/)
     - Gimp Background Template
     - Photoshop Background Template
     - [Background Tutorials](https://fanart.tv/type/background/){target= blank}
