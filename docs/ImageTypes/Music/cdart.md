@@ -69,3 +69,4 @@
     - [Photoshop cdArt Template](https://fanart.tv/wp-content/uploads/2022/02/cdART-Template-Photoshop-v4.psd.zip){target= blank}
     - [cdArt Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
     
+    

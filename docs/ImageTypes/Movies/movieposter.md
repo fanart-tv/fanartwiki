@@ -86,3 +86,4 @@
     - Gimp Poster Template
     - Photoshop Poster Template
     - [Poster Tutorials](https://fanart.tv/type/posters-2/){target= blank}
+

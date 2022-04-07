@@ -53,3 +53,4 @@
 ??? example "Background Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
+
