@@ -114,3 +114,27 @@ div#denied-card p, #denied-card li, .md-typeset :is(.note)>:is(.admonition-title
 p.center-image {
     text-align: center;
 }
+
+ /* Table styling for Tutorials */
+
+th.tut-th {
+    display: none;
+}
+td.tut-key {
+    background-color: rgb(0 0 0 / 16%);
+    color: #4051b5;
+}
+div#tut-table {
+    display: table;
+    margin: auto;
+}
+
+div#tut-table table {
+    padding: 0.5em;
+}
+div#tut-table table {
+    line-height: .75em;
+}
+div#tut-table table td {
+    border: none;
+}
