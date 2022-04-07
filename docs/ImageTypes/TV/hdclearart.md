@@ -51,7 +51,7 @@
 
 
 ??? note "**Clearart Shadows**" 
-    - __Do not crop shadows when unnecessary"__
+    - __Do not crop shadows when unnecessary__
 
     As the rules states, you are allowed to crop on the bottom and right sides of an image. When this shouldn’t be done is when there is no need for it. If you are using a full uncropped image for your clearart, then there is no reason to crop the shadows either. The exception to this is when using perspective shadows that are almost an image unto themselves.  
 

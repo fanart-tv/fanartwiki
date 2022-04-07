@@ -107,7 +107,7 @@ div#denied-card h3 {
     margin-top: .5em;
 }
 
-div#denied-card p, #denied-card li, .md-typeset :is(.note)>:is(.admonition-title,summary) {
+div#denied-card p, #denied-card li, .md-typeset :is(.note)>:is(.admonition-title,summary), .md-typeset :is(.info,.todo)>:is(.admonition-title,summary)  {
     color: black;
 }
 

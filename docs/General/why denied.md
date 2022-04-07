@@ -1,10 +1,10 @@
-# __Why Your Atwork May be Denied__
+# __Why Your Artwork May be Denied__
 Use this reference to help identify issues, and find resources to help fix them.
 
 ???+ tip "Tip"
     Hover over the images to see a version that would pass moderation. (Can take a second or two to show up the first time you hover)
 
-    Some images will reveal the orginal source by clicking on the image. (Not all examples will have an original image)
+    Some images will reveal the original source by clicking on the image. (Not all examples will have an original image)
 
 <div id="denied-table" markdown>
 
@@ -18,7 +18,10 @@ Use this reference to help identify issues, and find resources to help fix them.
 | [Cropped Shadow/Glow](why denied.md#cropped-shadowglow "")     | [Cropped Shadow](why denied.md#cropped-shadow "")                  | [Compression Artifacts](why denied.md#compression-artifacts "")                  |                                                           |
 | [Blurry Logo](why denied.md#blurry "")                         | [Incomplete Render](why denied.md#incomplete-render "")            | [Crop Lines](why denied.md#crop-lines "")                                        |                                                           |
 | [Not Center Aligned](why denied.md#not-aligned "")             | [Aspect Ratio](why denied.md#aspect-ratio "")                      | [Improper Blending](why denied.md#improper-blending "")                          |                                                           |
-| [Grainy Color](why denied.md#grainy-color "")                  |                                                                    | [Poor Cloning](why denied.md#poor-cloning "")                                    |                                                           |
+| [Grainy Color](why denied.md#grainy-color "")                  | [Cropped on Top](why denied.md#cropped-on-top "")                  | [Poor Cloning](why denied.md#poor-cloning "")                                    |                                                           |
+|                                                                | [Cropped on Left](why denied.md#cropped-on-left "")                |                                                                                  |                                                           |
+|                                                                | [Cropped in Space](why denied.md#cropped-in-space "")              |                                                                                  |                                                           |
+
 
 </div>
 <div id="denied-card" markdown>
@@ -28,7 +31,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 **Problem:** The edges are very pixelated and not as smooth as they should be.
 
-**Fix:** The best way to prevent this is to render images using the path/pen tools and make sure you have anti-aliasing turned on. If you are erasing the background instead, make sure to use a fuzzy brush instead of one with a hard edge. This will leave your edges a lot smoother.
+**Fix:** The best way to prevent this is to render[^1] images using the path/pen tools and make sure you have anti-aliasing turned on. If you are erasing the background instead, make sure to use a fuzzy brush instead of one with a hard edge. This will leave your edges a lot smoother.
 
 **Rules:** 
 
@@ -275,9 +278,102 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 ### **Incomplete Render**
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-incomplete-render.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-incomplete-render-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-incomplete-render.jpg'"/>
 
-**Problem:** When removing the background of an image without using the pen/path tool, you have to be certain to remove **all** pixels of the background. You should always check your renders against different colored backgrounds as explained in the rules. Another effective way to spot stray pixels is to add a stroke to the rendered image. This will highlight all the pixels in the image, even the ones that are hard to see.
+**Problem:** When removing the background of an image without using the pen/path tool, you have to be certain to remove **all** pixels of the background. You should always check your renders[^1] against different colored backgrounds as explained in the rules. Another effective way to spot stray pixels is to add a stroke to the rendered[^1] image. This will highlight all the pixels in the image, even the ones that are hard to see.
 
-**Fix:** Render, (cut out) image completely. Ensure there are no leftover, "stray" pixels before submitting for moderation.
+**Fix:** Render[^1] image completely. Ensure there are no leftover, "stray" pixels before submitting for moderation.
+
+**Rules:** 
+
+- [HD Movie Clearart](../ImageTypes/Movies/hdmovieclearart.md)
+- [HD TV Clearart](../ImageTypes/TV/hdclearart.md)
+  
+**Related Tutorials:**
+        
+- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+
+</div>
+<div id="denied-card" markdown>
+
+### **Bad Render**
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-bad-render.png" onmouseover="this.src='../../../assets/images/why-denied/clearart-bad-render-expert-fixed.png'" onclick="this.src='../../../assets/images/why-denied/clearart-bad-render-fixed.png'" onmouseout="this.src='../../../assets/images/why-denied/clearart-bad-render.png'"/>
+
+**Problem:** Lazy attempt at removing the background. Edges are jagged and unnatural looking. Holes inside of subject. Most likely the result of using some automated tool in a graphics program.
+
+**Fix:** Cut out image with care, ensuring that all edges are clean. Check your render[^1] against the five suggested colors to help spot issues. You can repair this in different ways depending on your skill level.
+
+??? info annotate "Bare Minimum Render[^1] - Difficulty: **Intermediate**"
+    
+    You can minimize the difficulty level by smoothing off the beard hair and omitting the ropes coming out of the hat. This can be done with basic tools such as the eraser tool, or preferably use the pen/path tools to render[^1] with crisp clean edges.
+
+    This example can be seen above by clicking once on the above image instead of hovering.
+
+??? info "Complete Render[^1] - Difficulty: **Expert**"
+    
+    Once you are more comfortable with the tools at your disposal you will be able to use techniques to render[^1] the hair of the beard so there is no perceptible remnants of the original background left behind.
+
+    This example can be seen above by hovering over the above image.
+
+
+**Rules:** 
+
+- [HD Movie Clearart](../ImageTypes/Movies/hdmovieclearart.md)
+- [HD TV Clearart](../ImageTypes/TV/hdclearart.md)
+  
+**Related Tutorials:**
+        
+- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+  
+</div>
+<div id="denied-card" markdown>
+
+### **Cropped on Top**
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-top.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-top-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-top.jpg'"/>
+
+**Problem:** Image is cropped (cut off), on the top.
+
+**Fix:** Size and position your image to **use as much space as possible** without it being cropped on the top or the left. This includes shadows and glows as well.
+
+**Rules:** 
+
+- [HD Movie Clearart](../ImageTypes/Movies/hdmovieclearart.md)
+- [HD TV Clearart](../ImageTypes/TV/hdclearart.md)
+  
+**Related Tutorials:**
+        
+- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+
+</div>
+<div id="denied-card" markdown>
+
+### **Cropped on Left**
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-left.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-left-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-left.jpg'"/>
+
+**Problem:** Image is cropped (cut off), on the left side of the clearart.
+
+**Fix:** Size and position your image to **use as much space as possible** without it being cropped on the top or the left. This includes shadows and glows as well.
+
+**Rules:** 
+
+- [HD Movie Clearart](../ImageTypes/Movies/hdmovieclearart.md)
+- [HD TV Clearart](../ImageTypes/TV/hdclearart.md)
+  
+**Related Tutorials:**
+        
+- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+
+</div>
+<div id="denied-card" markdown>
+
+### **Cropped in Space**
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-in-space.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-in-space-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-in-space.jpg'"/>
+
+**Problem:** Image is cropped (cut off), without using all of the available canvas.
+
+**Fix:** Size and position your image to **use as much space as possible** without it being cropped on the top or the left. This includes shadows and glows as well.
+
+Hover image below to watch an animated explanation.
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-cropped-in-space.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-cropped-in-space-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/clearart-cropped-in-space.jpg'"/>
 
 **Rules:** 
 
@@ -354,7 +450,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 <div id="denied-card" markdown>
 
 ### **Non Permitted Text**
-<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-suplerflous-text.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-suplerflous-text-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-suplerflous-text.jpg'"/>
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-superfluous-text.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-superfluous-text-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-superfluous-text.jpg'"/>
 
 **Problem:** As per the rules. Only Logos are allowed on posters.
 
@@ -397,7 +493,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Problem:** Another great image but there is a white line down the right side. This is easy to miss if you don’t check your poster edges against different color backgrounds.
 
-**Fix:** You could either recrop & resize the image, or use the clone tool along the edge if the image isn’t big enough to crop any further.
+**Fix:** You could either re-crop & resize the image, or use the clone tool along the edge if the image isn’t big enough to crop any further.
 
 **Rules:** 
 
@@ -435,7 +531,7 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 ### **Poor Cloning**
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/poster-bad-cloning.jpg" onmouseover="this.src='../../../assets/images/why-denied/poster-bad-cloning-fixed.jpg'" onclick="this.src='../../../assets/images/why-denied/poster-bad-cloning-orig.jpg'" onmouseout="this.src='../../../assets/images/why-denied/poster-bad-cloning.jpg'"/>
 
-**Problem:** Sloppy useage of the Clone and Healing tools makes image look unnatural.
+**Problem:** Sloppy usage of the Clone and Healing tools makes image look unnatural.
 
 **Fix:** Take your time. Try changing brushes and brush sizes with both the Clone and Healing tools.
 
@@ -469,4 +565,6 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 </div>
 
+[^1]: "Render" is a slang term which means to cut out part of an image and remove it's background.
 
+--8<-- "includes/abbreviations.md"
