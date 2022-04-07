@@ -18,10 +18,10 @@ Use this reference to help identify issues, and find resources to help fix them.
 | [Cropped Shadow/Glow](why denied.md#cropped-shadowglow "")     | [Cropped Shadow](why denied.md#cropped-shadow "")                  | [Compression Artifacts](why denied.md#compression-artifacts "")                  |                                                           |
 | [Blurry Logo](why denied.md#blurry "")                         | [Incomplete Render](why denied.md#incomplete-render "")            | [Crop Lines](why denied.md#crop-lines "")                                        |                                                           |
 | [Not Center Aligned](why denied.md#not-aligned "")             | [Aspect Ratio](why denied.md#aspect-ratio "")                      | [Improper Blending](why denied.md#improper-blending "")                          |                                                           |
-| [Grainy Color](why denied.md#grainy-color "")                  | [Cropped on Top](why denied.md#cropped-on-top "")                  | [Poor Cloning](why denied.md#poor-cloning "")                                    |                                                           |
+| [Grainy Color](why denied.md#grainy-color "")                  | [Bad Render](why denied.md#bad-render "")                          | [Poor Cloning](why denied.md#poor-cloning "")                                    |                                                           |
+|                                                                | [Cropped on Top](why denied.md#cropped-on-top "")                  |                                                                                  |                                                           |
 |                                                                | [Cropped on Left](why denied.md#cropped-on-left "")                |                                                                                  |                                                           |
 |                                                                | [Cropped in Space](why denied.md#cropped-in-space "")              |                                                                                  |                                                           |
-
 
 </div>
 <div id="denied-card" markdown>
