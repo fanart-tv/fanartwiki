@@ -31,7 +31,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 **Problem:** The edges are very pixelated and not as smooth as they should be.
 
-**Fix:** The best way to prevent this is to render[^1] images using the path/pen tools and make sure you have anti-aliasing turned on. If you are erasing the background instead, make sure to use a fuzzy brush instead of one with a hard edge. This will leave your edges a lot smoother.
+**Fix:** The best way to prevent this is to render images using the path/pen tools and make sure you have anti-aliasing turned on. If you are erasing the background instead, make sure to use a fuzzy brush instead of one with a hard edge. This will leave your edges a lot smoother.
 
 **Rules:** 
 
@@ -278,9 +278,9 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 ### **Incomplete Render**
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/clearart-incomplete-render.jpg" onmouseover="this.src='../../../assets/images/why-denied/clearart-incomplete-render-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/clearart-incomplete-render.jpg'"/>
 
-**Problem:** When removing the background of an image without using the pen/path tool, you have to be certain to remove **all** pixels of the background. You should always check your renders[^1] against different colored backgrounds as explained in the rules. Another effective way to spot stray pixels is to add a stroke to the rendered[^1] image. This will highlight all the pixels in the image, even the ones that are hard to see.
+**Problem:** When removing the background of an image without using the pen/path tool, you have to be certain to remove **all** pixels of the background. You should always check your renders against different colored backgrounds as explained in the rules. Another effective way to spot stray pixels is to add a stroke to the rendered image. This will highlight all the pixels in the image, even the ones that are hard to see.
 
-**Fix:** Render[^1] image completely. Ensure there are no leftover, "stray" pixels before submitting for moderation.
+**Fix:** Render image completely. Ensure there are no leftover, "stray" pixels before submitting for moderation.
 
 **Rules:** 
 
@@ -299,17 +299,17 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
 
 **Problem:** Lazy attempt at removing the background. Edges are jagged and unnatural looking. Holes inside of subject. Most likely the result of using some automated tool in a graphics program.
 
-**Fix:** Cut out image with care, ensuring that all edges are clean. Check your render[^1] against the five suggested colors to help spot issues. You can repair this in different ways depending on your skill level.
+**Fix:** Render image with care, ensuring that all edges are clean. Check your render against the five suggested colors to help spot issues. You can repair this in different ways depending on your skill level.
 
-??? info annotate "Bare Minimum Render[^1] - Difficulty: **Intermediate**"
+??? info annotate "Bare Minimum Render - Difficulty: **Intermediate**"
     
-    You can minimize the difficulty level by smoothing off the beard hair and omitting the ropes coming out of the hat. This can be done with basic tools such as the eraser tool, or preferably use the pen/path tools to render[^1] with crisp clean edges.
+    You can minimize the difficulty level by smoothing off the beard hair and omitting the ropes coming out of the hat. This can be done with basic tools such as the eraser tool, or preferably use the pen/path tools to render with crisp clean edges.
 
     This example can be seen above by clicking once on the above image instead of hovering.
 
-??? info "Complete Render[^1] - Difficulty: **Expert**"
+??? info "Complete Render - Difficulty: **Expert**"
     
-    Once you are more comfortable with the tools at your disposal you will be able to use techniques to render[^1] the hair of the beard so there is no perceptible remnants of the original background left behind.
+    Once you are more comfortable with the tools at your disposal you will be able to use techniques to render the hair of the beard so there is no perceptible remnants of the original background left behind.
 
     This example can be seen above by hovering over the above image.
 
@@ -564,7 +564,5 @@ Hover image below to watch an animated explanation.
 - [Characterart Guidelines And Tips](https://fanart.tv/tutorials/characterart-guidelines-and-tips/){target= blank}
 
 </div>
-
-[^1]: "Render" is a slang term which means to cut out part of an image and remove it's background.
 
 --8<-- "includes/abbreviations.md"
