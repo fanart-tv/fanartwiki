@@ -78,21 +78,37 @@ In the left image below I prepped my work, then brought it together in the right
 4. This layer has the raw render that has already been checked and is ready to be used.
 5. This layer is the [perspective shadow](https://docs.gimp.org/2.10/en/script-fu-perspective-shadow.html){target= blank} I added to give the image some depth.
 6. This is layer is a composite of the render and the perspective shadow combined.
-7. After cropping both the logo and render images to [fit the content](https://docs.gimp.org/en/gimp-image-crop.html){target= blank} and remove any surrounding space, I just dragged each over to my blank clearart canvas.
+7. After trimming both the logo and render images using [crop to content](https://docs.gimp.org/en/gimp-image-crop.html){target= blank} by removing any surrounding space, I just dragged each over to my blank clearart canvas.
 
 The logo was designed for the site so the size was good enough to use as is. You want to avoid enlarging any images unless absolutely necessary.
 
-The render was a good bit larger than the canvas so I just used the scale tool to make it as large as possible without cropping it. In this case I made it 562px tall. Adding the shadow before resizing made it possible to not worry about the shadow getting cropped.
+The render was a good bit larger than the canvas so I just scaled the layer to make it as large as possible without cropping it. In this case I made it 562px tall. Adding the shadow before resizing made it possible to not worry about the shadow getting cropped.
 
 <p class="center-image" style="text-align:center;" ><img id='tut-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg"/></p>
 
+<p style="text-align:center;" markdown > **Hover image below to see the pieces put together.** </p>
+
+<img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg'"/>
+
+<p style="text-align:center;" markdown > **... and the finished ClearArt** </p>
+
+<img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-tutorial-finished.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-tutorial-finished-border.jpg'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-tutorial-finished.jpg'"/>
+
 ??? Tip "Tip"
 
-    If your skills are not yet up to the level required by the site, you might be able to find a render that's already been done and is free to use. Adding some or all of the following terms to your image search might turn up a result you can use.
+    If your skills are not yet up to the level required by the site to create your own renders, you might be able to find a render that's already been done and is free to use. Adding some or all of the following terms to your image search might turn up a result you can use.
     
     `cutout` `png` `renders` `transparent background`
 
     _\*You will still need to verify the image meets our requirements._
 
+??? info "Related Tutorials"
+
+    [Gimp from Scratch pt5](https://www.youtube.com/watch?v=N1B0TpyZ0vs&list=PLDS30vesSUNHXwUEy7EbIRxJlLB0ox7H7){target= blank}
+
+    This tutorial is pretty old now, but the tools and techniques are still very relevant. This tutorial goes over a basic image render, and constructing a ClearArt using that render.
+
 
 --8<-- "includes/abbreviations.md"
+
+
