@@ -128,13 +128,14 @@ div#tut-table {
     display: table;
     margin: auto;
 }
-
 div#tut-table table {
     padding: 0.5em;
 }
-div#tut-table table {
-    line-height: .75em;
-}
 div#tut-table table td {
     border: none;
+    line-height: .25em;
+}
+
+div#tut-table div.md-typeset__scrollwrap {
+    line-height: .25em;
 }
