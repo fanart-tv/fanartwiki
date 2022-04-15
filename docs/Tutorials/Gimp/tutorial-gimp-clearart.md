@@ -90,6 +90,8 @@ The render was a good bit larger than the canvas so I just scaled the layer to m
 
 <img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg'"/>
 
+[Imagus Link]("http://localhost:8000/assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif")
+
 <p style="text-align:center;" markdown > **... and the finished ClearArt** </p>
 
 <img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-tutorial-finished.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-tutorial-finished-border.jpg'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-tutorial-finished.jpg'"/>
