@@ -68,32 +68,27 @@ Now we can take our render and logo and place them on the canvas. The key consid
 - Use as much of the canvas as possible.
 - Do not crop on the [top](/General/why denied/#cropped-on-top) or the [left](/General/why denied/#cropped-on-left).
 
-The easiest was to start would be to add any effects or shadows to your render at full size, then size everything down to fit within the ClearArt canvas. Make sure you have your [aspect ratio locked when resizing](https://www.gimp.org/tutorials/GIMP_Quickies/#changing-the-size-dimensions-of-an-image-scale){target= blank} as we do not accept images that have been [stretched or squished](/General/why%20denied/#aspect-ratio) to fit.
+The easiest way to start would be to add any effects or shadows to your render at full size, then size everything down to fit within the ClearArt canvas. Make sure you have your [aspect ratio locked when resizing](https://www.gimp.org/tutorials/GIMP_Quickies/#changing-the-size-dimensions-of-an-image-scale){target= blank} as we do not accept images that have been [stretched or squished](/General/why%20denied/#aspect-ratio) to fit.
 
 In the left image below I prepped my work, then brought it together in the right image.
 
-1. I have the blank ClearArt canvas I prepared in step 1.
+1. I have the blank ClearArt canvas I prepared in [Step 1](#step-1-create-image).
 2. I opened the logo I will be using.
 3. This is the render I am using.
 4. This layer has the raw render that has already been checked and is ready to be used.
 5. This layer is the [perspective shadow](https://docs.gimp.org/2.10/en/script-fu-perspective-shadow.html){target= blank} I added to give the image some depth.
 6. This is layer is a composite of the render and the perspective shadow combined.
-7. After trimming both the logo and render images using [crop to content](https://docs.gimp.org/en/gimp-image-crop.html){target= blank} by removing any surrounding space, I just dragged each over to my blank clearart canvas.
+7. I trimmed the logo and render images using [crop to content](https://docs.gimp.org/en/gimp-image-crop.html){target= blank} to remove any surrounding space. Then I just dragged each image over to my blank clearart canvas for placement.
 
-The logo was designed for the site so the size was good enough to use as is. You want to avoid enlarging any images unless absolutely necessary.
+The logo was designed for the site so the size was good enough to use as is. You want to avoid enlarging any images which will decrease the quality.
 
-The render was a good bit larger than the canvas so I just scaled the layer to make it as large as possible without cropping it. In this case I made it 562px tall. Adding the shadow before resizing made it possible to not worry about the shadow getting cropped.
+The render was larger than the canvas, so I scaled the layer to make it as large as possible without cropping it. In this case I made it 562px tall. Adding the shadow before resizing made it possible to not worry about the shadow getting cropped.
 
 <figure><img id='tut-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg" onclick='"window.open(http://localhost:8000/assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg)"'/><figcaption><a href="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg">Full-Size Image Link</a></figcaption></figure>
-<!-- <p ><img id='tut-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg" onclick='"window.open(http://localhost:8000/assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg)"'/></p> -->
-
-<!-- <p style="text-align:center;"> <a href="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg">Full-Size Image Link</a></p> -->
 
 <p style="text-align:center;" markdown > **Hover image below to see the pieces put together.** </p>
 
 <figure><img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg'"/><figcaption><a href="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif">Full-Size Image Link</a></figcaption></figure>
-
-<!-- <a href="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif">Full-Size Image Link</a> -->
 
 <p style="text-align:center;" markdown > **... and the finished ClearArt** </p>
 
