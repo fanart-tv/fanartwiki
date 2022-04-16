@@ -14,7 +14,7 @@
 
 #### Description:
 
-In this tutorial you will learn how to design a basic ClearArt. 
+In this tutorial you will learn how to design a basic ClearArt for use in the Movie and TV Show sections. 
 
 ???+ summary "**Requirements:**"
 
@@ -24,16 +24,16 @@ In this tutorial you will learn how to design a basic ClearArt.
     - One Render of a character(s), <em>or highly recognizable major items</em> from the series or movie.
     - **\*Optional:** [Gimp script for creating color background layers.](https://fanart.tv/alpha-check/)
 
-??? Tip "Tip"
-
-    If you can't find the command or tool referenced in this tutorial, use [Gimp's built in search tool](https://www.gimp.org/release-notes/gimp-2.10.html#search-system){target= blank} by pressing the **Forward Slash** keyboard shortcut. **`/`**
+??? Tip "Tips"
+    1. Best viewed when using the Imagus Browser Extension for [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/). This will allow you to view the full sized images without having to leave the page.
+    2. If you can't find the command or tool referenced in this tutorial, use [Gimp's built in search tool](https://www.gimp.org/release-notes/gimp-2.10.html#search-system){target= blank} by pressing the **Forward Slash** keyboard shortcut. **`/`**
 
 ??? Warning "Relevant Rules"
     
-    - [HD Movie Clearart](../ImageTypes/Movies/hdmovieclearart.md)
-    - [HD TV Clearart](../ImageTypes/TV/hdclearart.md)
-    - [HD Movie Logo](../ImageTypes/Movies/hdmovielogo.md)
-    - [HD TV Logo](../ImageTypes/TV/hdtvlogo.md)
+    - [HD Movie Clearart](/ImageTypes/Movies/hdmovieclearart/)
+    - [HD TV Clearart](/ImageTypes/TV/hdclearart/)
+    - [HD Movie Logo](/ImageTypes/Movies/hdmovielogo/)
+    - [HD TV Logo](/ImageTypes/TV/hdtvlogo/)
 
 ## **Step 1:** Create Image
 
