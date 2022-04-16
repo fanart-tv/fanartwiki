@@ -84,13 +84,16 @@ The logo was designed for the site so the size was good enough to use as is. You
 
 The render was a good bit larger than the canvas so I just scaled the layer to make it as large as possible without cropping it. In this case I made it 562px tall. Adding the shadow before resizing made it possible to not worry about the shadow getting cropped.
 
-<p class="center-image" style="text-align:center;" ><img id='tut-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg"/></p>
+<figure><img id='tut-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg" onclick='"window.open(http://localhost:8000/assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg)"'/><figcaption><a href="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg">Full-Size Image Link</a></figcaption></figure>
+<!-- <p ><img id='tut-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg" onclick='"window.open(http://localhost:8000/assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg)"'/></p> -->
+
+<!-- <p style="text-align:center;"> <a href="../../../assets/images/tutorial-assets/gimp-clearart-prep-render-2-layout.jpg">Full-Size Image Link</a></p> -->
 
 <p style="text-align:center;" markdown > **Hover image below to see the pieces put together.** </p>
 
-<img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg'"/>
+<figure><img class="center-image" style="border-radius;.5em;" src="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg" onmouseover="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif'" onmouseout="this.src='../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.jpg'"/><figcaption><a href="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif">Full-Size Image Link</a></figcaption></figure>
 
-[Imagus Link]("http://localhost:8000/assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif")
+<!-- <a href="../../../assets/images/tutorial-assets/gimp-clearart-crop-n-drag.gif">Full-Size Image Link</a> -->
 
 <p style="text-align:center;" markdown > **... and the finished ClearArt** </p>
 
