@@ -78,12 +78,12 @@ In the left image below I prepped my work, then brought it together in the right
 4. This layer has the raw render that has already been checked and is ready to be used.
 5. This layer is the [perspective shadow](https://docs.gimp.org/2.10/en/script-fu-perspective-shadow.html){target= blank} I added to give the image some depth.
 
-    1. <div style="font-size:medium;"> **_\*Adding artistic elements is at user's discretion._**</div>
+    - <div style="font-size:medium;"> **_\*Adding artistic elements is at user's discretion._**</div>
    
 6. This is layer is a composite of the render and the perspective shadow combined.
 7. I trimmed the logo and render images using [Crop to content](https://docs.gimp.org/en/gimp-image-crop.html){target= blank} to remove any surrounding space. Then I just dragged each image over to my blank clearart canvas for placement. 
  
-    1. <div style="font-size:medium;">  **_By trimming the empty space around the images, this will allow you easily place and move the images precisely using Gimp's [Snap to Canvas](https://docs.gimp.org/en/gimp-view-snap-to-canvas.html){target=blank} feature._**</div>
+    - <div style="font-size:medium;">  **_By trimming the empty space around the images, this will allow you easily place and move the images precisely using Gimp's [Snap to Canvas](https://docs.gimp.org/en/gimp-view-snap-to-canvas.html){target=blank} feature._**</div>
 
 The logo was designed for the site so the size was good enough to use as is. You want to avoid enlarging any images which will decrease the quality.
 

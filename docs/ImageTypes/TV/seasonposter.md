@@ -83,7 +83,7 @@
 
 ??? example "Poster Templates and Tutorials"
 
-    - [Why Your Artwork May Be Denied](why denied.md)
+    - [Why Your Artwork May Be Denied](/General/why denied/)
     - Gimp Poster Template
     - Photoshop Poster Template
     - [Poster Tutorials](https://fanart.tv/type/posters-2/){target= blank}

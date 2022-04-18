@@ -211,7 +211,8 @@ Hover image below to watch an animated explanation.
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -230,7 +231,8 @@ Hover image below to watch an animated explanation.
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 - [Gimp From Scratch Part - 5 (Render Image and Create HDClearArt)](https://fanart.tv/tutorials/gimp-scratch-part-5-intro-paths-create-hdclearlogo/){target= blank}
 
 </div>
@@ -250,7 +252,8 @@ Hover image below to watch an animated explanation.
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -270,7 +273,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -289,7 +293,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -321,7 +326,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
   
 </div>
 <div id="denied-card" markdown>
@@ -340,7 +346,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -359,7 +366,8 @@ Shadow is cropped on the left and bottom edges. As per the rules, no cropping is
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -382,7 +390,8 @@ Hover image below to watch an animated explanation.
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 
 </div>
 <div id="denied-card" markdown>
@@ -401,7 +410,8 @@ Hover image below to watch an animated explanation.
   
 **Related Tutorials:**
         
-- [Gimp ClearArt Tutorial](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
+- [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+- [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
 - [Poster Creation Basics (Gimp & Photoshop)](https://fanart.tv/tutorials/poster-creation-basics/){target= blank} \*This tutorial is aimed at posters, but the Aspect Ratio portion applies here.
 
 </div>

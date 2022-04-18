@@ -17,4 +17,4 @@ Got a question that isn’t answered here? Try asking on [Discord](https://disco
 - Why...
   
     * [...are my submissions being denied](why denied.md)
-    * [...does it take so long to get my images moderated?](moderation time.md)
+    * [...why does it take so long to get my images moderated?](moderation time.md)
