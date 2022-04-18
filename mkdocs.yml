@@ -108,6 +108,9 @@ nav:
             - 'Music Artist Background': 'ImageTypes/Music/artistbackground.md' 
             - 'Music Banner': 'ImageTypes/Music/musicbanner.md' 
             - 'Music Record Label': 'ImageTypes/Music/musiclabel.md' 
+    - Tutorials:
+        Gimp:
+            - 'Gimp: How to Create A Clearart': 'Tutorials/Gimp/tutorial-gimp-clearart.md'           
 
         
 

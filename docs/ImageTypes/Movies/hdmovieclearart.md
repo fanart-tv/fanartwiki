@@ -73,6 +73,8 @@
 ??? example "HD ClearArt Templates and Tutorials"
 
     - [Why your art may be denied](/General/why denied/)
+    - [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
+    - [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
     - [Gimp HD ClearArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDClearart-Template_2021.xcf){target= blank}
     - Photoshop HD ClearArt Template
     - [ClearArt Tutorials](https://fanart.tv/type/clearart-2/){target= blank}
