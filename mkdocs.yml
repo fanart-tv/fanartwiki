@@ -110,8 +110,4 @@ nav:
             - 'Music Record Label': 'ImageTypes/Music/musiclabel.md' 
     - Tutorials:
         Gimp:
-            - 'Gimp: How to Create A Clearart': 'Tutorials/Gimp/tutorial-gimp-clearart.md'           
-
-        
-
-        
+            - 'Gimp: How to Create A Clearart': 'Tutorials/Gimp/tutorial-gimp-clearart.md'  

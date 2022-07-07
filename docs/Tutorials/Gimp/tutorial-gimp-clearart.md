@@ -14,7 +14,7 @@
 
 #### Description:
 
-In this tutorial you will learn how to design a basic ClearArt for use in the Movie and TV Show sections. 
+In this tutorial you will learn how to design a basic ClearArt for use in the Movie and TV Show sections. This tutorial will not cover creating logos or renders to be used in a clearart.
 
 ???+ summary "**Requirements:**"
 
