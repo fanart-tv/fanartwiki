@@ -56,7 +56,7 @@
 ??? example "HD ClearLogo Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
-    - [Gimp HD ClearLogo Template](https://fanart.tv/wp-content/uploads/2021/06/HDLogo-Template_2021.xcf/){target= blank}
-    - [Photoshop HD ClearLogo Template](https://fanart.tv/wp-content/uploads/2014/01/HD-Logo-Template.rar/){target= blank}
+    - [Gimp HD ClearLogo Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_ClearLogo_Template_2021.xcf){target= blank}
+    - [Photoshop HD ClearLogo Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Photoshop/Photoshop_ClearLogo_Template_2014.psd){target= blank}
     - [ClearLogo Tutorials](https://fanart.tv/type/clearlogo/){target= blank}
 

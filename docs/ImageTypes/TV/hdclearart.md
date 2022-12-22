@@ -69,7 +69,7 @@
     - [Why your art may be denied](/General/why denied/)
     - [Gimp ClearArt Tutorial](/Tutorials/Gimp/tutorial-gimp-clearart/)
     - [Gimp ClearArt Tutorial Video (old)](https://fanart.tv/tutorials/gimp-clearart-tutorial/){target= blank}
-    - [Gimp HD ClearArt Template](https://fanart.tv/wp-content/uploads/2021/06/HDClearart-Template_2021.xcf){target= blank}
-    - Photoshop HD ClearArt Template
+    - [Gimp HD ClearArt Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_ClearArt_Template_2021.xcf){target= blank}
+    - [Photoshop HD ClearArt Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Photoshop/Photoshop_ClearArt_Template_2014.psd)
     - [ClearArt Tutorials](https://fanart.tv/type/clearart-2/){target= blank}
 

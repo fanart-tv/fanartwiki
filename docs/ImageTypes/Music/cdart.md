@@ -65,8 +65,8 @@
 ??? example "cdArt Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
-    - [Gimp cdArt Template](https://fanart.tv/wp-content/uploads/2022/02/cdART-Template-Gimp-v4.xcf){target= blank}
-    - [Photoshop cdArt Template](https://fanart.tv/wp-content/uploads/2022/02/cdART-Template-Photoshop-v4.psd.zip){target= blank}
+    - [Gimp cdArt Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_cdArt_Template-v4_2022.xcf){target= blank}
+    - [Photoshop cdArt Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Photoshop/Photoshop_cdArt_Template-v4_2022.psd){target= blank}
     - [cdArt Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
     
     
