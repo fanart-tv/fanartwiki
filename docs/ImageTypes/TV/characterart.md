@@ -32,7 +32,7 @@
 ??? example "CharacterArt Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
-    - [Gimp CharacterArt Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_CharacterArt_Template_2021.xcf){target= blank}
-    - [Photoshop CharacterArt Template](https://github.com/fanart-tv/templates/blob/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Photoshop/Photoshop_CharacterArt-Template_2018.psd){target= blank}
+    - [Gimp CharacterArt Template](https://github.com/fanart-tv/templates/raw/main/Gimp/Gimp_CharacterArt_Template_2021.xcf){target= blank}
+    - [Photoshop CharacterArt Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_CharacterArt-Template_2018.psd){target= blank}
     - [CharacterArt Tutorials](https://fanart.tv/type/characterart/){target= blank}
 
