@@ -7,12 +7,13 @@
 
 #### **Rules Synopsis**
 
-* Image Size 800 x 310px
-* Centered aligned both vertically and horizontally
-* 10px gutter, this means the actual image is a maximum of 780px by 290px and any dropshadow/outerglow can go into the gutter, but the image may not
-* Always fill as much width/height as possible
-* Logos need to be visible on all kinds of backgrounds
-* Try to go with the lighter color version of a logo since 90% of skins are dark
+* Image Size 800 x 310px.
+* Centered aligned both vertically and horizontally.
+* 10px gutter, this means the actual image is a maximum of 780px by 290px and any dropshadow/outerglow can go into the gutter, but the image may not.
+* Always fill as much width/height as possible.
+* No cropping of logos, shadows, or glows.
+* Logos need to be visible on all kinds of backgrounds.
+* Try to go with the lighter color version of a logo since 90% of skins are dark.
 * Logo color should be authentic to the original logo. If the original logo has a dark color, a white version is allowed.
 * A limit of 4 logos per Artist per user. No Exceptions.
 
@@ -57,6 +58,6 @@
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
     - [Gimp HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_ClearLogo_Template_2021.xcf){target= blank}
-    - [Photoshop HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_ClearLogo_Template_2014.psd){target= blank}
+    - [Photoshop HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_ClearLogo_Template_2022.psd){target= blank}
     - [ClearLogo Tutorials](https://fanart.tv/type/clearlogo/){target= blank}
 
