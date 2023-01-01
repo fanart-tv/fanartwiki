@@ -28,7 +28,7 @@
 
     - __Do not submit art that is similar to art already on the site, or to your own submissions. __
 
-    - <div style="font-size:medium;"> **_\*The exception is if you want to submit **Themed**[^1] artwork, and only plain images exist._**</div>
+    - <div style="font-size:medium;"> **\*The exception is if you want to submit **Themed**[^1] artwork, and only plain images exist.**</div>
 
     - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
 
