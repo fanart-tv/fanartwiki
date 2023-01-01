@@ -17,7 +17,7 @@
 - Same image cannot be used more than once by the same user for multiple seasons.
 - **Themed images**[^1] are always preferred to **Plain images.**[^2]
 - If only Plain versions exist, we will still accept properly Themed version submissions.
-- Always notify the moderators in the submission comments when submitting a Themed image and an Plain image already exists.
+- Always notify the moderators in the comments when submitting a Themed image if Plain image already exists.
 
 ---
 
