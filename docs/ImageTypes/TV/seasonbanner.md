@@ -15,6 +15,8 @@
 - Season numbers are not required for series with unique names for each season.
 - Consistency: If you are doing multiple seasons of one show, try to use the same font/layout for each of them.
 - Same image cannot be used more than once by the same user for multiple seasons.
+- ==Themed images are preferred (uses the same fonts and styles as studio), and similar plain submissions will not be approved when a themed version exists.==
+- ==If only plain versions exist, we will still accept properly themed version submissions.==
 
 ---
 
@@ -25,6 +27,8 @@
     - __Each image should be it’s own unique piece of art. __
 
     - __Do not submit art that is similar to art already on the site, or to your own submissions. __
+
+    - <div style="font-size:medium;"> **_\*The exception is if you want to submit **Themed**[^1] artwork, and only plain images exist._**</div>
 
     - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
 
@@ -53,3 +57,5 @@
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
 
+[^1]:
+    Themed season artwork should mimic the original text and styles, to look as if it was released by the studio.
