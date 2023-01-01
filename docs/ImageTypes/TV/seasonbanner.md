@@ -15,9 +15,9 @@
 - Season numbers are not required for series with unique names for each season.
 - Consistency: If you are doing multiple seasons of one show, try to use the same font/layout for each of them.
 - Same image cannot be used more than once by the same user for multiple seasons.
-- **Themed images[^1] are always preferred to Plain images.[^2]**
-- **If only Plain versions exist, we will still accept properly Themed version submissions.**
-- **Always notify the moderators in the submission comments when submitting a Themed image[^1] and an Plain image[^2] already exists.** 
+- **Themed images**[^1] are always preferred to **Plain images.**[^2]
+- If only Plain versions exist, we will still accept properly Themed version submissions.
+- Always notify the moderators in the submission comments when submitting a Themed image and an Plain image already exists.
 
 ---
 
@@ -29,7 +29,7 @@
 
     - __Do not submit art that is similar to art already on the site, or to your own submissions. __
 
-    - <div style="font-size:medium;"> **\*The exception is if you want to submit **Themed**[^1] images, when only **Plain** images[^2] exist.**</div>
+    - <div style="font-size:medium;"> **\*The exception is if you want to submit **Themed images**[^1], when only **Plain images**[^2] exist.</div>
 
     - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
 
@@ -60,5 +60,5 @@
 
 [^1]:
     Themed season images should mimic the original text and styles, to look as if it was released by the studio.
-[^2]
+[^2]:
     Plain season images are when the fonts and styling do not match the original.
