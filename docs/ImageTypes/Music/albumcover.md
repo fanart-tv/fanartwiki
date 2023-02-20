@@ -10,7 +10,8 @@
 * Images must be in jpg format sized 1000x1000 pixels, no exceptions.
 * Should be an image of the real CD cover
 * Only high quality images will be accepted
-* Stickers, Obis, PMRC labels, and anything which obstructs the cover art are not allowed.
+* Stickers, Obis, and anything which obstructs the cover art are not allowed.
+* Exceptions for PMRC labels are outlined below.
 
 ---
 
@@ -43,9 +44,23 @@
     Our goal should be to try and fill in or make artwork where there is none. This is much more helpful to the site. One look at our [Incomplete Section](https://fanart.tv/list-page/) should give plenty of opportunities for people who want to produce a lot of art and want to really help the site at the same time.
     
 
+??? note "**PMRC Labels**"
+
+    - __PMRC labels are only allowed when clean versions are unavailable, and removal of label would comprimise the integrity of the cover art.__
+
+    - __PMRC labels have to meet the usual quality standards and must maintain original style/colors__
+
+    - __Clean covers will always take precedent over PMRC covers. (They are NOT alternate versions). This means a clean cover can replace an existing PMRC cover.__
+
+
 #### __Resources__
 
 ??? example "Background Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
 
+
+1.    the PMRC has to meet the usual quality standards: must be in high quality (no compression artifacts, dirt specks…) and original (no color changing, text or font redrawing…);
+2.    PMRC artworks will be allowed only if the clean version couldn’t be provided and it’s not possible to manually remove the label;
+3.    if it’s possible to manually remove the PMRC without any loss of details, then it must be mandatory;
+4.    PMRC artworks won’t be considered alternative versions, that means if a clean version already exists in the database, the PMRC version must be denied, or conversely, if the PMRC version is currently in the database, the clean version must replace it and not be uploaded separately.
