@@ -58,9 +58,3 @@
 ??? example "Background Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
-
-
-1.    the PMRC has to meet the usual quality standards: must be in high quality (no compression artifacts, dirt specks…) and original (no color changing, text or font redrawing…);
-2.    PMRC artworks will be allowed only if the clean version couldn’t be provided and it’s not possible to manually remove the label;
-3.    if it’s possible to manually remove the PMRC without any loss of details, then it must be mandatory;
-4.    PMRC artworks won’t be considered alternative versions, that means if a clean version already exists in the database, the PMRC version must be denied, or conversely, if the PMRC version is currently in the database, the clean version must replace it and not be uploaded separately.
