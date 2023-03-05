@@ -66,7 +66,7 @@
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
     - [Gimp cdArt Template](https://github.com/fanart-tv/templates/raw/main/Gimp/Gimp_cdArt_Template-v4_2022.xcf){target= blank}
-    - [Photoshop cdArt Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_cdArt_Template-v4_2022.psd){target= blank}
+    - [Photoshop cdArt Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_cdArt_Template-v5_2023.psd){target= blank}
     - [Photoshop Vinyl cdArt Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_Vinyl_cdArt_Template_2021.psd){target= blank}
     - [Corel cdArt Template](https://github.com/fanart-tv/templates/raw/main/Corel/Corel_cdArt_Template_2022.pspimage){target= blank}
     - [cdArt Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
