@@ -8,7 +8,7 @@
 #### **Rules Synopsis**
 
 * Images must be in jpg format sized 1000x1000 pixels, no exceptions.
-* Should be an image of the real CD cover
+* Images must be from an **OFFICIAL** release. (no bootlegs or fan based images)
 * Only high quality images will be accepted
 * Stickers, Obis, and anything which obstructs the cover art are not allowed.
 * Exceptions for PMRC labels are outlined below.
