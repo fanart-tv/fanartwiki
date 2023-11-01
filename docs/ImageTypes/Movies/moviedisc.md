@@ -20,7 +20,7 @@
 - Title of movie & faces cannot be cropped by the middle hole on custom discs
 - Custom discs need to include a studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
 - A limit of 4 cdARTs per movie per user. No Exceptions.
-- UHD Bluray type discs require a link to the entry on [blue-ray.com](https://www.blu-ray.com/)
+- UHD Bluray type discs require a link to the entry on [blu-ray.com](https://www.blu-ray.com/)
 - An image can only be used once per language per individual
  
 ---
