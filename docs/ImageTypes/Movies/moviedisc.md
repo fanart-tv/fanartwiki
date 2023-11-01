@@ -17,7 +17,7 @@
 - No usernames or designer names are permitted
 - Only high quality images will be accepted
 - Size limit is max. 1.25Mb. Please try to make them as small as possible
-- Title of movie cannot be cropped by the middle hole on custom discs
+- Title of movie & faces cannot be cropped by the middle hole on custom discs
 - Custom discs need to include a studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
 - A limit of 4 cdARTs per movie per user. No Exceptions.
 - UHD Bluray type discs require a link to the entry on [blue-ray.com](https://www.blu-ray.com/)
