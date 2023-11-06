@@ -150,92 +150,78 @@ There are many more specific channels to explore, so join up and have a look for
 
 ---
 
-Other Interesting Places:
 
-The User Menu and Notification Area
-
-fanart.tv - User Menu
-
+#### User Menu
 Here you will find your own personal command center. Explore all the sub-menus to discover personalized links relevant to your interaction with the site.
 
+#### Notification Area
 The notification bubble will turn blue when you are mentioned on the site, have new messages, or get a friend request. It has it’s own drop-down to see at a glance what the notifications are, with quick links to take action on them
 
-
-
-
-Site Search:
+#### Site Search:
 Tips & info on using site search
 
 After the search has finished you will get the results dialog which contains a number of text search matches according to your search.
 If your search hasn’t resulted in what you wanted you can also insert the correct ID.
 
- 
-
-
-Media pages:
+#### Media pages:
 These are just examples of the different artwork types displayed within a tvshow/artist/movie page. All other types work in a similar way
 
-
-Requests:
+#### Requests:
 Brings up the dialog where you can request images for that artwork type. Try to provide as much information as you can find like example images that can be used, fonts or the website
 
-Upload:
+#### Upload:
 This brings up the upload dialog where you can select the image to upload and select appropriate flags like language/season/disc-number/disc-type
 
-Download:
+#### Download:
 This will download the selected image according to your browser settings
-Report:
 
+#### Report:
 This brings up a dialog where you can enter a reason for reporting an image. This can have several reasons like:
 bad quality, duplicates, wrongly tagged, uploaded to incorrect show/movie/artist
 Add to download queue:
 You can add several images to a download queue so you can download them all at once.
 
-Thumbs up:
+#### Thumbs up:
 This will do a +1 vote on that image.
  
 
-This image needs replacing
+#### This image needs replacing:
 When an image needs replacing it will be marked as in the image below. When you hover your pointer over the image it will show a text dialogue with the reason why.
-
 You can also report them yourself by hitting the report button. Images can be reported for several reasons.
 
+#### Image download queue
 
+#### Overview tabs
 
-Image download queue
-
-
-Overview tabs
-Who cares
+#### Who cares
 This shows the statistics on image upload by month/year/all time.
 
-Overview
+#### Overview
 This contains the general rules that apply to that type of artwork. Everyone making artwork should read these before uploading images. It also contains a small overview on how this type of image can be used in HTPC.
 
-
-Latest
+#### Latest
 This shows the latest images that were uploaded by users. Hovering over the image with your cursor will show more info about that image.
 
-Request
+#### Request
 This will show the image requests made by users together with the provided resources and a button for uploading the image once it has been made.
 
-Replace
+#### Replace
 This shows the images that have been marked to be replaced for some reason.
 
-
-Tutorials
+#### Tutorials
 This shows the available tutorials relevant to that type of artwork.
 
 Some sections still have no tutorial linked to them so feel free to  create one and send a mail to contribute@fanart.tv containing the tutorial. We would be very grateful and other users too. As you can see, videos are also welcome.
+
 This wil also contain examples on possible reasons why your artwork can be denied. Before uploading check these examples to see if they pass moderation.
 
 
-Templates
+#### Templates
 This shows the available templates relevant to that type of artwork
 Some section still have no templates linked to them so feel free to  create one and send a mail to contribute@fanart.tv containing the template. We would be very grateful and other users too.
 
 
-Site Etiquette
+#### Site Etiquette
 We really are a community here and not just an image depot. We have a lot of staff and users alike that spend inordinate amounts of time managing and contributing to the most unique and extensive collection of high quality, moderated fanart anywhere.
 
 With that in mind, please be courteous and respectful to staff and users alike. People can get very passionate about artwork and that is understandable, but not at the expense of others. We are here to help, and will as much as we are able. Use the resources put before you and contact a moderator for anything you can’t figure out. We don’t bite unless bitten. Remember that no one gets paid here.
@@ -244,11 +230,13 @@ Your input is most welcome and encouraged. Here are a few ways you can help enri
 
 It is good form to thank for any request fulfillments. This can be as simple as a pm to the person, a thank you in chat, a comment on the art in the activity stream, and a thumbs up vote is always welcome. Encouragement is a powerful tool.
 
-fanart.tv - Vote 
+#### Voting:
 
 Voting will promote images to be the default download through media center scrapers. Putting the best art in this slot is a no brainer, but it takes votes to do it. Exercise your right to vote. 🙂
 
 Commenting on art in the activity stream is another great way to be a part of the community. Feedback is what drives the type of art that people want to see. The more we hear from you, the more likely we will hear you.
 
-Tagging your comments  site-wide with a person’s nick preceded by the @ symbol will leave that person a notification that they were mentioned. Good to use even if you aren’t looking for a reply. (ex. akovia = @akovia or nick_name = @nickname)
+#### Tagging
+Tagging your comments site-wide with a person’s nick preceded by the @ symbol will leave that person a notification that they were mentioned. Good to use even if you aren’t looking for a reply. (ex. akovia = @akovia or nick_name = @nickname)
+
 Good use of common courtesy and common sense will get you far here.
