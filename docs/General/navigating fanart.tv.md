@@ -132,18 +132,18 @@ On our [Discord server](https://discord.gg/r9VufRk "The Fanart.tv Discord Suppor
 
 Here are just some of the things you can do after joining.
 
-_#general channel
-Open discussion about anything and everything Fanart
+!!! info "general channel"
+    - Open discussion about anything and everything Fanart
 
-_#help-requests channel
-Ask for help on how to use the site
-Ask questions on how to fix an image
-Ask where to find image sources
+!!! info "help-requests channel"
+    - Ask for help on how to use the site
+    - Ask questions on how to fix an image
+    - Ask where to find image sources
 
-_#issues_ channel
-Request a refresh of data
-Report a wrong title
-Report Duplicate Entries
+!!! info "issues_ channel"
+    - Request a refresh of data
+    - Report a wrong title
+    - Report Duplicate Entries
 
 There are many more specific channels to explore, so join up and have a look for yourself.
 
