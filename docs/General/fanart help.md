@@ -69,7 +69,7 @@ The forums are no longer open to new registrations, but are still available as a
 Here are a few of our most popular and useful help resources.
 
 - [Getting Started](getting started.md)
-- Navigating Fanart.tv
+- [Navigating Fanart.tv](navigating fanart.tv.md)
 - [How Fanart.tv works](fanart database.md)
 - [Why your art may be denied](why denied.md)
 - How to search for images

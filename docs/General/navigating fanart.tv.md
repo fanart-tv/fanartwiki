@@ -17,7 +17,11 @@ Below you can explore these menus and what they are for.
 
 === "VIP"
     
-    This is a direct link to read about the benefits of becoming a [VIP](vip.md "Become a VIP") on the site
+    This is a direct link to read about the benefits of becoming a [VIP](vip.md "Become a VIP") on the site.
+
+=== "Wiki"
+    
+    Seems you already found this one.
 
 === "Artwork"
     
@@ -35,20 +39,13 @@ Below you can explore these menus and what they are for.
     === "Sitewide Activity"
         The heartbeat of the site. You can follow this feed to see all the new art, comments, posts, and more.
 
-    === "Contributors"
-        Points are distributed to contributors based on the amount of contribution to the site. See the list here and the values given for different contributions.
-
-
 === "About"
     
     === "Newsletters"
         Signup for our newsletter [here](https://fanart.tv/newsletter-signup/ "Newsletter Signup"){target= blank}.
 
-    === "Why your image may be denied"
-        [Here](https://fanart.tv/tutorials/artwork-may-denied/ "Why Your Image May Be Denied"){target= blank} you will find the most common reasons for having your submissions denied.
-
-    === "Moderation time"
-        We get asked a lot how long it takes to have an image approved. You can read about it [here](moderation time.md).
+    === "Contributors"
+        Points are distributed to contributors based on the amount of contribution to the site. See the list [here](https://fanart.tv/contributors/ "Fanart.tv Contributors Statistics"){target= blank} and the values given for different contributions.
 
     === "Staff"
         A list of the current [site staff](https://fanart.tv/staff/ "Site Staff"){target= blank}, their role on the site, and more.
@@ -63,13 +60,18 @@ Below you can explore these menus and what they are for.
         A [history and timeline](https://fanart.tv/history/ "The History of Fanart.tv"){target= blank} of how the site came to be.
 
 === "Support"
-    This will take you to our [Discord server](https://discord.gg/r9VufRk "Discord Server"){target= blank} which is the fastes place to get help.
+    
+    === "Get Help"
+        This will take you to our [Discord server](https://discord.gg/r9VufRk "Discord Server"){target= blank} which is the fastest place to get help.
 
-=== "Tutorials"
-    Look through our [library of tutorials](https://fanart.tv/tutorials/ "Fanart.tv Tutorials"){target= blank} for general and targeted information covering many subjects.
+    === "Tutorials"
+        Look through our [library of tutorials](https://fanart.tv/tutorials/ "Fanart.tv Tutorials"){target= blank} for general and targeted information covering many subjects.
 
-=== "Blog"
-    https://fanart.tv/blog/
+    === "Why your image may be denied"
+        [Here](https://fanart.tv/tutorials/artwork-may-denied/ "Why Your Image May Be Denied"){target= blank} you will find the most common reasons for having your submissions denied.
+
+    === "Moderation time"
+        We get asked a lot how long it takes to have an image approved. You can read about it [here](moderation time.md).
 
 === "Dontate"
     https://fanart.tv/contribute/
@@ -120,20 +122,32 @@ The Blog can be accessed from both the header and footer menus as described abov
 
 ---
 
-### __The Forums__
-
-Here is where the community can communicate with each other about anything and everything. Get help, make suggestions, and generally interact. There is a wealth of information for those willing to have a look around. Everything from where to find the best sources and fonts, to getting advice on graphics software and images. There is even a place to request new features for the site.
-
-Forums can be accessed from both the header and footer menus as described above.
-fanart.tv - Forums
-
-The new forums are on a separate server than the site which will allow us to communicate when there is site down time.
-
----
-
 ### __The Discord server__
 
-Here you can chat with other members or moderators on the site. Ask questions, get help with an image problem, or just hang out and enjoy the conversation. This is by far the best place to get answers quickly.
+Discord is our live chat server. It’s a bit like IRC (Internet Relay Chat) on steroids.
+
+![Discord Channels](../assets/images/discord-server.jpg)
+
+On our [Discord server](https://discord.gg/r9VufRk "The Fanart.tv Discord Support Server) you can chat with other members or moderators on the site. Ask questions, get help with an image problem, report problems, or just hang out and enjoy the conversation. This is by far the best place to get answers quickly.
+
+Here are just some of the things you can do after joining.
+
+_#general channel
+Open discussion about anything and everything Fanart
+
+_#help-requests channel
+Ask for help on how to use the site
+Ask questions on how to fix an image
+Ask where to find image sources
+
+_#issues_ channel
+Request a refresh of data
+Report a wrong title
+Report Duplicate Entries
+
+There are many more specific channels to explore, so join up and have a look for yourself.
+
+[Go there now..](https://discord.gg/r9VufRk){target= blank}
 
 ---
 
