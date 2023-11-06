@@ -79,8 +79,7 @@ Below you can explore these menus and what they are for.
 === "Sponsors"
     https://fanart.tv/sponsors/
 
-
-
+---
 
 ### __The Image Database__
 
@@ -152,6 +151,7 @@ There are many more specific channels to explore, so join up and have a look for
 ---
 
 Other Interesting Places:
+
 The User Menu and Notification Area
 
 fanart.tv - User Menu
