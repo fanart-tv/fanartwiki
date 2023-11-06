@@ -72,7 +72,7 @@ nav:
         - 'Moderation Time': 'General/moderation time.md'
         - 'Personal API Keys': 'General/personal api.md'
         - 'Moderating': 'General/moderating.md'
-        - 'Navigating Fanart.tv': 'navigating fanart.tv.md'
+        - 'Navigating Fanart.tv': 'General/navigating fanart.tv.md'
         - 'Remove Advertisements': 'General/remove adverts.md'
     - Guides:
         - 'Getting Started': 'General/getting started.md'
