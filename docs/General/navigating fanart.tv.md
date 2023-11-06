@@ -130,17 +130,17 @@ Discord is our live chat server. It’s a bit like IRC (Internet Relay Chat) on 
 
 On our [Discord server](https://discord.gg/r9VufRk "The Fanart.tv Discord Support Server) you can chat with other members or moderators on the site. Ask questions, get help with an image problem, report problems, or just hang out and enjoy the conversation. This is by far the best place to get answers quickly.
 
-Here are just some of the things you can do after joining.
+Here are just some of the popular channels and what you can do there after joining.
 
-!!! info "general channel"
+!!! info "#general"
     - Open discussion about anything and everything Fanart
 
-!!! info "help-requests channel"
+!!! info "#help-requests"
     - Ask for help on how to use the site
     - Ask questions on how to fix an image
     - Ask where to find image sources
 
-!!! info "issues_ channel"
+!!! info "#issues"
     - Request a refresh of data
     - Report a wrong title
     - Report Duplicate Entries
