@@ -1,6 +1,4 @@
-# __UNDER CONSTRUCTION!! - Do Not Use__
-
-# __Navigating Fanart.tv__
+# __Navigating Fanart.tv UNDER CONSTRUCTION!! - Do Not Use__
 
 Well you managed to find your way [here](## "The Fanart Wiki"). Now let’s go exploring!
 
@@ -11,6 +9,7 @@ The aim of this guide is to help you understand how everything is laid out, and 
 ---
 
 ### __The Front Page__
+
 The top of the fornt page and every other page contains a menu bar that contains the most important parts of the site.
 
 Below you can explore these menus and what they are for.

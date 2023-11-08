@@ -14,7 +14,7 @@ Lastly, the original submitter will always get the first crack at replacing thei
 
 Reporter waits to see if moderator accepts image as a replacement candidate.
 
-![Report Image](../assets/images/2-Image_Reported.gif) 
+![Report Image](../assets/images/1-Report_image_for_replacement.jpg) 
 
 &nbsp;  
 ##__2.) Report is moderated__
@@ -23,7 +23,7 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 
 * If reported image is not accepted as a candidate for replacement, the image will be marked <u>**Image is fine**</u> and no further actions are needed.
 
-![Report Image](../assets/images/3-Mod_Image_Reported.jpg)
+![Report Image](../assets/images/2-Report_is_moderated.jpg)
 
 &nbsp;  
 ##__3.) Original Submitter notified__
@@ -31,14 +31,14 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 + Marking an image for replacement will send a message to the original submitter and give them a chance to respond.
   + *Moderators should link this wiki page in the message that goes out to the original submitter.*
 
-![Report Image](../assets/images/4-Original_Uploader_Notice.jpg)
+![Report Image](../assets/images/3-Original_Submitter_notified.jpg)
 
 &nbsp;  
 ##__4.) Submit replacement__
 
 * Any user may now upload a replacement submission. All submissions will be held until 7 days have passed from an image being marked as **<u>Image needs replacing</u>**, allowing for anyone to make submissions to be considered.
 
-![Report Image](../assets/images/5a-Replace_Reason.gif)
+![Report Image](../assets/images/4-Submit_replacement.jpg)
 
 &nbsp;  
 
@@ -46,7 +46,11 @@ Reporter waits to see if moderator accepts image as a replacement candidate.
 
 All submissions should use the comment section to indicate it is a replacement submission.
 
-![Report Image](../assets/images/5b-Replace_Dialog.jpg)
+![Report Image](../assets/images/5-Submit_with_comment_1.jpg)
+
+It looks a bit different when replacing from the section overview pages, but it's basically the same process.
+
+![Report Image](../assets/images/5-Submit_with_comment_2.jpg)
 
 &nbsp;  
 
@@ -62,6 +66,6 @@ All submissions should use the comment section to indicate it is a replacement s
 
 * Image will be marked **<u>Image is fine</u>**, if no replacement is deemed acceptable.
 
-![Report Image](../assets/images/6-Mod_Image_Final.jpg)
+![Report Image](../assets/images/6-Submissions_are_moderated.jpg)
 
 `If the moderator uses Imagus, they can switch back and forth between the two images easily to determine if it’s a superior image.`
