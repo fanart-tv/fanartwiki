@@ -139,7 +139,7 @@ They will inspect each image to determine if it meets all of the technical, and 
 
 ??? tip "Pro Tip"
 
-    #### __Complete Your User Profile__
+    #### __3b.) __Complete Your User Profile__
  
     With this information, moderators can point you to the appropriate [tutorials](https://fanart.tv/tutorials/){target=_blank} for your software, and can speak with your in your native language if we have a [moderator on staff](../General/staff.md) that speaks your language.
 
