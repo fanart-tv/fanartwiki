@@ -100,7 +100,8 @@ nav:
             - 'TV Banner': 'ImageTypes/TV/tvbanner.md' 
             - 'TV Season Banner': 'ImageTypes/TV/seasonbanner.md' 
             - 'TV Thumb': 'ImageTypes/TV/tvthumb.md' 
-            - 'TV Season Thumb': 'ImageTypes/TV/seasonthumb.md' 
+            - 'TV Season Thumb': 'ImageTypes/TV/seasonthumb.md'
+            - 'TV Season Thumb': 'ImageTypes/TV/tvsquare.md' 
         Music Images:
             - 'Music HD ClearLogo': 'ImageTypes/Music/hdmusiclogo.md' 
             - 'Music Album Cover': 'ImageTypes/Music/albumcover.md' 
