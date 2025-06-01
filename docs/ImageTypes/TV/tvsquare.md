@@ -1,6 +1,6 @@
 !!! info "Overview"
 
-    - Squares are images of a TV Show depicting its media cover depicting the TV Show.
+    - TV Squares are images of a TV Show depicting its media cover depicting the TV Show.
     - Can be used while browsing your media center library as a recognizable navigation item
 
 ---
