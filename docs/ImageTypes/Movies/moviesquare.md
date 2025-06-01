@@ -48,6 +48,6 @@
 
 #### __Resources__
 
-??? example "TV Square Templates and Tutorials"
+??? example "Movie Square Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
