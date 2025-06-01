@@ -90,7 +90,7 @@ nav:
             - 'Movie Disc': 'ImageTypes/Movies/moviedisc.md' 
             - 'Movie Thumb': 'ImageTypes/Movies/moviethumb.md' 
             - 'Movie Banner': 'ImageTypes/Movies/moviebanner.md' 
-            - 'Movie Square': 'ImageTypes/Movies/moviesquare.md 
+            - 'Movie Square': 'ImageTypes/Movies/moviesquare.md' 
         TV Images:
             - 'TV HD ClearLogo': 'ImageTypes/TV/hdtvlogo.md' 
             - 'TV HD ClearART': 'ImageTypes/TV/hdclearart.md' 
