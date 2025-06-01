@@ -54,7 +54,7 @@
 
 #### __Resources__
 
-??? example "Background Templates and Tutorials"
+??? example "Banner Templates and Tutorials"
 
     - [Why Your Artwork May Be Denied](/General/why denied/)
 
