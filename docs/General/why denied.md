@@ -574,6 +574,7 @@ Hover image below to watch an animated explanation.
 - [Characterart Guidelines And Tips](https://fanart.tv/tutorials/characterart-guidelines-and-tips/){target= blank}
 
 </div>
+<div id="denied-card" markdown>
 
 ### **Cropped Image**
 <p class="center-image"><img id='denied-card-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/why-denied/characterart-not-fully-visible.jpg" onmouseover="this.src='../../../assets/images/why-denied/characterart-not-fully-visible-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/characterart-not-fully-visible.jpg'"/></p>
