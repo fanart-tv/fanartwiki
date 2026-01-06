@@ -25,7 +25,7 @@
 
     - __Do not submit art that is similar to art already on the site, or to your own submissions. __
 
-    - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
+    - __This includes different zoom levels or crop of the same image.__
 
 
 ??? note "**Collection Art**"
