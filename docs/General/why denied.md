@@ -577,7 +577,9 @@ Hover image below to watch an animated explanation.
 <div id="denied-card" markdown>
 
 ### **Cropped Image**
-<p class="center-image"><img id='denied-card-image' style="border-radius;.5em;margin:auto;" src="../../../assets/images/why-denied/characterart-not-fully-visible.jpg" onmouseover="this.src='../../../assets/images/why-denied/characterart-not-fully-visible-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/characterart-not-fully-visible.jpg'"/></p>
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/thumb-cropped.jpg" onmouseover="this.src='../../../assets/images/why-denied/thumb-cropped-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/thumb-cropped.jpg'"/>
+
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/banner-cropped.jpg" onmouseover="this.src='../../../assets/images/why-denied/banner-cropped-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/banner-cropped.jpg'"/>
 
 **Problem:** An image separated by a sharp line or frame/box.
 
@@ -585,12 +587,12 @@ Hover image below to watch an animated explanation.
 
 **Rules:** 
 
-- [CharacterArt](../ImageTypes/TV/characterart.md)
-
-
-**Related Tutorials:**
-        
-- [Characterart Guidelines And Tips](https://fanart.tv/tutorials/characterart-guidelines-and-tips/){target= blank}
+- [Movie Thumb](../ImageTypes/Movies/moviethumb.md)
+- [Movie Banner](../ImageTypes/Movies/moviebanner.md)
+- [TV Thumb](../ImageTypes/TV/tvthumb.md)
+- [TV Banner](../ImageTypes/TV/tvbanner.md)
+- [TV Season Thumb](../ImageTypes/TV/seasonthumb.md)
+- [TV Season Banner](../ImageTypes/TV/seasonbanner.md)
 
 </div>
 
