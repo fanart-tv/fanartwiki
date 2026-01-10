@@ -15,6 +15,7 @@
 - Images should not have borders or frames round them
 - We will only accept screenshots if they are high quality and no alternative, higher quality artwork exists.
 - Screenshots/Screengrabs are limited to two (2) per user, no exceptions.
+- If the same image is already in 4K, there is no need submitted for 1080p. Change: December 27, 2025
 
 ---
 
@@ -26,7 +27,7 @@
 
     - __Do not submit art that is similar to art already on the site, or to your own submissions. __
 
-    - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
+    - __This includes different zoom levels or crop of the same image.__
 
 
 #### __Resources__
