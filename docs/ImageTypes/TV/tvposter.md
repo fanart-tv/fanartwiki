@@ -16,8 +16,8 @@
 * Editions: 3D, Extended Cut, Final Cut, Directors Cut, etc can be used only if it is an official studio release (If you can buy it in a store, you can use it)
 * Language for Textless Posters needs to be set to None, no exceptions
 * Images should not have borders or frames unless it is true to the original
-* A poster may only be used twice. (2 Languages or Language/Textless)
-* A limit of 4 posters per user. This can be any combination of text/textless. No Exceptions.
+* Do not submit Similar Images that includes different zoom levels or crop of the same image, and using in the same language logo combinations with the same images.
+* A limit of 10 posters per user. This can be any combination of text/textless but in a maximum of 2 languages. Textless is not counted as a language. Сhange: December 27, 2025
  
 ---
 
@@ -27,21 +27,7 @@
 
 #### __Other rules and considerations__
 
-??? note "**Similar Images**"  
-
-    - __Each image should be it’s own unique piece of art. __
-
-    - __Do not submit art that is similar to art already on the site, or to your own submissions. __
-
-    - __This includes different zoom levels of the same image, and using different logo combinations with the same images.__
-
-    - __The only exception is the 2 language rule.__
-    
-
-
 ??? note "**Languages**"
-
-    - __Each user is limited to creating a piece of art in a maximum of 2 languages.__
 
     - __The most prominent language in the logo is what determines what language to set.__
 
