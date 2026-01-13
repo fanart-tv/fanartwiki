@@ -87,6 +87,7 @@ nav:
             - 'Movie HD Clearart': 'ImageTypes/Movies/hdmovieclearart.md' 
             - 'Movie Poster': 'ImageTypes/Movies/movieposter.md' 
             - 'Movie Background': 'ImageTypes/Movies/moviebackground.md' 
+            - 'Movie 4K Background': 'ImageTypes/Movies/4kmoviebackground.md' 
             - 'Movie Disc': 'ImageTypes/Movies/moviedisc.md' 
             - 'Movie Thumb': 'ImageTypes/Movies/moviethumb.md' 
             - 'Movie Banner': 'ImageTypes/Movies/moviebanner.md' 
@@ -98,6 +99,7 @@ nav:
             - 'TV Season Poster': 'ImageTypes/TV/seasonposter.md' 
             - 'TV Character Art': 'ImageTypes/TV/characterart.md' 
             - 'TV Background': 'ImageTypes/TV/showbackground.md' 
+            - 'TV 4K Background': 'ImageTypes/TV/4kshowbackground.md' 
             - 'TV Banner': 'ImageTypes/TV/tvbanner.md' 
             - 'TV Season Banner': 'ImageTypes/TV/seasonbanner.md' 
             - 'TV Thumb': 'ImageTypes/TV/tvthumb.md' 
@@ -109,6 +111,7 @@ nav:
             - 'Music Artist Thumb': 'ImageTypes/Music/artistthumb.md' 
             - 'Music CDArt': 'ImageTypes/Music/cdart.md' 
             - 'Music Artist Background': 'ImageTypes/Music/artistbackground.md' 
+            - 'Music Artist 4K Background': 'ImageTypes/Music/4kartistbackground.md' 
             - 'Music Banner': 'ImageTypes/Music/musicbanner.md' 
             - 'Music Record Label': 'ImageTypes/Music/musiclabel.md' 
     - Tutorials:
