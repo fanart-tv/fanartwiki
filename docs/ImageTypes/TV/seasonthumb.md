@@ -9,6 +9,7 @@
 
 - Only high quality images will be accepted.
 - Images must be in jpg format sized 1000x562 pixels.
+- Max filesize of 850 KB
 - Season Thumbs should contain images of character(s) *or highly recognizable major items* from the series as well as a series number.
 - Season Thumbs must have the logo of the show with either: Season (number in letters or numbers xx/x) or The Complete Season (number in letters or numbers xx/x) or Specials. Nothing else.
 - Season number/text has to be of reasonable size to be clearly visible.
