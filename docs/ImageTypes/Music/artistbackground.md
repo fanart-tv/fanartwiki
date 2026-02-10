@@ -9,6 +9,7 @@
 ## **Rules Synopsis**
 
 - Images must be in jpg format sized 1920x1080 pixels, no exceptions.
+- Max filesize of 1.5 MB
 - Copyright infos need to be added in the Comments when uploading the image. (1. If the image is a Promo / PR shot from the band\\\'s official webpage, social media or record company, then a link to the source is required.2. If the image is from any other source, then a link to the source AND the name of the copyright holder is required).
 - Only high quality images will be accepted
 - Images should not have any logos or other text on them
