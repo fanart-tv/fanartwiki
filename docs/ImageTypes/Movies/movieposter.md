@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 * Images must be in jpg format sized 1000x1426 pixels
+* Max filesize of 1.5 MB
 * Only high quality images will be accepted. No Exceptions.
 * Stock covers are preferred if the unpermitted elements (small, illegible text; release dates, …) are removed.
 * Posters should represent the media cover when possible. Custom covers are not discouraged but plain or portrait type images are.
