@@ -10,13 +10,13 @@
 #### **Rules Synopsis**
 
 - Images must be in png format sized 1000x1000 pixels, no exceptions.
+- Max filesize of 1.5 MB
 - The cdART template must be used for consistency
 - Outside areas and middle must be transparent
 - Split rings must be used when necessary
 - Images must be rotated so that the text is upright
 - No usernames or designer names are permitted
 - Only high quality images will be accepted
-- Size limit is max. 1.25Mb. Please try to make them as small as possible
 - Title of movie & faces cannot be cropped by the middle hole on custom discs
 - Custom discs need to include a studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
 - A limit of 4 cdARTs per movie per user. No Exceptions.
