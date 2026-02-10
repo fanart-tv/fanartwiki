@@ -8,6 +8,7 @@
 ###### **Rules Synopsis**
 
 * Images must be in png format sized 1000x562 pixels, no exceptions.
+* Max filesize of 1.5 MB
 * Clearart should contain images of character(s) <em>or highly recognizable major items</em> from the movie as well as a recognizable movie logo.
 * Use transparency in areas not filled with characters, logos, etc. If possible remove background elements like buildings.
 * Avoid cutting off the sides of characters, never cut off the top of their heads, and do not crop off any part of the logo.
