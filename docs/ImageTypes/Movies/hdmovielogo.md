@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 * Image Size is 800 x 310px.
+* Max filesize of 1.5 MB
 * Centered aligned both vertically and horizontally.
 * 10px gutter. This means the actual image is a maximum of 780px by 290px and any dropshadow/outerglow can go into the gutter, but the image may not.
 * Always fill as much width/height as possible.
