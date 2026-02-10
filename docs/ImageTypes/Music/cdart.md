@@ -9,6 +9,7 @@
 #### **Rules Synopsis**
 
 - Images must be in png format sized 1000x1000 pixels, no exceptions.
+- Max filesize of 1.5 MB
 - The cdART template must be used for consistency
 - Outside areas and middle must be transparent
 - Split rings must be used when necessary
