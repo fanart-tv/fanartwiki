@@ -9,6 +9,7 @@
 #### **Rules Synopsis**
 
 - Image Size 400 x 270px
+- Max filesize of 850 KB
 - Center aligned both horizontal and vertical
 - Try to fill as much width/height as possible while keeping aspect ratio
 - Colored logos need to be visible on all kinds of backgrounds
