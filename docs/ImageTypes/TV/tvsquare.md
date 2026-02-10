@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x1000 pixels.
+- Max filesize of 1 MB
 - Images must include only a Title (Logo), no other text is allowed.
 - Only high quality images will be accepted
 - Should contain images of character(s) <em>or highly recognizable major items</em> from the TV Show as well as a recognizable TV Show logo.
