@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 - 512x512px transparent PNG image
+- Max filesize of 1.5 MB
 - center-aligned with the image being at least the full width or height (512px minus gutter) depending on orientation of the original source image
 - 2px drop shadow with a 90 degree angle from the top optional (this would have to discussed further as there are inherit benefits to having drop shadow vs not having one)
 - Character(s) or item(s) need to be highly recognizable from the tvshow. No major obstructions or props will be allowed in the pictures along with them.
