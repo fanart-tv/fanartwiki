@@ -10,6 +10,7 @@
 #### **Rules Synopsis**
 
 - Images must be in jpg format sized 1920x1080 pixels, no exceptions.
+- Max filesize of 1.5 MB
 - Only high quality images will be accepted
 - Images should not have any logos or other text on them
 - Images should not have borders or frames round them
