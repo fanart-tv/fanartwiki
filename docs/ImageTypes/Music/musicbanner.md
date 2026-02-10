@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x185 pixels, no exceptions.
+- Max filesize of 850 KB
 - Only high quality images will be accepted
 - Images should have the artist logo on them
 
