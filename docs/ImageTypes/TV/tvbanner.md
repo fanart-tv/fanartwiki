@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 - Images must be in jpg format sized 1000x185 pixels, no exceptions.
+- Max filesize of 850 KB
 - Only high quality images will be accepted
 - Images should have the series logo on them
 - Logo has to be of reasonable size to be clearly visible
