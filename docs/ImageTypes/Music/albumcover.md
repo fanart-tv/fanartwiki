@@ -8,6 +8,7 @@
 #### **Rules Synopsis**
 
 * Images must be in jpg format sized 1000x1000 pixels, no exceptions.
+* Max filesize of 1 MB
 * Images must be from an **OFFICIAL** release. (no bootlegs or fan based images)
 * Only high quality images will be accepted
 * Stickers, Obis, and anything which obstructs the cover art are not allowed.
