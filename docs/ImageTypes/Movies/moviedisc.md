@@ -17,8 +17,11 @@
 - Images must be rotated so that the text is upright
 - No usernames or designer names are permitted
 - Only high quality images will be accepted
-- Title of movie & faces cannot be cropped by the middle hole on custom discs
-- Custom discs need to include a studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
+- **Original discs**[^2] are not subject to the rules that apply to **Custom discs**[^1]
+- **Custom discs** should contain images of character(s) or highly recognizable major items from the movie.
+- Title of movie & faces cannot be cropped by the middle hole on **Custom discs**
+- **Custom discs** need to include a title of movie, studio logo, audio flag, and disc type flag. (DVD/Blu Ray/3D/UltraHD Bluray)
+- **Original discs** require a link to the image of the retail disc.
 - A limit of 4 cdARTs per movie per user. No Exceptions.
 - UHD Bluray type discs require a link to the entry on [blu-ray.com](https://www.blu-ray.com/)
 - An image can only be used once per language per individual
@@ -83,3 +86,7 @@
     - [Movie Disc Tutorials](https://fanart.tv/type/cdart-2/){target= blank}
     
     
+[^1]:
+    Custom disc images are any random images do not match the retail disc.
+[^2]:
+    Original disc images are scans and digital recreations/remasters from the retail disc. 
