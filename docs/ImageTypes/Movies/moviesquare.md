@@ -15,7 +15,7 @@
 - Please avoid: textless, screenshot, cropped faces at the edges in any direction except in the original.
 - Not allowed to repeat the same image for Editions version if the simple version already exists and vice versa.
 - Images should not have borders or frames unless it is true to the original.
-- A limit of 2 TV Squares per show per user. No Exceptions.
+- A limit of 2 Movie Squares per show per user. No Exceptions.
 
 ---
 
