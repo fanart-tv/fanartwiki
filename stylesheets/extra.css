@@ -1,0 +1,152 @@
+ /* Table Styling */
+.md-typeset table:not([class]) {
+    display: inline-block;
+    max-width: 100%;
+    overflow: auto;
+    font-size: .64rem;
+    background-color: var(--md-default-bg-color);
+    border-radius: 0.3 rem;
+    box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 5%), 0 0 0.05rem rgb(0 0 0 / 10%) !important;
+    touch-action: auto;
+}
+
+
+.md-typeset table:not([class]) {
+    display: inline-block;
+    max-width: 100%;
+    overflow: auto;
+    font-size: .64rem;
+    background-color: var(--md-default-bg-color);
+    border-radius: 0.3rem;
+    box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 5%), 0 0 0.05rem rgb(0 0 0 / 10%);
+    touch-action: auto;
+}
+
+
+.md-typeset table:not([class]) th {
+    min-width: 5rem;
+    padding: 0.9375em 1.25em;
+    color: var(--md-default-bg-color);
+    vertical-align: top;
+    background-color: var(--md-default-fg-color--light);
+}
+
+
+#report {
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	padding: .75em;
+	background-color: #da4f49;
+	background-image: -webkit-linear-gradient(top, #ee5f5b, #bd362f);
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	background-repeat: repeat-x;
+	box-shadow: inset 0 1px 0 rgb(255 255 255 / 20%), 0 1px 2px rgb(0 0 0 / 5%);
+}
+
+#upload {
+	margin: 0;
+    padding: 6px 25px;
+    margin-left: 12px;
+    margin-right: 12px;
+    background-color: #000;
+    border: 1px solid #000;
+    border-color: rgba(0,0,0,.6);
+    -moz-border-radius: 22px;
+    -webkit-border-radius: 22px;
+    border-radius: 22px;
+    font-size: 10px;
+    font-weight: 800;
+    color: #fff;
+    color: rgba(255,255,255,.8);
+    font-family: bebasregular,Arial,Helvetica,sans-serif;
+    -moz-box-shadow: 0 1px 10px 2px rgba(0,0,0,.6),inset 0 20px 40px rgba(255,255,255,.15),inset 0 0 4px rgba(255,255,255,.3);
+    -webkit-box-shadow: 0 1px 10px 2px rgb(0 0 0 / 60%), inset 0 20px 40px rgb(255 255 255 / 15%), inset 0 0 4px rgb(255 255 255 / 30%);
+    box-shadow: 0 1px 10px 2px rgb(0 0 0 / 60%), inset 0 20px 40px rgb(255 255 255 / 15%), inset 0 0 4px rgb(255 255 255 / 30%);
+}
+
+
+#up-image {
+    width: 400px;
+    height: auto;
+}
+
+#logo-hover:hover {
+    background: url("../assets/images/sizing-template-logo-h.png") no-repeat;
+}        
+
+.md-typeset__scrollwrap {
+    overflow-x:  inherit;
+}
+
+td, th {
+    min-width: 40px !important;
+    min-height: 40px !important;
+}
+
+div#denied-card {
+    padding: 0.1em 1.5em 0.5em 1.5em !important;
+    background-color: #F4F4F4;
+    border-radius: 2em;
+    margin-bottom: 2em;
+    box-shadow: 0 1px 10px 2px rgb(0 0 0 / 30%);
+}
+
+div#denied-table {
+    display: table;
+    margin: auto;
+}
+
+div#denied-table h3 {
+    text-align: center;
+    color: #4051b5;
+}
+
+div#denied-card h3 {
+    color: #4051b5;
+    text-align: center;
+    margin-top: .5em;
+}
+
+div#denied-card p, #denied-card li, .md-typeset :is(.note)>:is(.admonition-title,summary), .md-typeset :is(.info,.todo)>:is(.admonition-title,summary)  {
+    color: black;
+}
+
+p.center-image {
+    text-align: center;
+}
+
+ /* Table styling for Tutorials */
+ 
+ /* div.tut-table table:not([class]) {
+     display: contents;
+ } */
+
+ div.tut-table  .md-typeset__scrollwrap {
+     display: grid;
+ }
+ div.tut-table {
+     display: block;
+     margin: auto;
+ }
+th.tut-th {
+    display: none;
+}
+td.tut-key {
+    background-color: rgb(0 0 0 / 16%);
+    color: #4051b5;
+}
+div.tut-table div.md-typeset__scrollwrap {
+    line-height: .5em;
+}
+div.tut-table div.md-typeset__table {
+    display: inline-block;
+    margin-bottom: 0.5em;
+    padding: 0px 0.8rem;
+}
+div.tut-table table {
+    padding: 0.5em;
+}
+div.tut-table table:not([class]) td {
+    border-top: none;
+    padding: 0.65em 1em;
+}
