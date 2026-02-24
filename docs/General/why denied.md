@@ -50,12 +50,19 @@ Use this reference to help identify issues, and find resources to help fix them.
 <div id="denied-card" markdown>
 
 ### **Wrong Size**
-<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-wrong-size.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-wrong-size-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-wrong-size.jpg'"/>
+example of ^^vertical logos^^
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-wrong-size-tall.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-wrong-size-tall-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-wrong-size-tall.jpg'"/>
 
-**Problem:** The logo on the left is too tall and reaches into the gutter. The logo on the right is too short and doesn't touch the gutter.
+**Problem:** The logo on the top is too tall (310px) and reaches into the gutter. The logo on the bottom is too short (276px) and doesn’t touch the gutter.
 
-**Fix:** In both cases the logo needs to be resized to be as large as possible without entering the gutter. (290px tall)
+**Fix:** In both cases the logo needs to be resized to 290px. (290px tall). __Note:__ Avoid blow-up the logo from a low-res, this degrades the quality and it will not pass moderation. 
 
+example of ^^horizontal logos^^
+<img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-wrong-size-tall.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-wrong-size-tall-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-wrong-size-tall.jpg'"/>
+
+**Problem:** The logo on the top is too wide (800px) and reaches into the gutter. The logo on the bottom is too short (694px) and doesn’t touch the gutter.
+
+**Fix:** In both cases the logo needs to be resized to 780px. (780px wide). __Note:__ Avoid blow-up the logo from a low-res, this degrades the quality and it will not pass moderation. 
 Hover image below to watch an animated explanation.
 
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/hdlogo-sizing-animation.jpg" onmouseover="this.src='../../../assets/images/why-denied/hdlogo-sizing-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/hdlogo-sizing-animation.jpg'"/>
@@ -70,6 +77,12 @@ Hover image below to watch an animated explanation.
         
 - [How To Correctly Size And Center Logos In Photoshop](https://fanart.tv/tutorials/correctly-size-center-logos-photoshop/){target= blank}
 - [How To Size And Center Hdlogos In Gimp](https://fanart.tv/tutorials/size-and-center-logos-in-gimp/){target= blank}
+
+**Templates:**
+
+- [Gimp HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_ClearLogo_Template_2021.xcf){target= blank}
+- [Photoshop HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_ClearLogo_Template_2022.psd){target= blank}
+- [PNG HD ClearLogo Template](src="../../../assets/images/why-denied/sizing-template-logo-№2.png"){target= blank}
 
 </div>
 <div id="denied-card" markdown>
