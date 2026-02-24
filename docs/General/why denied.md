@@ -60,6 +60,11 @@ example of ^^vertical logos^^
 example of ^^horizontal logos^^
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/logo-wrong-size-wide.jpg" onmouseover="this.src='../../../assets/images/why-denied/logo-wrong-size-wide-fixed.jpg'" onmouseout="this.src='../../../assets/images/why-denied/logo-wrong-size-wide.jpg'"/>
 
+<img-comparison-slider hover="hover">
+  <img slot="first" src="../../../assets/images/why-denied/logo-wrong-size-wide.jpg">
+  <img slot="second" src="../../../assets/images/why-denied/logo-wrong-size-wide-fixed.jpg">
+</img-comparison-slider>
+
 **Problem:** The logo on the top is too wide (800px) and reaches into the gutter. The logo on the bottom is too short (694px) and doesn’t touch the gutter.
 
 **Fix:** In both cases the logo needs to be resized to 780px. (780px wide). __Note:__ Avoid blow-up the logo from a low-res, this degrades the quality and it will not pass moderation. 
