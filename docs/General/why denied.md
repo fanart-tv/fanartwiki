@@ -82,7 +82,7 @@ Hover image below to watch an animated explanation.
 
 - [Gimp HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/ac20c4a2db755ce1fd00185d58eab744ba7be5c7/Gimp/Gimp_ClearLogo_Template_2021.xcf){target= blank}
 - [Photoshop HD ClearLogo Template](https://github.com/fanart-tv/templates/raw/main/Photoshop/Photoshop_ClearLogo_Template_2022.psd){target= blank}
-- [PNG HD ClearLogo Template](src="../../../assets/images/why-denied/sizing-template-logo-№2.png"){target= blank}
+- [PNG HD ClearLogo Template](https://wiki.fanart.tv/assets/images/sizing-template-logo-№2.png){target= blank}
 
 </div>
 <div id="denied-card" markdown>
