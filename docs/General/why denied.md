@@ -63,6 +63,7 @@ example of ^^horizontal logos^^
 **Problem:** The logo on the top is too wide (800px) and reaches into the gutter. The logo on the bottom is too short (694px) and doesn’t touch the gutter.
 
 **Fix:** In both cases the logo needs to be resized to 780px. (780px wide). __Note:__ Avoid blow-up the logo from a low-res, this degrades the quality and it will not pass moderation. 
+
 Hover image below to watch an animated explanation.
 
 <img id='denied-card-image' style="border-radius;.5em;" src="../../../assets/images/why-denied/hdlogo-sizing-animation.jpg" onmouseover="this.src='../../../assets/images/why-denied/hdlogo-sizing-animation.gif'" onmouseout="this.src='../../../assets/images/why-denied/hdlogo-sizing-animation.jpg'"/>
