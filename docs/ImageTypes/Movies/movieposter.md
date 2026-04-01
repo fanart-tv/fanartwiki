@@ -18,7 +18,7 @@
 * Language for Textless Posters needs to be set to None, no exceptions
 * Images should not have borders or frames unless it is true to the original
 * Do not submit Similar Images that includes different zoom levels or crop of the same image, and using in the same language logo combinations with the same images.
-* A limit of 10 posters per user. This can be any combination of text/textless but in a maximum of 2 languages. Textless is not counted as a language. Сhange: December 27, 2025
+* A limit of 10 posters per movie per user. This can be any combination of text/textless but in a maximum of 2 languages. Textless is not counted as a language. Сhange: December 27, 2025
  
 ---
 
