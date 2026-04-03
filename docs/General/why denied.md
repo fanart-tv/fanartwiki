@@ -12,7 +12,7 @@ Use this reference to help identify issues, and find resources to help fix them.
 
 | Logos                                                          | Cleararts                                                          | Posters                                                                          | CharacterArt                                              | Banner & Thumb                                            |
 | :--------------------------------------------------------------| :------------------------------------------------------------------| :------------------------------------------------------------------------------- | :---------------------------------------------------------| :---------------------------------------------------------|
-| [Jagged Edges](why denied.md#jagged-edges "")                  | [No Logo](why denied.md#no-logo "")                                | [Low Quality](why denied.md#low-quality "")                                      | [Not Fully Visible](why denied.md#not-fully-visible "")   | [Cropped Image](why denied.md#Cropped Image "")           |
+| [Jagged Edges](why denied.md#jagged-edges "")                  | [No Logo](why denied.md#no-logo "")                                | [Low Quality](why denied.md#low-quality "")                                      | [Not Fully Visible](why denied.md#not-fully-visible "")   | [Cropped Image](why denied.md#cropped-image "")           |
 | [Wrong Size](why denied.md#wrong-size "")                      | [Background Bleed Through](why denied.md#bleed-through "")         | [Incomplete Element Removal](why denied.md#incomplete-element-removal "")        |                                                           |                                                           |
 | [Not Visible](why denied.md#not-visible "")                    | [Tagline](why denied.md#tagline "")                                | [Non Permitted Text](why denied.md#non-permitted-text "")                        |                                                           |                                                           |
 | [Cropped Shadow/Glow](why denied.md#cropped-shadowglow "")     | [Cropped Shadow](why denied.md#cropped-shadow "")                  | [Compression Artifacts](why denied.md#compression-artifacts "")                  |                                                           |                                                           |
@@ -609,5 +609,6 @@ Hover image below to watch an animated explanation.
 - [TV Season Banner](../ImageTypes/TV/seasonbanner.md)
 
 </div>
-
+<div id="denied-card" markdown>
+    
 --8<-- "includes/abbreviations.md"
